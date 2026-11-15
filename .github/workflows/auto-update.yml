@@ -18,24 +18,21 @@ jobs:
 
       - name: 下载并解压上游 nightly 词库
         run: |
-          mkdir -p input_dicts tmp_extract/pro tmp_extract/zian
+          mkdir -p input_dicts tmp_extract/pro
 
-          # 1. 下载两个 release 压缩包（-f 让 HTTP 404 等错误直接失败）
+          # 1. 下载 release 压缩包（-f 让 HTTP 404 等错误直接失败）
           curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-tone.tar.bz2" \
             -o dicts-tone.tar.bz2
-          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-zian-tone.tar.bz2" \
-            -o dicts-zian-tone.tar.bz2
 
-          # 2. 分别解压到临时目录
+          # 2. 解压到临时目录
           tar -xjf dicts-tone.tar.bz2 -C tmp_extract/pro
-          tar -xjf dicts-zian-tone.tar.bz2 -C tmp_extract/zian
 
-          # 3. 展平：两个压缩包内的所有词库文件统一移入 input_dicts
+          # 3. 展平：压缩包内的所有词库文件统一移入 input_dicts
           find tmp_extract -type f \( -name "*.yaml" -o -name "*.yml" -o -name "*.txt" \) \
             -exec mv -v {} input_dicts/ \;
 
           # 4. 清理临时文件
-          rm -rf tmp_extract dicts-tone.tar.bz2 dicts-zian-tone.tar.bz2
+          rm -rf tmp_extract dicts-tone.tar.bz2
 
           echo "input_dicts 中共有 $(ls input_dicts | wc -l) 个词库文件待处理"
 
@@ -49,7 +46,7 @@ jobs:
           GIT_COMMITTER_NAME: ci-bot
           GIT_COMMITTER_EMAIL: ci-bot@example.com
         run: |
-          # 两个压缩包处理后的所有词库统一放入仓库的 dicts-pro/ 文件夹
+          # 压缩包处理后的所有词库统一放入仓库的 dicts-pro/ 文件夹
           mkdir -p dicts-pro
           cp -rf output_dicts/dicts-pro/* dicts-pro/
 
