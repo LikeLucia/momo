@@ -46,7 +46,8 @@ jobs:
           GIT_COMMITTER_NAME: ci-bot
           GIT_COMMITTER_EMAIL: ci-bot@example.com
         run: |
-          # 压缩包处理后的所有词库统一放入仓库的 dicts-pro/ 文件夹
+          # 用本次输出完整替换 dicts-pro/，避免保留旧词库源的文件
+          rm -rf dicts-pro
           mkdir -p dicts-pro
           cp -rf output_dicts/dicts-pro/* dicts-pro/
 
