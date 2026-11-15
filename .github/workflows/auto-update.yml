@@ -60,24 +60,52 @@ jobs:
             git push
           fi
 
-      - name: 更新 latest release
+      - name: 更新 core 和 extra release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           SHA=$(git rev-parse HEAD)
-          TAG="latest"
-          ASSET="dicts-pro.zip"
           NOTES="自动更新自 amzxyz/rime-wanxiang-data dict-nightly。提交：${SHA}。运行时间：$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          CORE_FILES="cuoyin.pro.dict.yaml diming.pro.dict.yaml duoyin.pro.dict.yaml jichu.pro.dict.yaml mingren.pro.dict.yaml zi.pro.dict.yaml"
 
-          zip -r "$ASSET" dicts-pro
+          rm -rf release
+          mkdir -p release/core release/extra
 
-          if gh release view "$TAG" >/dev/null 2>&1; then
-            gh release upload "$TAG" "$ASSET" --clobber
-            gh release edit "$TAG" --title "词库最新版" --notes "$NOTES" --latest
+          for file in $CORE_FILES; do
+            cp "dicts-pro/$file" release/core/
+          done
+
+          for file in dicts-pro/*; do
+            base=$(basename "$file")
+            case " $CORE_FILES " in
+              *" $base "*) ;;
+              *) cp "$file" release/extra/ ;;
+            esac
+          done
+
+          zip -j release/core-dicts.zip release/core/*
+          zip -j release/extra-dicts.zip release/extra/*
+
+          EXTRA_NOTES="词库扩展包（除核心包以外的词库）。${NOTES}"
+          CORE_NOTES="词库核心包（cuoyin、diming、duoyin、jichu、mingren、zi）。${NOTES}"
+
+          if gh release view extra-latest >/dev/null 2>&1; then
+            gh release upload extra-latest release/extra-dicts.zip --clobber
+            gh release edit extra-latest --title "词库扩展包" --notes "$EXTRA_NOTES"
           else
-            gh release create "$TAG" "$ASSET" \
+            gh release create extra-latest release/extra-dicts.zip \
               --target "$SHA" \
-              --title "词库最新版" \
-              --notes "$NOTES" \
+              --title "词库扩展包" \
+              --notes "$EXTRA_NOTES"
+          fi
+
+          if gh release view core-latest >/dev/null 2>&1; then
+            gh release upload core-latest release/core-dicts.zip --clobber
+            gh release edit core-latest --title "词库核心包" --notes "$CORE_NOTES" --latest
+          else
+            gh release create core-latest release/core-dicts.zip \
+              --target "$SHA" \
+              --title "词库核心包" \
+              --notes "$CORE_NOTES" \
               --latest
           fi
