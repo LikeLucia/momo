@@ -37,12 +37,15 @@ jobs:
           echo "input_dicts 中共有 $(ls input_dicts | wc -l) 个词库文件待处理"
 
       - name: 刷辅助码
+        env:
+          AUX_OUT_ROOT: ${{ runner.temp }}/aux-output
         run: python aux_go.py
 
       - name: 构建并更新词库 release
         env:
           GH_TOKEN: ${{ github.token }}
           LC_ALL: C
+          AUX_OUT_ROOT: ${{ runner.temp }}/aux-output
         run: |
           SHA=$(git rev-parse HEAD)
           NOTES="自动更新自 amzxyz/rime-wanxiang-data dict-nightly。提交：${SHA}。运行时间：$(date -u +%Y-%m-%dT%H:%M:%SZ)"
@@ -52,10 +55,10 @@ jobs:
           mkdir -p release/core release/extra
 
           for file in $CORE_FILES; do
-            cp "output_dicts/dicts-pro/$file" release/core/
+            cp "$AUX_OUT_ROOT/dicts-pro/$file" release/core/
           done
 
-          for file in output_dicts/dicts-pro/*; do
+          for file in "$AUX_OUT_ROOT"/dicts-pro/*; do
             base=$(basename "$file")
             case " $CORE_FILES " in
               *" $base "*) ;;
