@@ -16,23 +16,23 @@ jobs:
       - name: 拉取仓库代码
         uses: actions/checkout@v6
 
-      - name: 下载并解压上游 nightly 词库
+      - name: 下载并解压万象词库
         run: |
-          mkdir -p input_dicts tmp_extract/pro
+          mkdir -p input_dicts tmp_extract
 
-          # 1. 下载 release 压缩包（-f 让 HTTP 404 等错误直接失败）
-          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-tone.tar.bz2" \
-            -o dicts-tone.tar.bz2
+          # 1. 下载万象词库压缩包（-f 让 HTTP 404 等错误直接失败）
+          curl -fL "https://github.com/amzxyz/rime-wanxiang-data/releases/download/dict-nightly/dicts.zip" \
+            -o dicts.zip
 
-          # 2. 解压到临时目录
-          tar -xjf dicts-tone.tar.bz2 -C tmp_extract/pro
+          # 2. 解压到临时目录（压缩包内为 dicts/ 目录）
+          unzip -q dicts.zip -d tmp_extract
 
           # 3. 展平：压缩包内的所有词库文件统一移入 input_dicts
           find tmp_extract -type f \( -name "*.yaml" -o -name "*.yml" -o -name "*.txt" \) \
             -exec mv -v {} input_dicts/ \;
 
           # 4. 清理临时文件
-          rm -rf tmp_extract dicts-tone.tar.bz2
+          rm -rf tmp_extract dicts.zip
 
           echo "input_dicts 中共有 $(ls input_dicts | wc -l) 个词库文件待处理"
 
@@ -66,7 +66,7 @@ jobs:
           SHA=$(git rev-parse HEAD)
           TAG="latest"
           ASSET="dicts-pro.zip"
-          NOTES="自动更新自 Carlson24/rime-config nightly。提交：${SHA}。运行时间：$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          NOTES="自动更新自 amzxyz/rime-wanxiang-data dict-nightly。提交：${SHA}。运行时间：$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
           zip -r "$ASSET" dicts-pro
 
