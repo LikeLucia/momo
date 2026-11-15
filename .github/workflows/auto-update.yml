@@ -1,4 +1,4 @@
-name: 自动下载词典 → 运行脚本 → 提交结果
+name: 自动下载词典 → 运行脚本 → 发布词库
 
 on:
   schedule:
@@ -39,30 +39,10 @@ jobs:
       - name: 刷辅助码
         run: python aux_go.py
 
-      - name: 提交输出文件到仓库
-        env:
-          GIT_AUTHOR_NAME: ci-bot
-          GIT_AUTHOR_EMAIL: ci@example.com
-          GIT_COMMITTER_NAME: ci-bot
-          GIT_COMMITTER_EMAIL: ci-bot@example.com
-        run: |
-          # 用本次输出完整替换 dicts-pro/，避免保留旧词库源的文件
-          rm -rf dicts-pro
-          mkdir -p dicts-pro
-          cp -rf output_dicts/dicts-pro/* dicts-pro/
-
-          git add .
-          if git diff --staged --quiet; then
-            echo "☕ 上游词库完全一致，没有检测到任何新更新，跳过本次提交。"
-          else
-            echo "🚀 检测到词库更新，开始提交变动..."
-            git commit -m "自动更新处理后词库 [ci skip]"
-            git push
-          fi
-
-      - name: 更新 core 和 extra release
+      - name: 构建并更新词库 release
         env:
           GH_TOKEN: ${{ github.token }}
+          LC_ALL: C
         run: |
           SHA=$(git rev-parse HEAD)
           NOTES="自动更新自 amzxyz/rime-wanxiang-data dict-nightly。提交：${SHA}。运行时间：$(date -u +%Y-%m-%dT%H:%M:%SZ)"
@@ -72,10 +52,10 @@ jobs:
           mkdir -p release/core release/extra
 
           for file in $CORE_FILES; do
-            cp "dicts-pro/$file" release/core/
+            cp "output_dicts/dicts-pro/$file" release/core/
           done
 
-          for file in dicts-pro/*; do
+          for file in output_dicts/dicts-pro/*; do
             base=$(basename "$file")
             case " $CORE_FILES " in
               *" $base "*) ;;
@@ -83,29 +63,42 @@ jobs:
             esac
           done
 
-          zip -j release/core-dicts.zip release/core/*
-          zip -j release/extra-dicts.zip release/extra/*
+          # 固定时间戳并去掉额外属性，保证同样内容生成相同 zip
+          find release/core release/extra -type f -exec touch -t 198001010000 {} +
+          zip -X -j release/core-dicts.zip release/core/*
+          zip -X -j release/extra-dicts.zip release/extra/*
 
           EXTRA_NOTES="词库扩展包（除核心包以外的词库）。${NOTES}"
           CORE_NOTES="词库核心包（cuoyin、diming、duoyin、jichu、mingren、zi）。${NOTES}"
 
-          if gh release view extra-latest >/dev/null 2>&1; then
-            gh release upload extra-latest release/extra-dicts.zip --clobber
-            gh release edit extra-latest --title "词库扩展包" --notes "$EXTRA_NOTES"
-          else
-            gh release create extra-latest release/extra-dicts.zip \
-              --target "$SHA" \
-              --title "词库扩展包" \
-              --notes "$EXTRA_NOTES"
-          fi
+          update_release() {
+            tag="$1"
+            asset="$2"
+            title="$3"
+            notes="$4"
+            latest_flag="$5"
+            asset_name=$(basename "$asset")
 
-          if gh release view core-latest >/dev/null 2>&1; then
-            gh release upload core-latest release/core-dicts.zip --clobber
-            gh release edit core-latest --title "词库核心包" --notes "$CORE_NOTES" --latest
-          else
-            gh release create core-latest release/core-dicts.zip \
-              --target "$SHA" \
-              --title "词库核心包" \
-              --notes "$CORE_NOTES" \
-              --latest
-          fi
+            existing=$(gh api "repos/${GITHUB_REPOSITORY}/releases/tags/${tag}" \
+              --jq ".assets[] | select(.name==\"${asset_name}\") | .digest" 2>/dev/null || true)
+            new_digest="sha256:$(sha256sum "$asset" | awk '{print $1}')"
+
+            if [ "$existing" = "$new_digest" ]; then
+              echo "${tag}: ${asset_name} 未变化，跳过更新"
+              return 0
+            fi
+
+            if gh release view "$tag" >/dev/null 2>&1; then
+              gh release upload "$tag" "$asset" --clobber
+              gh release edit "$tag" --title "$title" --notes "$notes" $latest_flag
+            else
+              gh release create "$tag" "$asset" \
+                --target "$SHA" \
+                --title "$title" \
+                --notes "$notes" \
+                $latest_flag
+            fi
+          }
+
+          update_release extra-latest release/extra-dicts.zip "词库扩展包" "$EXTRA_NOTES" ""
+          update_release core-latest release/core-dicts.zip "词库核心包" "$CORE_NOTES" "--latest"
