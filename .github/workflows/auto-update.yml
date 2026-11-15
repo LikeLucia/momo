@@ -61,3 +61,25 @@ jobs:
             git commit -m "自动更新处理后词库 [ci skip]"
             git push
           fi
+
+      - name: 更新 latest release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          SHA=$(git rev-parse HEAD)
+          TAG="latest"
+          ASSET="dicts-pro.zip"
+          NOTES="自动更新自 Carlson24/rime-config nightly。提交：${SHA}。运行时间：$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+          zip -r "$ASSET" dicts-pro
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$ASSET" --clobber
+            gh release edit "$TAG" --title "词库最新版" --notes "$NOTES" --latest
+          else
+            gh release create "$TAG" "$ASSET" \
+              --target "$SHA" \
+              --title "词库最新版" \
+              --notes "$NOTES" \
+              --latest
+          fi
