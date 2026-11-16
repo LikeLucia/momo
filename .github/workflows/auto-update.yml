@@ -41,6 +41,27 @@ jobs:
           AUX_OUT_ROOT: ${{ runner.temp }}/aux-output
         run: python aux_go.py
 
+      - name: 提交处理后词库到仓库
+        env:
+          GIT_AUTHOR_NAME: ci-bot
+          GIT_AUTHOR_EMAIL: ci@example.com
+          GIT_COMMITTER_NAME: ci-bot
+          GIT_COMMITTER_EMAIL: ci-bot@example.com
+          AUX_OUT_ROOT: ${{ runner.temp }}/aux-output
+        run: |
+          rm -rf dict
+          mkdir -p dict
+          cp -rf "$AUX_OUT_ROOT"/dicts-pro/* dict/
+
+          git add -A dict
+          if git diff --staged --quiet; then
+            echo "☕ 处理后的词库完全一致，跳过本次提交。"
+          else
+            echo "🚀 检测到处理后词库更新，开始提交变动..."
+            git commit -m "自动更新处理后词库 [ci skip]"
+            git push
+          fi
+
       - name: 构建并更新词库 release
         env:
           GH_TOKEN: ${{ github.token }}
