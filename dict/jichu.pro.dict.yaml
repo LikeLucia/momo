@@ -3509,7 +3509,6 @@ sort: by_weight
 帮衬	bāng;fj chèn;pc	1002
 绑成	bǎng;se chéng;gv	94
 磅秤	bàng;uf chèng;hp	89
-磅秤	bàng;uf chèng;hp	46
 绑虫	bǎng;se chóng;vd	54
 膀臭	bǎng;of chòu;zq	76
 帮厨	bāng;fj chú;ic	198
@@ -4039,7 +4038,6 @@ sort: by_weight
 报件	bào;fy jiàn;rn	83
 包检	bāo;bs jiǎn;aq	53
 包煎	bāo;bs jiān;bh	52
-报检	bào;fy jiǎn;aq	46
 包浆	bāo;bs jiāng;lu	1215
 褒奖	bāo;ya jiǎng;ld	518
 爆浆	bào;hu jiāng;lu	364
@@ -4545,7 +4543,6 @@ sort: by_weight
 爆芽	bào;hu yá;cy	129
 爆压	bào;hu yā;id	73
 保压	bǎo;ra yā;id	55
-保压	bǎo;ra yā;id	32
 保研	bǎo;ra yán;uk	22369
 包烟	bāo;bs yān;hy	279
 报验	bào;fy yàn;mq	223
@@ -5520,7 +5517,6 @@ sort: by_weight
 被押	bèi;pp yā;fj	433
 北亚	běi;lb yà;ay	213
 背压	bèi;bo yā;id	94
-背压	bèi;bo yā;id	32
 被淹	bèi;pp yān;dd	515
 北燕	běi;lb yàn;ch	191
 杯沿	bēi;ab yán;dk	97
@@ -6011,7 +6007,6 @@ sort: by_weight
 蹦蹦	bèng;zo bèng;zo	236
 嘣嘣	bēng;ko bēng;ko	212
 崩边	bēng;uo biān;zl	69
-崩边	bēng;uo biān;zl	32
 蚌埠	bèng;if bù;tu	386
 绷布	bēng;so bù;uj	33
 泵车	bèng;uu chē;au	44
@@ -6067,7 +6062,6 @@ sort: by_weight
 崩了	bēng;uo le;al	5285
 崩裂	bēng;uo liè;dy	506
 迸裂	bèng;zk liè;dy	116
-崩裂	bēng;uo liè;dy	32
 崩漏	bēng;uo lòu;dy	63
 泵轮	bèng;uu lún;il	82
 崩落	bēng;uo luò;ck	132
@@ -7608,7 +7602,6 @@ sort: by_weight
 标点	biāo;au diǎn;vh	2383
 表店	biǎo;fy diàn;gv	806
 标定	biāo;au dìng;bz	2628
-标定	biāo;au dìng;bz	46
 标度	biāo;au dù;gy	742
 标段	biāo;au duàn;pu	122
 表二	biǎo;fy èr;aa	119
@@ -9119,7 +9112,6 @@ sort: by_weight
 博文	bó;uc wén;wx	2459
 波纹	bō;dp wén;sw	1171
 博闻	bó;uc wén;me	100
-波纹	bō;dp wén;sw	32
 薄雾	bó;cc wù;yl	593
 博物	bó;uc wù;nw	417
 铂系	bó;jb xì;px	482
@@ -9569,7 +9561,6 @@ sort: by_weight
 不够	bú;ab gòu;jx	102697
 不苟	bù;ab gǒu;cj	94
 补购	bǔ;pb gòu;bg	40
-不够	bú;ab gòu;jx	32
 不顾	bú;ab gù;iy	8980
 不固	bú;ab gù;wg	116
 布谷	bù;uj gǔ;bk	92
@@ -10634,7 +10625,6 @@ sort: by_weight
 补缀	bǔ;pb zhuì;sy	113
 不坠	bú;ab zhuì;et	90
 不准	bù;ab zhǔn;dv	12262
-不准	bù;ab zhǔn;dv	46
 捕捉	bǔ;ff zhuō;fz	8751
 步子	bù;vu zǐ;la	2066
 堡子	bǔ;rt zi;la	706
@@ -11210,7 +11200,6 @@ sort: by_weight
 菜苔	cài;ca tái;ck	9
 菜摊	cài;ca tān;fv	129
 才谈	cái;up tán;yh	116
-菜摊	cài;ca tān;fv	46
 菜汤	cài;ca tāng;dp	402
 彩塘	cǎi;vp táng;tk	326
 彩棠	cǎi;vp táng;xa	74
@@ -13062,7 +13051,6 @@ sort: by_weight
 拆货	chāi;fi huò;rb	64
 拆机	chāi;fi jī;aj	2101
 柴鸡	chái;va jī;yn	891
-拆机	chāi;fi jī;aj	46
 拆家	chāi;fi jiā;bu	371
 柴家	chái;va jiā;bu	334
 拆夹	chāi;fi jiā;ar	40
@@ -13079,7 +13067,6 @@ sort: by_weight
 拆卡	chāi;fi kǎ;ub	54
 拆开	chāi;fi kāi;ac	5420
 拆壳	chāi;fi ké;tj	48
-拆壳	chāi;fi ké;tj	46
 柴夔	chái;va kuí;bw	45
 豺狼	chái;vc láng;ql	509
 拆了	chāi;fi le;al	4864
@@ -13296,7 +13283,6 @@ sort: by_weight
 产女	chǎn;wi nǚ;va	850
 铲皮	chǎn;ji pí;py	69
 产品	chǎn;wi pǐn;kk	494462
-产品	chǎn;wi pǐn;kk	32
 铲平	chǎn;ji píng;au	204
 产婆	chǎn;wi pó;dn	66
 产期	chǎn;wi qī;co	104
@@ -14254,7 +14240,6 @@ sort: by_weight
 超差	chāo;tk chà;yg	148
 炒茶	chǎo;hu chá;cm	138
 潮差	cháo;do chā;yg	120
-超差	chāo;tk chà;yg	46
 超产	chāo;tk chǎn;wi	9
 超长	chāo;tk cháng;pn	2302
 超常	chāo;tk cháng;xj	1058
@@ -14753,7 +14738,6 @@ sort: by_weight
 吵杂	chǎo;ku zá;ja	62
 超载	chāo;tk zài;gi	1344
 抄在	chāo;fu zài;ut	750
-超载	chāo;tk zài;gi	46
 超赞	chāo;tk zàn;nb	1868
 超脏	chāo;tk zāng;ot	360
 炒灶	chǎo;hu zào;ht	92
@@ -15777,7 +15761,6 @@ sort: by_weight
 承诺	chéng;ln nuò;yk	23239
 成排	chéng;gv pái;ff	518
 程派	chéng;hw pài;dy	147
-秤盘	chèng;hp pán;vm	46
 秤盘	chèng;hp pán;vm	19
 城配	chéng;ti pèi;yj	91
 程鹏	chéng;hw péng;on	675
@@ -15884,7 +15867,6 @@ sort: by_weight
 承台	chéng;ln tái;sk	57
 城台	chéng;ti tái;sk	54
 诚泰	chéng;yi tài;iu	51
-秤台	chèng;hp tái;sk	46
 称叹	chēng;hx tàn;ky	31
 盛汤	chéng;im tāng;dp	119
 呈堂	chéng;kw táng;xt	113
@@ -15906,7 +15888,6 @@ sort: by_weight
 城投	chéng;ti tóu;fu	518
 称头	chēng;hx tóu;dd	414
 撑头	chēng;fu tóu;dd	331
-撑头	chēng;fu tóu;dd	32
 成图	chéng;gv tú;wd	1359
 成团	chéng;gv tuán;wc	1648
 秤砣	chèng;hp tuó;ub	995
@@ -16081,7 +16062,6 @@ sort: by_weight
 承重	chéng;ln zhòng;ql	2081
 城中	chéng;ti zhōng;kl	1359
 澄衷	chéng;db zhōng;yv	512
-称重	chēng;hx zhòng;ql	46
 秤重	chèng;hp zhòng;ql	34
 盛粥	chéng;im zhōu;gm	945
 乘舟	chéng;qr zhōu;pd	898
@@ -18590,7 +18570,6 @@ sort: by_weight
 穿入	chuān;by rù;pn	204
 串扫	chuàn;kl sǎo;fe	91
 串色	chuàn;kl sè;db	43
-串色	chuàn;kl sè;db	32
 穿啥	chuān;by shá;kg	305
 川沙	chuān;pl shā;du	157
 穿山	chuān;by shān;kl	195
@@ -20721,7 +20700,6 @@ sort: by_weight
 脆化	cuì;ov huà;rb	157
 催花	cuī;rv huā;cb	125
 萃华	cuì;cu huá;ru	100
-脆化	cuì;ov huà;rb	32
 催还	cuī;rv huán;zb	22
 摧毁	cuī;fv huǐ;ju	9527
 催婚	cuī;rv hūn;no	440
@@ -24134,7 +24112,6 @@ sort: by_weight
 当口	dāng;xe kou;la	992
 荡寇	dàng;cp kòu;by	359
 荡口	dàng;cp kǒu;la	295
-档口	dàng;ae kǒu;la	46
 挡块	dǎng;fe kuài;tg	40
 裆宽	dāng;pe kuān;bj	30
 党魁	dǎng;xx kuí;gd	188
@@ -24581,7 +24558,6 @@ sort: by_weight
 道口	dào;zz kǒu;la	307
 到口	dào;gd kǒu;la	263
 盗寇	dào;dm kòu;by	210
-倒扣	dào;rd kòu;fk	32
 倒库	dào;rd kù;gi	892
 到款	dào;gd kuǎn;tq	940
 道宽	dào;zz kuān;bj	790
@@ -24951,7 +24927,6 @@ sort: by_weight
 岛主	dǎo;nu zhǔ;wt	512
 祷祝	dǎo;pc zhù;px	461
 导柱	dǎo;sc zhù;av	412
-导柱	dǎo;sc zhù;av	32
 倒转	dào;rd zhuǎn;iv	923
 盗转	dào;dm zhuǎn;iv	100
 倒装	dào;rd zhuāng;ly	710
@@ -26895,7 +26870,6 @@ sort: by_weight
 殿前	diàn;uu qián;bd	285
 店前	diàn;gv qián;bd	228
 电枪	diàn;ov qiāng;av	69
-电桥	diàn;ov qiáo;al	46
 电桥	diàn;ov qiáo;al	38
 颠茄	diān;uy qié;ck	585
 店庆	diàn;gv qìng;gd	201
@@ -27186,7 +27160,6 @@ sort: by_weight
 调车	diào;yk chē;au	489
 掉秤	diào;fu chèng;hp	342
 雕成	diāo;kv chéng;gv	106
-吊秤	diào;kj chèng;hp	46
 调秤	diào;yk chèng;hp	46
 吊秤	diào;kj chèng;hp	32
 雕虫	diāo;kv chóng;vd	711
@@ -27312,7 +27285,6 @@ sort: by_weight
 掉级	diào;fu jí;sj	462
 吊祭	diào;kj jì;xu	274
 掉机	diào;fu jī;aj	38
-调机	diào;yk jī;aj	32
 掉价	diào;fu jià;rj	980
 吊架	diào;kj jià;la	594
 掉甲	diào;fu jiǎ;ol	74
@@ -27387,7 +27359,6 @@ sort: by_weight
 调零	diào;yk líng;ys	170
 雕翎	diāo;kv líng;rx	136
 钓灵	diào;ju líng;eh	54
-调零	diào;yk líng;ys	46
 吊龙	diào;kj lóng;yp	914
 雕龙	diāo;kv lóng;yp	868
 碉楼	diāo;uk lóu;an	317
@@ -27437,7 +27408,6 @@ sort: by_weight
 掉频	diào;fu pín;vy	64
 吊瓶	diào;kj píng;bw	374
 调平	diào;yk píng;au	355
-调平	diào;yk píng;au	46
 掉漆	diào;fu qī;du	754
 吊起	diào;kj qǐ;tj	449
 掉期	diào;fu qī;co	342
@@ -27789,7 +27759,6 @@ sort: by_weight
 丁胺	dīng;al àn;on	108
 顶吧	dǐng;dy ba;kb	73
 顶白	dǐng;dy bái;po	54
-顶白	dǐng;dy bái;po	32
 顶板	dǐng;dy bǎn;ay	254
 定版	dìng;bz bǎn;py	138
 钉板	dīng;jd bǎn;ay	106
@@ -27836,7 +27805,6 @@ sort: by_weight
 顶出	dǐng;dy chū;uu	1548
 定出	dìng;bz chū;uu	1471
 订出	dìng;yd chū;uu	1393
-顶出	dǐng;dy chū;uu	32
 订船	dìng;yd chuán;vk	64
 顶穿	dǐng;dy chuān;by	32
 定喘	dìng;bz chuǎn;ke	19
@@ -27919,7 +27887,6 @@ sort: by_weight
 顶高	dǐng;dy gāo;wk	968
 顶镐	dǐng;dy gǎo;jk	82
 定高	dìng;bz gāo;wk	38
-顶高	dǐng;dy gāo;wk	32
 定个	dìng;bz gè;rl	1721
 定格	dìng;bz gé;ak	1268
 订个	dìng;yd gè;rl	854
@@ -28094,7 +28061,6 @@ sort: by_weight
 定评	dìng;bz píng;yp	1009
 顶平	dǐng;dy píng;au	161
 顶破	dǐng;dy pò;up	103
-顶破	dǐng;dy pò;up	32
 定期	dìng;bz qī;co	20485
 顶起	dǐng;dy qǐ;tj	351
 定气	dìng;bz qì;pv	280
@@ -28278,7 +28244,6 @@ sort: by_weight
 顶针	dǐng;dy zhēn;ju	109
 顶真	dǐng;dy zhēn;ub	87
 定帧	dìng;bz zhēn;jb	50
-顶针	dǐng;dy zhēn;ju	32
 订正	dìng;yd zhèng;av	1959
 定制	dìng;bz zhì;nd	25399
 订制	dìng;yd zhì;nd	1036
@@ -29739,7 +29704,6 @@ sort: by_weight
 堵了	dǔ;to le;al	116
 渡了	dù;dy le;al	92
 独乐	dú;qi lè;px	73
-堵了	dǔ;to le;al	32
 独立	dú;qi lì;wb	92674
 肚里	dù;ot lǐ;tt	687
 独力	dú;qi lì;vp	351
@@ -29885,7 +29849,6 @@ sort: by_weight
 赌术	dǔ;bo shù;ad	75
 独属	dú;qi shǔ;uy	60
 赌书	dǔ;bo shū;vd	48
-读数	dú;yd shù;mw	46
 督署	dū;uo shǔ;so	38
 读熟	dú;yd shú;wh	30
 杜叔	dù;at shū;uy	24
@@ -33061,7 +33024,6 @@ sort: by_weight
 砝码	fǎ;uq mǎ;um	851
 发嘛	fā;fy ma;ka	312
 法码	fǎ;dq mǎ;um	125
-砝码	fǎ;uq mǎ;um	46
 发卖	fā;fy mài;ud	819
 法脉	fǎ;dq mài;oy	540
 法盲	fǎ;dq máng;wo	813
@@ -34200,7 +34162,6 @@ sort: by_weight
 方策	fāng;wv cè;vu	47
 方差	fāng;wv chā;yg	3614
 访查	fǎng;yf chá;ad	670
-防拆	fáng;ef chāi;fi	46
 防拆	fáng;ef chāi;fi	32
 房产	fáng;hf chǎn;wi	11153
 房颤	fáng;hf chàn;wy	301
@@ -34935,7 +34896,6 @@ sort: by_weight
 费边	fèi;fb biān;zl	99
 飞遍	fēi;vd biàn;zc	94
 飞边	fēi;vd biān;zl	86
-飞边	fēi;vd biān;zl	32
 非标	fēi;ls biāo;au	1504
 飞镖	fēi;vd biāo;ju	923
 废标	fèi;gy biāo;au	135
@@ -35816,7 +35776,6 @@ sort: by_weight
 分量	fèn;bd liàng;ol	12943
 份量	fèn;rf liàng;ol	12296
 粉量	fěn;mf liàng;ol	743
-分量	fèn;bd liàng;ol	46
 粉料	fěn;mf liào;md	35
 分裂	fēn;bd liè;dy	15260
 分列	fēn;bd liè;dd	671
@@ -36567,7 +36526,6 @@ sort: by_weight
 凤栖	fèng;jy qī;ax	81
 凤起	fèng;jy qǐ;tj	64
 逢七	féng;zf qī;av	39
-封签	fēng;tc qiān;vq	46
 封签	fēng;tc qiān;vq	28
 俸钱	fèng;rf qián;jj	27
 峰前	fēng;uf qián;bd	25
@@ -36834,7 +36792,6 @@ sort: by_weight
 风吟	fēng;jx yín;kv	936
 风音	fēng;jx yīn;lo	811
 俸银	fèng;rf yín;jg	512
-封印	fēng;tc yìn;pe	46
 丰盈	fēng;sl yíng;nm	920
 逢迎	féng;zf yíng;ze	496
 风影	fēng;jx yǐng;op	477
@@ -37136,8 +37093,6 @@ sort: by_weight
 复称	fù;pw chēng;hx	77
 涪城	fú;dk chéng;ti	68
 浮城	fú;dz chéng;ti	54
-复秤	fù;pw chèng;hp	46
-复称	fù;pw chēng;hx	46
 辅成	fǔ;if chéng;gv	43
 附城	fù;ec chéng;ti	34
 扶持	fú;ff chí;fc	8393
@@ -38738,7 +38693,6 @@ sort: by_weight
 改名	gǎi;jw míng;xk	6990
 该名	gāi;yr míng;xk	480
 改命	gǎi;jw mìng;re	420
-改模	gǎi;jw mó;ad	32
 盖膜	gài;ym mó;od	19
 改模	gǎi;jw mó;ad	18
 盖墓	gài;ym mù;ct	39
@@ -39070,7 +39024,6 @@ sort: by_weight
 干城	gān;au chéng;ti	88
 甘城	gān;ca chéng;ti	70
 柑橙	gān;ag chéng;ab	56
-杆秤	gǎn;ag chèng;hp	46
 敢吃	gǎn;ew chī;kv	330
 干吃	gān;au chī;kv	282
 感触	gǎn;gx chù;di	5699
@@ -42267,7 +42220,6 @@ sort: by_weight
 公模	gōng;bs mó;ad	846
 巩膜	gǒng;gf mó;od	229
 共模	gòng;cb mó;ad	183
-公模	gōng;bs mó;ad	32
 龚某	gōng;lg mǒu;ga	990
 共谋	gòng;cb móu;ya	940
 公募	gōng;bs mù;cl	5938
@@ -43769,7 +43721,6 @@ sort: by_weight
 固位	gù;wg wèi;rl	94
 故为	gù;gw wéi;ld	75
 骨位	gǔ;go wèi;rl	60
-骨位	gǔ;go wèi;rl	32
 顾问	gù;iy wèn;mk	8437
 古文	gǔ;uk wén;wx	5997
 菇蚊	gū;cg wén;iw	28
@@ -45470,7 +45421,6 @@ sort: by_weight
 桂城	guì;at chéng;ti	128
 归程	guī;le chéng;hw	102
 龟城	guī;dd chéng;ti	74
-鬼秤	guǐ;ps chèng;hp	46
 贵池	guì;vb chí;dy	31
 鬼齿	guǐ;ps chǐ;vr	10
 癸丑	guǐ;bt chǒu;vt	154
@@ -45674,7 +45624,6 @@ sort: by_weight
 龟龄	guī;dd líng;vs	563
 桂陵	guì;at líng;ew	436
 桂岭	guì;at lǐng;us	354
-归零	guī;le líng;ys	46
 桂柳	guì;at liǔ;ae	702
 归流	guī;le liú;di	532
 贵咯	guì;vb lo;kk	778
@@ -46132,7 +46081,6 @@ sort: by_weight
 过秤	guò;zc chèng;hp	747
 过称	guò;zc chēng;hx	672
 果城	guǒ;ta chéng;ti	548
-过秤	guò;zc chèng;hp	46
 过迟	guò;zc chí;zi	270
 国耻	guó;wy chǐ;ev	256
 果翅	guǒ;ta chì;vx	62
@@ -46770,7 +46718,6 @@ sort: by_weight
 过载	guò;zc zài;gi	2032
 裹在	guǒ;yg zài;ut	668
 锅仔	guō;jn zǎi;rz	534
-过载	guò;zc zài;gi	46
 过赞	guò;zc zàn;nb	900
 国葬	guó;wy zàng;cc	113
 过早	guò;zc zǎo;ou	4453
@@ -49344,7 +49291,6 @@ sort: by_weight
 鹤鸣	hè;bn míng;kn	104
 河名	hé;dk míng;xk	83
 核膜	hé;ar mó;od	104
-合模	hé;rk mó;ad	32
 合模	hé;rk mó;ad	28
 何某	hé;rk mǒu;ga	970
 合谋	hé;rk móu;ya	97
@@ -49941,7 +49887,6 @@ sort: by_weight
 黑屁	hēi;lh pì;ub	441
 黑漂	hēi;lh piāo;du	54
 黑屏	hēi;lh píng;uk	1806
-黑屏	hēi;lh píng;uk	46
 黑棋	hēi;lh qí;ab	4135
 黑旗	hēi;lh qí;fb	624
 黑气	hēi;lh qì;pv	401
@@ -49985,7 +49930,6 @@ sort: by_weight
 黑书	hēi;lh shū;vd	137
 黑水	hēi;lh shuǐ;ln	1796
 黑丝	hēi;lh sī;sa	772
-黑丝	hēi;lh sī;sa	32
 黑松	hēi;lh sōng;ag	38
 黑素	hēi;lh sù;fx	1102
 黑他	hēi;lh tā;ry	1116
@@ -50634,7 +50578,6 @@ sort: by_weight
 横坡	héng;ab pō;tp	414
 哼起	hēng;kl qǐ;tj	94
 衡器	héng;rd qì;xx	89
-衡器	héng;rd qì;xx	46
 恒强	héng;xd qiáng;gi	783
 横桥	héng;ab qiáo;al	63
 横切	héng;ab qiē;qd	436
@@ -51786,7 +51729,7 @@ sort: by_weight
 厚望	hòu;iz wàng;ww	958
 猴王	hóu;qu wáng;at	524
 后王	hòu;ik wáng;at	419
-侯王	hòu;ru wáng;at	335
+侯王	hóu;ru wáng;at	335
 后卫	hòu;ik wèi;ea	13241
 后为	hòu;ik wèi;ld	2022
 后位	hòu;ik wèi;rl	1111
@@ -52992,7 +52935,6 @@ sort: by_weight
 滑口	huá;do kǒu;la	574
 滑扣	huá;do kòu;fk	48
 滑块	huá;do kuài;tg	1140
-滑块	huá;do kuài;tg	32
 划款	huà;gd kuǎn;tq	132
 画框	huà;at kuàng;aw	1168
 花魁	huā;cb kuí;gd	518
@@ -53159,7 +53101,6 @@ sort: by_weight
 花屏	huā;cb píng;uk	260
 滑屏	huá;do píng;uk	97
 画屏	huà;at píng;uk	61
-花屏	huā;cb píng;uk	46
 花坪	huā;cb píng;tp	38
 画平	huà;at píng;au	33
 滑坡	huá;do pō;tp	1696
@@ -53697,7 +53638,6 @@ sort: by_weight
 怀来	huái;xb lái;aa	138
 坏了	huài;tb le;al	18090
 怀了	huái;xb le;al	609
-坏了	huài;tb le;al	46
 怀里	huái;xb lǐ;tt	4930
 槐里	huái;ag lǐ;tt	504
 怀恋	huái;xb liàn;wx	528
@@ -53918,7 +53858,6 @@ sort: by_weight
 环管	huán;wb guǎn;vl	82
 换管	huàn;fr guǎn;vl	37
 环规	huán;wb guī;fj	73
-环规	huán;wb guī;fj	32
 换轨	huàn;fr guǐ;ij	31
 换过	huàn;fr guò;zc	2895
 患过	huàn;ix guò;zc	2750
@@ -54071,7 +54010,6 @@ sort: by_weight
 换膜	huàn;fr mó;od	83
 幻魔	huàn;yv mó;gg	47
 换墨	huàn;fr mò;lt	36
-换模	huàn;fr mó;ad	32
 环幕	huán;wb mù;cj	495
 患难	huàn;ix nàn;yv	342
 欢闹	huān;yq nào;mj	53
@@ -54132,7 +54070,6 @@ sort: by_weight
 缓入	huǎn;sy rù;pn	50
 涣散	huàn;dr sàn;cw	820
 换色	huàn;fr sè;db	248
-换色	huàn;fr sè;db	32
 换啥	huàn;fr shá;kg	138
 浣纱	huàn;dy shā;su	131
 换砂	huàn;fr shā;uu	118
@@ -54952,7 +54889,6 @@ sort: by_weight
 回冲	huí;wk chōng;dv	366
 回充	huí;wk chōng;wy	329
 回抽	huí;wk chōu;fy	257
-回抽	huí;wk chōu;fy	32
 会出	huì;ry chū;uu	3049
 汇出	huì;dk chū;uu	543
 绘出	huì;sy chū;uu	367
@@ -55852,7 +55788,6 @@ sort: by_weight
 绘者	huì;sy zhě;lo	390
 会诊	huì;ry zhěn;yp	1806
 回针	huí;wk zhēn;ju	43
-回针	huí;wk zhēn;ju	32
 汇整	huì;dk zhěng;uv	1575
 回正	huí;wk zhèng;av	1496
 惠政	huì;ix zhèng;vw	931
@@ -56009,7 +55944,6 @@ sort: by_weight
 混联	hùn;db lián;et	307
 混炼	hùn;db liàn;hd	245
 混料	hùn;db liào;md	32
-混料	hùn;db liào;md	32
 婚龄	hūn;no líng;vs	367
 魂灵	hún;yg líng;eh	97
 混龄	hùn;db líng;vs	77
@@ -56057,7 +55991,6 @@ sort: by_weight
 浑如	hún;di rú;nk	562
 婚丧	hūn;no sàng;ty	75
 混色	hùn;db sè;db	703
-混色	hùn;db sè;db	32
 婚纱	hūn;no shā;su	1752
 婚扇	hūn;no shàn;hx	103
 混上	hùn;db shàng;ba	581
@@ -57547,7 +57480,6 @@ sort: by_weight
 脊梁	jǐ;ro liáng;da	216
 吉良	jí;tk liáng;dg	205
 极量	jí;aj liàng;ol	89
-计量	jì;yu liàng;ol	46
 寂寥	jì;by liáo;bp	1265
 基料	jī;ct liào;md	562
 集料	jí;ra liào;md	504
@@ -59358,7 +59290,6 @@ sort: by_weight
 假钱	jiǎ;ry qián;jj	128
 夹钳	jiā;ar qián;jg	102
 夹铅	jiā;ar qiān;jk	100
-价签	jià;rj qiān;vq	46
 加强	jiā;lk qiáng;gi	36170
 架枪	jià;la qiāng;av	526
 夹墙	jiā;ar qiáng;tk	395
@@ -59606,7 +59537,6 @@ sort: by_weight
 甲仙	jiǎ;ol xiān;ru	132
 夹馅	jiā;ar xiàn;uj	119
 夹线	jiā;ar xiàn;sj	81
-夹线	jiā;ar xiàn;sj	32
 家乡	jiā;bu xiāng;vp	10607
 假象	jiǎ;ry xiàng;du	5202
 假想	jiǎ;ry xiǎng;ax	3306
@@ -59759,7 +59689,6 @@ sort: by_weight
 加在	jiā;lk zài;ut	2728
 夹在	jiā;ar zài;ut	1648
 架在	jià;la zài;ut	1149
-加载	jiā;lk zài;gi	46
 假造	jiǎ;ry zào;zk	148
 加噪	jiā;lk zào;ka	135
 甲藻	jiǎ;ol zǎo;ca	133
@@ -60088,7 +60017,6 @@ sort: by_weight
 见顶	jiàn;ke dǐng;dy	1281
 检定	jiǎn;aq dìng;bz	574
 尖顶	jiān;xd dǐng;dy	298
-检定	jiǎn;aq dìng;bz	46
 建东	jiàn;zy dōng;ax	107
 尖东	jiān;xd dōng;ax	102
 剑斗	jiàn;qd dòu;ud	138
@@ -60359,7 +60287,6 @@ sort: by_weight
 检具	jiǎn;aq jù;qb	123
 键矩	jiàn;jy jǔ;uj	38
 监局	jiān;lm jú;uk	35
-检具	jiǎn;aq jù;qb	32
 肩距	jiān;ho jù;zj	30
 坚决	jiān;lt jué;dg	5884
 渐觉	jiàn;dt jué;xj	842
@@ -62063,7 +61990,6 @@ sort: by_weight
 胶河	jiāo;of hé;dk	139
 焦黑	jiāo;rh hēi;lh	399
 胶痕	jiāo;of hén;bg	40
-焦痕	jiāo;rh hén;bg	32
 焦痕	jiāo;rh hén;bg	31
 骄横	jiāo;ml hèng;ab	261
 娇红	jiāo;nl hóng;sg	25
@@ -62199,8 +62125,6 @@ sort: by_weight
 交口	jiāo;wf kǒu;la	84
 脚口	jiǎo;oe kǒu;la	43
 胶口	jiāo;of kǒu;la	36
-浇口	jiāo;dw kǒu;la	32
-胶口	jiāo;of kǒu;la	32
 叫苦	jiào;kj kǔ;cg	308
 焦枯	jiāo;rh kū;ag	277
 较快	jiào;if kuài;xg	3237
@@ -62676,7 +62600,6 @@ sort: by_weight
 交验	jiāo;wf yàn;mq	117
 礁岩	jiāo;uh yán;uu	93
 角岩	jiǎo;dy yán;uu	74
-校验	jiào;af yàn;mq	46
 姣艳	jiāo;nf yàn;fb	36
 教养	jiào;lw yǎng;yl	1893
 骄阳	jiāo;ml yáng;eo	354
@@ -62801,7 +62724,6 @@ sort: by_weight
 角状	jiǎo;dy zhuàng;lq	125
 角锥	jiǎo;dy zhuī;jv	47
 校准	jiào;af zhǔn;dv	3790
-校准	jiào;af zhǔn;dv	46
 胶着	jiāo;of zhuó;yo	1721
 焦灼	jiāo;rh zhuó;hu	728
 脚镯	jiǎo;oe zhuó;ji	399
@@ -65390,7 +65312,6 @@ sort: by_weight
 警督	jǐng;ck dū;uo	541
 竞渡	jìng;lx dù;dy	432
 静读	jìng;fy dú;yd	150
-精度	jīng;mo dù;gy	46
 精短	jīng;mo duǎn;ub	69
 精锻	jīng;mo duàn;ju	64
 警队	jǐng;ck duì;er	1030
@@ -66326,7 +66247,6 @@ sort: by_weight
 静中	jìng;fy zhōng;kl	92
 精忠	jīng;mo zhōng;vx	73
 晶种	jīng;oo zhǒng;hv	58
-净重	jìng;dy zhòng;ql	46
 荆州	jīng;cd zhōu;dl	8073
 靖州	jìng;lo zhōu;dl	1080
 景州	jǐng;ox zhōu;dl	773
@@ -67480,7 +67400,6 @@ sort: by_weight
 巨峰	jù;kk fēng;uf	69
 聚砜	jù;eu fēng;uf	55
 锯缝	jù;jg fèng;sf	40
-聚砜	jù;eu fēng;uf	32
 聚锋	jù;eu fēng;jf	29
 拒否	jù;fj fǒu;bk	72
 巨幅	jù;kk fú;jt	951
@@ -68520,7 +68439,6 @@ sort: by_weight
 军列	jūn;bi liè;dd	150
 均列	jūn;ty liè;dd	120
 均裂	jūn;ty liè;dy	96
-龟裂	jūn;dd liè;dy	32
 君临	jūn;yk lín;lk	1413
 军令	jūn;bi lìng;rs	553
 军龄	jūn;bi líng;vs	100
@@ -69210,7 +69128,6 @@ sort: by_weight
 凯明	kǎi;uj míng;oo	558
 楷模	kǎi;ab mó;ad	1479
 开模	kāi;ac mó;ad	850
-开模	kāi;ac mó;ad	32
 开幕	kāi;ac mù;cj	1250
 凯尼	kǎi;uj ní;ub	104
 开年	kāi;ac nián;pf	706
@@ -69888,7 +69805,6 @@ sort: by_weight
 炕上	kàng;hj shàng;ba	609
 扛上	káng;fg shàng;ba	144
 抗上	kàng;fj shàng;ba	115
-抗折	kàng;fj shé;ft	536
 康盛	kāng;gl shèng;im	1566
 抗生	kàng;fj shēng;pf	1258
 亢盛	kàng;wj shèng;im	293
@@ -69949,6 +69865,7 @@ sort: by_weight
 扛造	káng;fg zào;zk	62
 抗战	kàng;fj zhàn;vg	2817
 扛着	káng;fg zhe;yo	3978
+抗折	kàng;fj zhé;ft	536
 抗震	kàng;fj zhèn;yi	628
 康震	kāng;gl zhèn;yi	565
 糠疹	kāng;ml zhěn;bp	508
@@ -70995,7 +70912,6 @@ sort: by_weight
 课中	kè;yg zhōng;kl	811
 克重	kè;ux zhòng;ql	769
 客中	kè;bk zhōng;kl	692
-克重	kè;ux zhòng;ql	46
 客舟	kè;bk zhōu;pd	1314
 克州	kè;ux zhōu;dl	1248
 可住	kě;dk zhù;rv	170
@@ -71711,7 +71627,6 @@ sort: by_weight
 扣腕	kòu;fk wàn;ov	20
 口味	kǒu;la wèi;kw	33896
 扣位	kòu;fk wèi;rl	43
-扣位	kòu;fk wèi;rl	32
 口吻	kǒu;la wěn;kw	3388
 叩问	kòu;ke wèn;mk	326
 口误	kǒu;la wù;yt	650
@@ -73121,7 +73036,6 @@ sort: by_weight
 拉吧	lā;fl ba;kb	819
 拉拔	lā;fl bá;fy	532
 拉白	lā;fl bái;po	54
-拉白	lā;fl bái;po	32
 辣拌	là;xu bàn;fb	882
 拉班	lā;fl bān;wl	838
 拉板	lā;fl bǎn;ay	37
@@ -73211,7 +73125,6 @@ sort: by_weight
 拉弓	lā;fl gōng;vv	848
 拉勾	lā;fl gōu;bs	917
 拉钩	lā;fl gōu;jg	549
-拉钩	lā;fl gōu;jg	32
 蝲蛄	là;id gū;ig	57
 拉呱	lā;fl guǎ;kg	536
 拉怪	lā;fl guài;xt	747
@@ -73299,7 +73212,6 @@ sort: by_weight
 拉马	lā;fl mǎ;va	248
 拉满	lā;fl mǎn;dl	4584
 拉毛	lā;fl máo;pv	729
-拉毛	lā;fl máo;pv	32
 辣么	là;xu me;ps	1488
 辣妹	là;xu mèi;nw	2688
 拉美	lā;fl měi;yd	499
@@ -73382,7 +73294,6 @@ sort: by_weight
 拉顺	lā;fl shùn;iy	67
 拉丝	lā;fl sī;sa	1542
 辣死	là;xu sǐ;db	806
-拉丝	lā;fl sī;sa	32
 辣松	là;xu sōng;ag	945
 蜡酸	là;io suān;yw	270
 腊笋	là;oo sǔn;vy	490
@@ -77416,7 +77327,6 @@ sort: by_weight
 梁板	liáng;da bǎn;ay	95
 两办	liǎng;ar bàn;lb	76
 亮斑	liàng;wj bān;ww	60
-亮斑	liàng;wj bān;ww	32
 两磅	liǎng;ar bàng;uf	648
 两帮	liǎng;ar bāng;fj	616
 两包	liǎng;ar bāo;bs	804
@@ -77486,7 +77396,6 @@ sort: by_weight
 量程	liáng;ol chéng;hw	370
 两城	liǎng;ar chéng;ti	257
 凉城	liáng;dx chéng;ti	205
-量程	liáng;ol chéng;hw	46
 两吃	liǎng;ar chī;kv	1022
 两尺	liǎng;ar chǐ;un	971
 量尺	liáng;ol chǐ;un	920
@@ -77644,7 +77553,6 @@ sort: by_weight
 两冠	liǎng;ar guān;bc	121
 亮光	liàng;wj guāng;xe	1504
 两广	liǎng;ar guǎng;di	850
-量规	liáng;ol guī;fj	32
 量规	liáng;ol guī;fj	31
 两国	liǎng;ar guó;wy	6858
 两锅	liǎng;ar guō;jn	345
@@ -78083,7 +77991,6 @@ sort: by_weight
 两舷	liǎng;ar xián;vx	71
 两险	liǎng;ar xiǎn;eq	56
 量限	liàng;ol xiàn;eg	47
-亮线	liàng;wj xiàn;sj	32
 亮相	liàng;wj xiàng;ao	4556
 两项	liǎng;ar xiàng;gy	2810
 两箱	liǎng;ar xiāng;vo	891
@@ -78315,7 +78222,6 @@ sort: by_weight
 聊好	liáo;ee hǎo;nz	756
 料号	liào;md hào;kk	718
 料耗	liào;md hào;lm	43
-料号	liào;md hào;kk	32
 辽河	liáo;zl hé;dk	694
 料盒	liào;md hé;rm	91
 钌红	liǎo;jl hóng;sg	45
@@ -78323,7 +78229,6 @@ sort: by_weight
 蓼花	liǎo;cp huā;cb	454
 辽化	liáo;zl huà;rb	294
 料花	liào;md huā;cb	54
-料花	liào;md huā;cb	32
 撂荒	liào;fk huāng;ci	53
 聊会	liáo;ee huì;ry	60
 料会	liào;md huì;ry	54
@@ -78421,17 +78326,14 @@ sort: by_weight
 燎天	liáo;hx tiān;ad	526
 料亭	liào;md tíng;wd	626
 料桶	liào;md tǒng;ay	63
-料筒	liào;md tǒng;vk	32
 料筒	liào;md tǒng;vk	3
 料头	liào;md tóu;dd	666
-料头	liào;md tóu;dd	32
 聊完	liáo;ee wán;by	1438
 料碗	liào;md wǎn;uv	873
 瞭望	liào;ox wàng;ww	575
 料王	liào;md wáng;at	77
 廖伟	liào;gp wěi;rw	675
 料温	liào;md wēn;dm	43
-料温	liào;md wēn;dm	32
 了无	liǎo;al wú;ay	132
 了悟	liǎo;al wù;xk	119
 辽西	liáo;zl xī;ak	389
@@ -79027,7 +78929,6 @@ sort: by_weight
 零点	líng;ys diǎn;vh	2129
 另点	lìng;kl diǎn;vh	896
 灵点	líng;eh diǎn;vh	685
-零点	líng;ys diǎn;vh	46
 领跌	lǐng;ry diē;zf	195
 灵蝶	líng;eh dié;ia	176
 伶仃	líng;rs dīng;rd	138
@@ -79807,7 +79708,6 @@ sort: by_weight
 六和	liù;wb hé;hk	84
 留痕	liú;pt hén;bg	421
 流痕	liú;di hén;bg	54
-流痕	liú;di hén;bg	32
 流红	liú;di hóng;sg	62
 留后	liú;pt hòu;ik	138
 留侯	liú;pt hòu;ru	131
@@ -80194,7 +80094,6 @@ sort: by_weight
 六尾	liù;wb wěi;um	27
 六问	liù;wb wèn;mk	346
 流纹	liú;di wén;sw	54
-流纹	liú;di wén;sw	32
 留我	liú;pt wǒ;ga	352
 留窝	liú;pt wō;bn	54
 六五	liù;wb wǔ;aw	188
@@ -82082,7 +81981,6 @@ sort: by_weight
 螺盖	luó;ix gài;ym	25
 螺杆	luó;ix gǎn;ag	94
 落杆	luò;ck gān;ag	78
-螺杆	luó;ix gǎn;ag	32
 裸缸	luǒ;pg gāng;fg	100
 萝岗	luó;cx gǎng;ux	63
 罗哥	luó;sx gē;kk	760
@@ -84400,7 +84298,6 @@ sort: by_weight
 帽壁	mào;jo bì;ut	96
 毛边	máo;pv biān;zl	377
 帽边	mào;jo biān;zl	42
-毛边	máo;pv biān;zl	32
 锚标	máo;jt biāo;au	495
 毛彪	máo;pv biāo;hp	470
 毛病	máo;pv bìng;bn	15502
@@ -84425,7 +84322,6 @@ sort: by_weight
 冒出	mào;oo chū;uu	4314
 猫床	māo;qt chuáng;ga	118
 毛刺	máo;pv cì;ud	867
-毛刺	máo;pv cì;ud	32
 毛葱	máo;pv cōng;cx	62
 毛寸	máo;pv cùn;ud	53
 贸大	mào;pb dà;ar	6236
@@ -84767,7 +84663,6 @@ sort: by_weight
 毛质	máo;pv zhì;ib	4
 毛重	máo;pv zhòng;ql	119
 猫种	māo;qt zhǒng;hv	118
-毛重	máo;pv zhòng;ql	46
 冒著	mào;oo zhù;co	824
 毛竹	máo;pv zhú;gg	783
 毛猪	máo;pv zhū;qo	742
@@ -88167,7 +88062,6 @@ sort: by_weight
 明贤	míng;oo xián;lb	579
 名贤	míng;xk xián;lb	476
 铭贤	míng;jk xián;lb	248
-明显	míng;oo xiǎn;oy	32
 冥想	míng;bl xiǎng;ax	10717
 名相	míng;xk xiāng;ao	295
 命相	mìng;re xiāng;ao	235
@@ -88551,7 +88445,6 @@ sort: by_weight
 墨家	mò;lt jiā;bu	2023
 模架	mó;ad jià;la	424
 膜架	mó;od jià;la	82
-模架	mó;ad jià;la	32
 魔剑	mó;gg jiàn;qd	342
 磨剑	mó;gu jiàn;qd	308
 模件	mó;ad jiàn;rn	277
@@ -88749,7 +88642,6 @@ sort: by_weight
 磨枪	mó;gu qiāng;av	670
 抹墙	mò;fw qiáng;tk	365
 模腔	mó;ad qiāng;og	53
-模腔	mó;ad qiāng;og	32
 磨桥	mó;gu qiáo;al	37
 模切	mó;ad qiē;qd	69
 摸清	mō;fd qīng;do	3036
@@ -88775,7 +88667,6 @@ sort: by_weight
 磨刃	mó;gu rèn;dd	71
 模仁	mó;ad rén;re	53
 魔人	mó;gg rén;pn	35
-模仁	mó;ad rén;re	32
 末日	mò;aa rì;wa	4763
 莫如	mò;cd rú;nk	644
 莫入	mò;cd rù;pn	323
@@ -88886,7 +88777,6 @@ sort: by_weight
 莫问	mò;cd wèn;mk	217
 魔纹	mó;gg wén;sw	206
 模温	mó;ad wēn;dm	54
-模温	mó;ad wēn;dm	32
 摸我	mō;fd wǒ;ga	396
 魔物	mó;gg wù;nw	942
 魔武	mó;gg wǔ;gv	608
@@ -88941,7 +88831,6 @@ sort: by_weight
 末学	mò;aa xué;xz	597
 墨学	mò;lt xué;xz	304
 模穴	mó;ad xué;bb	54
-模穴	mó;ad xué;bb	32
 磨牙	mó;gu yá;gp	860
 莫亚	mò;cd yà;ay	229
 抹芽	mǒ;fw yá;cy	129
@@ -89470,7 +89359,6 @@ sort: by_weight
 墓铭	mù;ct míng;jk	39
 幕末	mù;cj mò;aa	909
 母模	mǔ;md mó;ad	36
-母模	mǔ;md mó;ad	32
 木木	mù;ur mù;ur	1203
 木暮	mù;ur mù;co	716
 木模	mù;ur mú;ad	476
@@ -92162,7 +92050,6 @@ sort: by_weight
 逆流	nì;zn liú;di	713
 泥流	ní;db liú;di	544
 尼龙	ní;ub lóng;yp	1978
-尼龙	ní;ub lóng;yp	32
 尼禄	ní;ub lù;pu	1040
 泥路	ní;db lù;zk	988
 拟录	nǐ;fr lù;eu	863
@@ -92490,7 +92377,6 @@ sort: by_weight
 黏度	nián;hv dù;gy	436
 粘度	nián;mv dù;gy	94
 捻度	niǎn;fx dù;gy	43
-粘度	nián;mv dù;gy	32
 年段	nián;pf duàn;pu	810
 蔫儿	niān;ch er;pv	855
 廿二	niàn;ca èr;aa	812
@@ -92553,7 +92439,6 @@ sort: by_weight
 粘胶	nián;mv jiāo;of	74
 年交	nián;pf jiāo;wf	70
 年缴	nián;pf jiǎo;sw	63
-粘胶	nián;mv jiāo;of	32
 年节	nián;pf jié;ce	232
 粘结	nián;mv jié;sk	153
 年届	nián;pf jiè;uy	122
@@ -94475,7 +94360,6 @@ sort: by_weight
 排鼓	pái;ff gǔ;tv	72
 排故	pái;ff gù;gw	64
 拍鼓	pāi;fb gǔ;tv	62
-排故	pái;ff gù;gw	32
 排卦	pái;ff guà;tb	504
 排管	pái;ff guǎn;vl	688
 排灌	pái;ff guàn;dv	654
@@ -94614,7 +94498,6 @@ sort: by_weight
 排起	pái;ff qǐ;tj	185
 拍起	pāi;fb qǐ;tj	147
 排齐	pái;ff qí;wl	117
-排气	pái;ff qì;pv	32
 派遣	pài;dy qiǎn;zl	4299
 排前	pái;ff qián;bd	389
 排遣	pái;ff qiǎn;zl	311
@@ -95412,7 +95295,6 @@ sort: by_weight
 跑通	pǎo;zb tōng;zy	1030
 炮筒	pào;hb tǒng;vk	266
 泡桐	pāo;db tóng;ak	212
-炮筒	pào;hb tǒng;vk	32
 抛投	pāo;fl tóu;fu	769
 泡透	pào;db tòu;zn	585
 跑图	pǎo;zb tú;wd	720
@@ -95936,7 +95818,6 @@ sort: by_weight
 喷子	pēn;kb zi;la	584
 喷字	pēn;kb zì;bz	365
 喷嘴	pēn;kb zuǐ;ky	772
-喷嘴	pēn;kb zuǐ;ky	32
 蓬安	péng;cf ān;bn	657
 棚板	péng;ao bǎn;ay	37
 碰杯	pèng;uy bēi;ab	465
@@ -96254,7 +96135,6 @@ sort: by_weight
 劈缝	pī;ud fèng;sf	103
 披锋	pī;fp fēng;jf	54
 批锋	pī;fb fēng;jf	32
-披锋	pī;fp fēng;jf	32
 皮肤	pí;py fū;of	54039
 批复	pī;fb fù;pw	1673
 匹夫	pǐ;ke fū;er	502
@@ -96464,7 +96344,6 @@ sort: by_weight
 批文	pī;fb wén;wx	917
 皮纹	pí;py wén;sw	144
 皮温	pí;py wēn;dm	115
-皮纹	pí;py wén;sw	32
 皮下	pí;py xià;ab	1294
 批下	pī;fb xià;ab	169
 劈下	pī;ud xià;ab	135
@@ -96526,7 +96405,6 @@ sort: by_weight
 皮制	pí;py zhì;nd	824
 劈中	pī;ud zhòng;kl	107
 皮重	pí;py zhòng;ql	102
-皮重	pí;py zhòng;ql	46
 邳州	pī;be zhōu;dl	28
 批注	pī;fb zhù;dv	3489
 批转	pī;fb zhuǎn;iv	44
@@ -96807,7 +96685,6 @@ sort: by_weight
 偏斜	piān;rc xié;rd	264
 偏心	piān;rc xīn;dd	1774
 偏信	piān;rc xìn;rk	194
-偏心	piān;rc xīn;dd	32
 偏芯	piān;rc xīn;cx	28
 偏腥	piān;rc xīng;ou	549
 偏行	piān;rc xíng;rd	522
@@ -96840,7 +96717,6 @@ sort: by_weight
 片约	piàn;pv yuē;su	173
 片云	piàn;pv yún;ag	936
 偏载	piān;rc zài;gi	64
-偏载	piān;rc zài;gi	46
 骗赞	piàn;mc zàn;nb	697
 偏脏	piān;rc zāng;ot	33
 偏窄	piān;rc zhǎi;bv	364
@@ -99302,7 +99178,6 @@ sort: by_weight
 气刨	qì;pv páo;bd	43
 起刨	qǐ;tj páo;bd	40
 弃炮	qì;wc pào;hb	35
-起泡	qǐ;tj pào;db	32
 汽配	qì;dq pèi;yj	458
 起皮	qǐ;tj pí;py	575
 漆皮	qī;du pí;py	248
@@ -99654,7 +99529,6 @@ sort: by_weight
 起稳	qǐ;tj wěn;hx	135
 漆纹	qī;du wén;sw	73
 气纹	qì;pv wén;sw	54
-气纹	qì;pv wén;sw	32
 气我	qì;pv wǒ;ga	107
 弃我	qì;wc wǒ;ga	102
 弃窝	qì;wc wō;bn	62
@@ -99768,7 +99642,6 @@ sort: by_weight
 脐血	qí;oq xuè;pm	164
 奇穴	qí;dk xué;bb	131
 气穴	qì;pv xué;bb	125
-气穴	qì;pv xué;bb	32
 七旬	qī;av xún;bo	963
 气压	qì;pv yā;id	4101
 起亚	qǐ;tj yà;ay	1456
@@ -100308,7 +100181,6 @@ sort: by_weight
 千锋	qiān;pu fēng;jf	236
 铅封	qiān;jk fēng;tc	150
 嵌缝	qiàn;uq fèng;sf	120
-铅封	qiān;jk fēng;tc	46
 千佛	qiān;pu fó;rf	1026
 前夫	qián;bd fū;er	4431
 潜伏	qián;do fú;rq	2154
@@ -100743,7 +100615,6 @@ sort: by_weight
 铅丝	qiān;jk sī;sa	1526
 牵丝	qiān;dn sī;sa	1408
 前司	qián;bd sī;vk	1102
-牵丝	qiān;dn sī;sa	32
 遣送	qiǎn;zl sòng;zt	198
 千艘	qiān;pu sōu;vy	44
 茜素	qiàn;cx sù;fx	454
@@ -100900,7 +100771,6 @@ sort: by_weight
 欠压	qiàn;dr yā;id	719
 前压	qián;bd yā;id	178
 潜鸭	qián;do yā;jn	142
-欠压	qiàn;dr yā;id	46
 前沿	qián;bd yán;dk	6230
 前言	qián;bd yán;wk	3541
 钱眼	qián;jj yǎn;og	270
@@ -101595,7 +101465,6 @@ sort: by_weight
 翘边	qiào;yx biān;zl	265
 巧变	qiǎo;gk biàn;wy	226
 撬边	qiào;fm biān;zl	43
-翘边	qiào;yx biān;zl	32
 撬饼	qiào;fm bǐng;uk	57
 瞧病	qiáo;oh bìng;bn	44
 巧不	qiǎo;gk bù;ab	31
@@ -101762,7 +101631,6 @@ sort: by_weight
 翘起	qiào;yx qǐ;tj	1096
 撬起	qiào;fm qǐ;tj	103
 敲起	qiāo;wy qǐ;tj	82
-翘起	qiào;yx qǐ;tj	32
 乔迁	qiáo;yl qiān;zq	232
 桥前	qiáo;al qián;bd	209
 敲墙	qiāo;wy qiáng;tk	78
@@ -101775,7 +101643,6 @@ sort: by_weight
 敲球	qiāo;wy qiú;wq	52
 翘曲	qiáo;yx qū;wc	333
 巧取	qiǎo;gk qǔ;ey	300
-翘曲	qiáo;yx qū;wc	32
 悄然	qiǎo;xo rán;xh	2349
 愀然	qiǎo;xh rán;xh	441
 敲入	qiāo;wy rù;pn	323
@@ -102811,7 +102678,6 @@ sort: by_weight
 轻击	qīng;ij jī;fk	52
 庆忌	qìng;gd jì;jx	41
 请寄	qǐng;yo jì;bk	32
-清机	qīng;do jī;aj	32
 清姬	qīng;do jī;ni	25
 请假	qǐng;yo jià;ry	7335
 亲家	qìng;la jia;bu	621
@@ -102960,7 +102826,6 @@ sort: by_weight
 蜻蛉	qīng;io líng;is	303
 庆铃	qìng;gd líng;js	242
 青菱	qīng;fo líng;cw	123
-清零	qīng;do líng;ys	46
 请留	qǐng;yo liú;pt	1202
 清流	qīng;do liú;di	1142
 青柳	qīng;fo liǔ;ae	439
@@ -104491,7 +104356,6 @@ sort: by_weight
 去配	qù;ts pèi;yj	238
 去碰	qù;ts pèng;uy	1002
 去皮	qù;ts pí;py	2054
-去皮	qù;ts pí;py	46
 取片	qǔ;ey piàn;pv	778
 区片	qū;kx piàn;pv	739
 取票	qǔ;ey piào;xu	414
@@ -104550,7 +104414,6 @@ sort: by_weight
 取上	qǔ;ey shàng;ba	1860
 区上	qū;kx shàng;ba	1762
 取舍	qǔ;ey shě;rg	7552
-屈折	qū;ui shé;ft	810
 曲射	qū;wc shè;uc	491
 屈伸	qū;ui shēn;ru	904
 屈身	qū;ui shēn;zc	188
@@ -104747,6 +104610,7 @@ sort: by_weight
 取章	qǔ;ey zhāng;lu	52
 去找	qù;ts zhǎo;fg	38810
 曲折	qū;wc zhé;ft	5379
+屈折	qū;ui zhé;ft	810
 曲珍	qǔ;wc zhēn;wp	513
 取证	qǔ;ey zhèng;yv	2440
 取整	qǔ;ey zhěng;uv	467
@@ -105601,7 +105465,6 @@ sort: by_weight
 阙里	quē;mq lǐ;tt	490
 却连	què;qe lián;zi	1780
 缺粮	quē;fg liáng;ml	666
-缺料	quē;fg liào;md	32
 缺料	quē;fg liào;md	25
 缺磷	quē;fg lín;uf	129
 却令	què;qe lìng;rs	151
@@ -105753,7 +105616,6 @@ sort: by_weight
 缺纸	quē;fg zhǐ;su	62
 瘸子	qué;br zi;la	763
 缺字	quē;fg zì;bz	116
-缺字	quē;fg zì;bz	46
 却总	què;qe zǒng;bx	955
 裙摆	qún;pk bǎi;fq	895
 裙板	qún;pk bǎn;ay	572
@@ -107288,7 +107150,6 @@ sort: by_weight
 融江	róng;gi jiāng;dg	26
 溶胶	róng;dg jiāo;of	126
 熔胶	róng;hg jiāo;of	54
-熔胶	róng;hg jiāo;of	32
 融胶	róng;gi jiāo;of	31
 溶解	róng;dg jiě;dn	4958
 融解	róng;gi jiě;dn	138
@@ -107358,7 +107219,6 @@ sort: by_weight
 溶溶	róng;dg róng;dg	125
 荣荣	róng;ca róng;ca	80
 茸茸	róng;ce róng;ce	64
-熔融	róng;hg róng;gi	32
 融入	róng;gi rù;pn	21465
 荣辱	róng;ca rǔ;ic	624
 溶入	róng;dg rù;pn	229
@@ -107387,7 +107247,6 @@ sort: by_weight
 绒毯	róng;su tǎn;mh	31
 融糖	róng;gi táng;mk	58
 熔体	róng;hg tǐ;rb	41
-熔体	róng;hg tǐ;rb	32
 融通	róng;gi tōng;zy	556
 绒团	róng;su tuán;wc	103
 荣王	róng;ca wáng;at	806
@@ -107630,7 +107489,6 @@ sort: by_weight
 肉碎	ròu;nr suì;uu	976
 揉碎	róu;fa suì;uu	927
 肉摊	ròu;nr tān;fv	63
-肉摊	ròu;nr tān;fv	46
 肉汤	ròu;nr tāng;dp	1221
 肉疼	ròu;nr téng;bd	1441
 肉体	ròu;nr tǐ;rb	9480
@@ -108317,7 +108175,6 @@ sort: by_weight
 软剑	ruǎn;iq jiàn;qd	572
 软胶	ruǎn;iq jiāo;of	850
 软脚	ruǎn;iq jiǎo;oe	808
-软胶	ruǎn;iq jiāo;of	32
 阮姐	ruǎn;ey jiě;nq	441
 软解	ruǎn;iq jiě;dn	62
 软禁	ruǎn;iq jìn;au	1017
@@ -108908,7 +108765,6 @@ sort: by_weight
 塞给	sāi;bt gěi;sk	1488
 赛狗	sài;bb gǒu;qj	16
 塞规	sāi;bt guī;fj	73
-塞规	sāi;bt guī;fj	32
 赛规	sài;bb guī;fj	25
 赛过	sài;bb guò;zc	371
 赛果	sài;bb guǒ;ta	352
@@ -112883,7 +112739,6 @@ sort: by_weight
 射角	shè;uc jiǎo;dy	106
 社教	shè;pt jiào;lw	84
 射胶	shè;uc jiāo;of	54
-射胶	shè;uc jiāo;of	32
 佘姐	shé;ru jiě;nq	621
 射界	shè;uc jiè;tj	590
 舌接	shé;qk jiē;fn	129
@@ -115799,7 +115654,6 @@ sort: by_weight
 史今	shǐ;kn jīn;rv	103
 石筋	shí;ak jīn;vl	77
 实劲	shí;bd jìn;jl	62
-市斤	shì;wj jīn;it	46
 诗经	shī;yc jīng;sj	8839
 实景	shí;bd jǐng;ox	2075
 市井	shì;wj jǐng;ac	1862
@@ -116147,7 +116001,6 @@ sort: by_weight
 石漠	shí;ak mò;dd	81
 湿磨	shī;dy mó;gu	70
 湿墨	shī;dy mò;lt	33
-试模	shì;yg mó;ad	32
 石某	shí;ak mǒu;ga	31
 施某	shī;fy mǒu;ga	29
 实木	shí;bd mù;ur	8255
@@ -116448,7 +116301,6 @@ sort: by_weight
 始设	shǐ;nk shè;yu	186
 食蛇	shí;rg shé;ib	148
 施射	shī;fy shè;uc	133
-试射	shì;yg shè;uc	32
 食神	shí;rg shén;pu	1498
 湿身	shī;dy shēn;zc	813
 失神	shī;pf shén;pu	706
@@ -117216,7 +117068,6 @@ sort: by_weight
 石制	shí;ak zhì;nd	63
 时滞	shí;to zhì;dj	57
 施治	shī;fy zhì;dk	51
-示值	shì;ex zhí;rq	46
 试织	shì;yg zhī;sv	42
 示值	shì;ex zhí;rq	37
 拾枝	shí;fk zhī;av	31
@@ -117280,7 +117131,6 @@ sort: by_weight
 师庄	shī;lj zhuāng;gt	44
 视锥	shì;pj zhuī;jv	85
 失准	shī;pf zhǔn;dv	333
-失准	shī;pf zhǔn;dv	46
 石桌	shí;ak zhuō;ba	100
 十桌	shí;al zhuō;ba	90
 湿浊	shī;dy zhuó;di	81
@@ -117726,7 +117576,6 @@ sort: by_weight
 首检	shǒu;bz jiǎn;aq	43
 首件	shǒu;bz jiàn;rn	41
 受剪	shòu;vy jiǎn;bd	32
-首件	shǒu;bz jiàn;rn	32
 手茧	shǒu;pf jiǎn;ci	25
 兽槛	shòu;bk jiàn;am	17
 首奖	shǒu;bz jiǎng;ld	901
@@ -119227,7 +119076,6 @@ sort: by_weight
 淑贤	shū;dy xián;lb	210
 舒县	shū;ry xiàn;qs	168
 熟线	shú;wh xiàn;sj	66
-数显	shù;mw xiǎn;oy	46
 书香	shū;vd xiāng;ho	1052
 竖向	shù;ll xiàng;pk	430
 属相	shǔ;uy xiàng;ao	323
@@ -120470,7 +120318,6 @@ sort: by_weight
 水沟	shuǐ;ln gōu;dg	1071
 水垢	shuǐ;ln gòu;tk	524
 睡够	shuì;ot gòu;jx	398
-水垢	shuǐ;ln gòu;tk	32
 水谷	shuǐ;ln gǔ;bk	950
 水鼓	shuǐ;ln gǔ;tv	498
 水菇	shuǐ;ln gū;cg	28
@@ -120520,7 +120367,6 @@ sort: by_weight
 水化	shuǐ;ln huà;rb	279
 水华	shuǐ;ln huá;ru	223
 水滑	shuǐ;ln huá;do	73
-水花	shuǐ;ln huā;cb	32
 谁坏	shuí;yv huài;tb	680
 水患	shuǐ;ln huàn;ix	433
 水黄	shuǐ;ln huáng;cb	37
@@ -120594,7 +120440,6 @@ sort: by_weight
 税控	shuì;hx kòng;fg	289
 水孔	shuǐ;ln kǒng;zv	260
 水口	shuǐ;ln kǒu;la	236
-水口	shuǐ;ln kǒu;la	32
 水库	shuǐ;ln kù;gi	3162
 睡裤	shuì;ot kù;pi	103
 水裤	shuǐ;ln kù;pi	62
@@ -121024,7 +120869,6 @@ sort: by_weight
 水钻	shuǐ;ln zuān;jv	201
 谁最	shuí;yv zuì;oy	436
 水嘴	shuǐ;ln zuǐ;ky	414
-水嘴	shuǐ;ln zuǐ;ky	32
 谁做	shuí;yv zuò;rw	1055
 顺安	shùn;iy ān;bn	9
 顺坝	shùn;iy bà;tb	306
@@ -122471,7 +122315,6 @@ sort: by_weight
 送件	sòng;zt jiàn;rn	904
 耸肩	sǒng;re jiān;ho	823
 松间	sōng;ag jiān;mo	327
-送检	sòng;zt jiǎn;aq	46
 松江	sōng;ag jiāng;dg	3347
 送交	sòng;zt jiāo;wf	229
 送教	sòng;zt jiào;lw	218
@@ -122920,7 +122763,6 @@ sort: by_weight
 素华	sù;fx huá;ru	105
 俗化	sú;rg huà;rb	84
 酥化	sū;yh huà;rb	67
-塑化	sù;nt huà;rb	32
 宿淮	sù;bb huái;dv	436
 苏涣	sū;cb huàn;dr	338
 速回	sù;zu huí;wk	147
@@ -122937,7 +122779,6 @@ sort: by_weight
 塑件	sù;nt jiàn;rn	74
 苏检	sū;cb jiǎn;aq	63
 酥碱	sū;yh jiǎn;uk	58
-塑件	sù;nt jiàn;rn	32
 速降	sù;zu jiàng;ef	371
 宿将	sù;bb jiàng;lc	241
 速将	sù;zu jiāng;lc	192
@@ -123933,7 +123774,6 @@ sort: by_weight
 索河	suǒ;ux hé;dk	198
 锁合	suǒ;jb hé;rk	121
 缩痕	suō;sb hén;bg	54
-缩痕	suō;sb hén;bg	32
 锁喉	suǒ;jb hóu;ku	317
 所画	suǒ;ht huà;at	455
 所化	suǒ;ht huà;rb	370
@@ -124006,7 +123846,6 @@ sort: by_weight
 缩坑	suō;sb kēng;tj	32
 锁孔	suǒ;jb kǒng;zv	487
 缩孔	suō;sb kǒng;zv	438
-缩孔	suō;sb kǒng;zv	32
 锁扣	suǒ;jb kòu;fk	411
 缩口	suō;sb kǒu;la	390
 所扣	suǒ;ht kòu;fk	333
@@ -124134,7 +123973,6 @@ sort: by_weight
 锁闩	suǒ;jb shuān;ma	32
 缩水	suō;sb shuǐ;ln	4603
 锁水	suǒ;jb shuǐ;ln	552
-缩水	suō;sb shuǐ;ln	32
 所说	suǒ;ht shuō;yx	59566
 锁死	suǒ;jb sǐ;db	3058
 所思	suǒ;ht sī;tx	533
@@ -124235,7 +124073,6 @@ sort: by_weight
 缩阴	suō;sb yīn;eo	61
 缩影	suō;sb yǐng;op	3517
 所应	suǒ;ht yīng;ga	298
-缩影	suō;sb yǐng;op	32
 所用	suǒ;ht yòng;kf	10057
 所有	suǒ;ht yǒu;uo	334611
 缩釉	suō;sb yòu;vy	37
@@ -124324,7 +124161,6 @@ sort: by_weight
 他便	tā;ry biàn;rg	3184
 踏遍	tà;zo biàn;zc	1007
 她便	tā;ny biàn;rg	367
-塌边	tā;tx biān;zl	32
 塌边	tā;tx biān;zl	28
 他不	tā;ry bù;ab	5395
 踏步	tà;zo bù;vu	1676
@@ -124873,7 +124709,6 @@ sort: by_weight
 台城	tái;sk chéng;ti	889
 台秤	tái;sk chèng;hp	842
 泰城	tài;iu chéng;ti	777
-台秤	tái;sk chèng;hp	46
 太迟	tài;dd chí;zi	484
 太吃	tài;dd chī;kv	436
 太冲	tài;dd chòng;dv	195
@@ -125312,7 +125147,6 @@ sort: by_weight
 太神	tài;dd shén;pu	132
 太甚	tài;dd shèn;cb	105
 台身	tái;sk shēn;zc	84
-太深	tài;dd shēn;da	32
 抬升	tái;fk shēng;pc	1589
 太生	tài;dd shēng;pf	285
 太盛	tài;dd shèng;im	228
@@ -125686,7 +125520,6 @@ sort: by_weight
 昙花	tán;oy huā;cb	452
 炭化	tàn;uh huà;rb	226
 昙华	tán;oy huá;ru	180
-碳化	tàn;uh huà;rb	32
 瘫痪	tān;bv huàn;br	4101
 摊还	tān;fv huán;zb	720
 贪欢	tān;rb huān;yq	584
@@ -125992,7 +125825,6 @@ sort: by_weight
 摊主	tān;fv zhǔ;wt	860
 坛主	tán;ty zhǔ;wt	774
 谈助	tán;yh zhù;ql	62
-摊主	tān;fv zhǔ;wt	46
 碳砖	tàn;uh zhuān;uv	248
 摊子	tān;fv zi;la	2553
 毯子	tǎn;mh zi;la	1877
@@ -128206,7 +128038,6 @@ sort: by_weight
 填平	tián;tb píng;au	976
 舔屏	tiǎn;ux píng;uk	254
 田坪	tián;wu píng;tp	203
-天平	tiān;ad píng;au	46
 天普	tiān;ad pǔ;bo	846
 天瀑	tiān;ad pù;du	804
 天气	tiān;ad qì;pv	18184
@@ -128855,7 +128686,6 @@ sort: by_weight
 跳鼠	tiào;zv shǔ;jv	427
 挑书	tiāo;fv shū;vd	384
 跳数	tiào;zv shù;mw	83
-跳数	tiào;zv shù;mw	46
 跳水	tiào;zv shuǐ;ln	5285
 挑水	tiāo;fv shuǐ;ln	492
 挑谁	tiāo;fv shuí;yv	393
@@ -131853,7 +131683,6 @@ sort: by_weight
 推板	tuī;fv bǎn;ay	621
 退办	tuì;zg bàn;lb	45
 推版	tuī;fv bǎn;py	43
-推板	tuī;fv bǎn;ay	32
 退保	tuì;zg bǎo;ra	2926
 退包	tuì;zg bāo;bs	43
 退呗	tuì;zg bei;kb	932
@@ -136363,7 +136192,6 @@ sort: by_weight
 稳泡	wěn;hx pào;db	61
 文痞	wén;wx pǐ;bk	44
 温漂	wēn;dm piāo;du	68
-温漂	wēn;dm piāo;du	46
 文品	wén;wx pǐn;kk	379
 稳频	wěn;hx pín;vy	265
 文凭	wén;wx píng;rj	6393
@@ -137688,7 +137516,7 @@ sort: by_weight
 巫鸿	wū;gr hóng;dn	459
 午后	wǔ;pu hòu;ik	2528
 屋后	wū;ut hòu;ik	1469
-武侯	wǔ;gv hòu;ru	1265
+武侯	wǔ;gv hóu;ru	1265
 物候	wù;nw hòu;ru	423
 无后	wú;ay hòu;ik	317
 舞后	wǔ;pf hòu;ik	179
@@ -144180,7 +144008,6 @@ sort: by_weight
 校零	xiào;af líng;ys	82
 孝陵	xiào;lz líng;ew	60
 小岭	xiǎo;lb lǐng;us	48
-校零	xiào;af líng;ys	46
 小刘	xiǎo;lb liú;wd	2270
 小六	xiǎo;lb liù;wb	1359
 小柳	xiǎo;lb liǔ;ae	100
@@ -145599,7 +145426,6 @@ sort: by_weight
 协韵	xié;ub yùn;ly	688
 卸载	xiè;ve zài;gi	15537
 写在	xiě;by zài;ut	5582
-卸载	xiè;ve zài;gi	46
 斜凿	xié;rd záo;yg	40
 卸责	xiè;ve zé;fb	22
 鞋掌	xié;ct zhǎng;xu	346
@@ -146104,7 +145930,6 @@ sort: by_weight
 新良	xīn;lt liáng;dg	251
 新料	xīn;lt liào;md	138
 新寮	xīn;lt liáo;bx	124
-新料	xīn;lt liào;md	32
 新列	xīn;lt liè;dd	846
 新林	xīn;lt lín;aa	810
 心灵	xīn;dd líng;eh	14639
@@ -147136,7 +146961,6 @@ sort: by_weight
 型腔	xíng;kt qiāng;og	1642
 行腔	xíng;rd qiāng;og	1555
 行抢	xíng;rd qiǎng;fv	264
-型腔	xíng;kt qiāng;og	32
 姓乔	xìng;nu qiáo;yl	25
 星桥	xīng;ou qiáo;al	24
 杏俏	xìng;ak qiào;ro	4
@@ -147349,7 +147173,6 @@ sort: by_weight
 星屑	xīng;ou xiè;uo	133
 形心	xíng;kp xīn;dd	85
 型芯	xíng;kt xīn;cx	36
-型芯	xíng;kt xīn;cx	32
 星星	xīng;ou xīng;ou	15308
 猩猩	xīng;qu xīng;qu	11203
 行星	xíng;rd xīng;ou	3146
@@ -147777,7 +147600,6 @@ sort: by_weight
 嗅辨	xiù;kq biàn;xl	84
 修编	xiū;rp biān;sc	81
 溴苄	xiù;dq biàn;cb	68
-修边	xiū;rp biān;zl	32
 修表	xiū;rp biǎo;fy	201
 袖标	xiù;py biāo;au	178
 修鬓	xiū;rp bìn;eb	67
@@ -147981,7 +147803,6 @@ sort: by_weight
 修明	xiū;rp míng;oo	54
 修磨	xiū;rp mó;gu	472
 修模	xiū;rp mó;ad	69
-修模	xiū;rp mó;ad	32
 朽木	xiǔ;ak mù;ur	301
 休沐	xiū;ra mù;da	271
 修睦	xiū;rp mù;ot	191
@@ -152716,7 +152537,6 @@ sort: by_weight
 咬花	yǎo;kf huā;cb	54
 瑶花	yáo;wf huā;cb	43
 妖花	yāo;ny huā;cb	34
-咬花	yǎo;kf huā;cb	32
 咬坏	yǎo;kf huài;tb	82
 要换	yào;xn huàn;fr	2229
 要还	yào;xn huán;zb	1469
@@ -155168,7 +154988,6 @@ sort: by_weight
 一聊	yì;aa liáo;ee	314
 溢料	yì;dm liào;md	175
 一了	yì;aa liǎo;al	73
-溢料	yì;dm liào;md	32
 一列	yí;aa liè;dd	2214
 异裂	yì;sc liè;dy	464
 意林	yì;lx lín;aa	480
@@ -156852,7 +156671,6 @@ sort: by_weight
 印痕	yìn;pe hén;bg	305
 阴狠	yīn;eo hěn;qg	285
 饮恨	yǐn;uq hèn;xg	282
-印痕	yìn;pe hén;bg	32
 银红	yín;jg hóng;sg	53
 殷洪	yīn;pu hóng;dg	50
 饮后	yǐn;uq hòu;ik	738
@@ -157245,7 +157063,6 @@ sort: by_weight
 因私	yīn;wd sī;hs	169
 阴司	yīn;eo sī;vk	109
 阴私	yīn;eo sī;hs	87
-银丝	yín;jg sī;sa	32
 铟丝	yīn;jy sī;sa	2
 吟诵	yín;kv sòng;yy	603
 银松	yín;jg sōng;ag	543
@@ -157270,7 +157087,6 @@ sort: by_weight
 引题	yǐn;gl tí;oy	400
 阴天	yīn;eo tiān;ad	1875
 银条	yín;jg tiáo;wa	135
-银条	yín;jg tiáo;wa	32
 音同	yīn;lo tóng;kk	1030
 隐痛	yǐn;ex tòng;by	978
 银通	yín;jg tōng;zy	419
@@ -157304,7 +157120,6 @@ sort: by_weight
 银纹	yín;jg wén;sw	54
 印纹	yìn;pe wén;sw	48
 阴纹	yīn;eo wén;sw	32
-银纹	yín;jg wén;sw	32
 因我	yīn;wd wǒ;ga	364
 隐窝	yǐn;ex wō;bn	346
 淫窝	yín;dw wō;bn	328
@@ -157329,7 +157144,6 @@ sort: by_weight
 鄞县	yín;ce xiàn;qs	106
 因嫌	yīn;wd xián;nj	84
 隐贤	yǐn;ex xián;lb	67
-银线	yín;jg xiàn;sj	32
 印象	yìn;pe xiàng;du	49709
 音响	yīn;lo xiǎng;kk	8581
 音箱	yīn;lo xiāng;vo	5582
@@ -157830,7 +157644,6 @@ sort: by_weight
 应叫	yīng;ga jiào;kj	153
 鹰角	yīng;gn jiǎo;dy	122
 硬胶	yìng;ug jiāo;of	54
-硬胶	yìng;ug jiāo;of	32
 迎接	yíng;ze jiē;fn	7423
 应届	yīng;ga jiè;uy	3758
 硬结	yìng;ug jié;sk	916
@@ -162003,7 +161816,6 @@ sort: by_weight
 怨毒	yuàn;xx dú;fm	116
 圆度	yuán;wb dù;gy	92
 远度	yuǎn;zy dù;gy	73
-圆度	yuán;wb dù;gy	32
 远端	yuǎn;zy duān;le	1611
 怨怼	yuàn;xx duì;yx	424
 院队	yuàn;ey duì;er	382
@@ -163624,7 +163436,6 @@ sort: by_weight
 云书	yún;ag shū;vd	168
 运水	yùn;zy shuǐ;ln	60
 云水	yún;ag shuǐ;ln	57
-运水	yùn;zy shuǐ;ln	32
 晕水	yūn;oi shuǐ;ln	30
 晕死	yūn;oi sǐ;db	188
 云寺	yún;ag sì;tc	169
@@ -163906,7 +163717,6 @@ sort: by_weight
 杂糅	zá;ja róu;ma	1875
 杂散	zá;ja sàn;cw	612
 杂色	zá;ja sè;db	462
-杂色	zá;ja sè;db	32
 咋删	zǎ;kv shān;cd	171
 咋上	zǎ;kv shàng;ba	419
 砸伤	zá;uj shāng;rl	333
@@ -164043,7 +163853,6 @@ sort: by_weight
 再沉	zài;ar chén;dj	832
 再撑	zài;ar chēng;fu	738
 再称	zài;ar chēng;hx	701
-再称	zài;ar chēng;hx	46
 在吃	zài;ut chī;kv	2678
 载驰	zài;gi chí;my	1705
 再吃	zài;ar chī;kv	1602
@@ -166244,7 +166053,6 @@ sort: by_weight
 蘸墨	zhàn;ch mò;lt	57
 战殁	zhàn;vg mò;du	54
 沾模	zhān;dv mó;ad	36
-粘模	zhān;mv mó;ad	32
 詹某	zhān;dk mǒu;ga	540
 詹姆	zhān;dk mǔ;nm	1796
 战幕	zhàn;vg mù;cj	1706
@@ -168003,7 +167811,6 @@ sort: by_weight
 阵发	zhèn;ei fā;fy	253
 真法	zhēn;ub fǎ;dq	202
 针阀	zhēn;ju fá;mg	161
-针阀	zhēn;ju fá;mg	32
 真烦	zhēn;ub fán;hy	201
 镇反	zhèn;jb fǎn;iy	191
 诊费	zhěn;yp fèi;fb	113
@@ -168049,7 +167856,6 @@ sort: by_weight
 珍贵	zhēn;wp guì;vb	4073
 真贵	zhēn;ub guì;vb	279
 针规	zhēn;ju guī;fj	42
-针规	zhēn;ju guī;fj	32
 榛果	zhēn;ah guǒ;ta	433
 镇国	zhèn;jb guó;wy	411
 振国	zhèn;fi guó;wy	390
@@ -170257,7 +170063,6 @@ sort: by_weight
 之卷	zhī;dn juǎn;jv	131
 制卷	zhì;nd juǎn;jv	104
 志娟	zhì;tx juān;no	83
-纸卷	zhǐ;su juǎn;jv	46
 直觉	zhí;uq jué;xj	10236
 知觉	zhī;uk jué;xj	2766
 只觉	zhǐ;kb jué;xj	985
@@ -172082,7 +171887,6 @@ sort: by_weight
 种粮	zhòng;hv liáng;ml	163
 中量	zhōng;kl liàng;ol	130
 中梁	zhōng;kl liáng;da	104
-重量	zhòng;ql liàng;ol	46
 终了	zhōng;sd liǎo;al	647
 重料	zhòng;ql liào;md	536
 中髎	zhōng;kl liáo;gp	223
@@ -173395,7 +173199,6 @@ sort: by_weight
 住脚	zhù;rv jiǎo;oe	64
 诸教	zhū;yo jiào;lw	51
 柱脚	zhù;av jiǎo;oe	40
-注胶	zhù;dv jiāo;of	32
 注解	zhù;dv jiě;dn	4041
 竹节	zhú;gg jié;ce	270
 主街	zhǔ;wt jiē;rt	175
@@ -173596,11 +173399,11 @@ sort: by_weight
 注明	zhù;dv míng;oo	6188
 注名	zhù;dv míng;xk	240
 煮茗	zhǔ;lh míng;ck	192
-铸模	zhù;jc mó;ad	666
 朱墨	zhū;pw mò;lt	633
 主谋	zhǔ;wt móu;ya	593
 朱某	zhū;pw mǒu;ga	563
 注目	zhù;dv mù;we	1473
+铸模	zhù;jc mú;ad	666
 瞩目	zhǔ;oy mù;we	662
 竹木	zhú;gg mù;ur	502
 主母	zhǔ;wt mǔ;md	238
@@ -173811,7 +173614,6 @@ sort: by_weight
 住宿	zhù;rv sù;bb	10007
 注塑	zhù;dv sù;nt	536
 主诉	zhǔ;wt sù;yi	464
-注塑	zhù;dv sù;nt	32
 珠算	zhū;ww suàn;vc	116
 驻穗	zhù;mv suì;hx	3
 竹笋	zhú;gg sǔn;vy	779
@@ -175805,7 +175607,6 @@ sort: by_weight
 子键	zǐ;la jiàn;jy	462
 字间	zì;bz jiān;mo	218
 自贱	zì;po jiàn;bj	146
-自检	zì;po jiǎn;aq	46
 自降	zì;po jiàng;ef	270
 资江	zī;db jiāng;dg	256
 兹将	zī;by jiāng;lc	243
@@ -180247,7 +180048,6 @@ sort: by_weight
 按进价	àn;fn jìn;zj jià;rj	410
 按进了	àn;fn jìn;zj le;al	446
 按斤卖	àn;fn jīn;it mài;ud	612
-按斤卖	àn;fn jīn;it mài;ud	46
 按今年	àn;fn jīn;rv nián;pf	513
 按进去	àn;fn jìn;zj qù;ts	44
 暗金色	àn;oo jīn;rb sè;db	554
@@ -191588,7 +191388,6 @@ sort: by_weight
 百分比	bǎi;ab fēn;bd bǐ;bb	5884
 白粉笔	bái;po fěn;mf bǐ;vm	436
 百分表	bǎi;ab fēn;bd biǎo;fy	423
-百分表	bǎi;ab fēn;bd biǎo;fy	32
 白粉病	bái;po fěn;mf bìng;bn	66
 百分尺	bǎi;ab fēn;bd chǐ;un	162
 百分点	bǎi;ab fēn;bd diǎn;vh	3969
@@ -194764,7 +194563,6 @@ sort: by_weight
 搬粮食	bān;fu liáng;ml shí;rg	42
 搬两趟	bān;fu liǎng;ar tàng;tk	79
 拌料机	bàn;fb liào;md jī;aj	117
-拌料机	bàn;fb liào;md jī;aj	32
 拌料间	bàn;fb liào;md jiān;mo	28
 斑鬣狗	bān;ww liè;ev gǒu;qj	590
 板裂了	bǎn;ay liè;dy le;al	40
@@ -195727,7 +195525,6 @@ sort: by_weight
 板子吧	bǎn;ay zi;la ba;kb	284
 板子打	bǎn;ay zi;la dǎ;fd	544
 半自动	bàn;bf zì;po dòng;yl	1617
-半自动	bàn;bf zì;po dòng;yl	32
 办自己	bàn;lb zì;po jǐ;kv	792
 半自理	bàn;bf zì;po lǐ;wl	374
 搬资料	bān;fu zī;db liào;md	141
@@ -196966,7 +196763,6 @@ sort: by_weight
 宝飞龙	bǎo;by fēi;vd lóng;yp	20
 报废率	bào;fy fèi;gy lǜ;wu	644
 保费率	bǎo;ra fèi;fb lǜ;wu	410
-报废率	bào;fy fèi;gy lǜ;wu	32
 报废品	bào;fy fèi;gy pǐn;kk	261
 报废期	bào;fy fèi;gy qī;co	482
 报废时	bào;fy fèi;gy shí;to	441
@@ -197294,6 +197090,7 @@ sort: by_weight
 饱和场	bǎo;ub hé;hk chǎng;tp	45
 饱和带	bǎo;ub hé;hk dài;cj	225
 饱和的	bǎo;ub hé;hk de;bu	958
+饱和点	bǎo;ub hé;hk diǎn;vh	454
 保和殿	bǎo;ra hé;hk diàn;uu	78
 宝合丁	bǎo;by hé;rk dīng;al	194
 饱和度	bǎo;ub hé;hk dù;gy	5150
@@ -197498,7 +197295,6 @@ sort: by_weight
 保惠师	bǎo;ra huì;ix shī;lj	315
 包婚车	bāo;bs hūn;no chē;au	103
 包馄饨	bāo;bs hún;ub tun;ut	666
-饱和点	bǎo;ub huó;hk diǎn;vh	454
 报活动	bào;fy huó;du dòng;yl	729
 报火警	bào;fy huǒ;br jǐng;ck	482
 爆火了	bào;hu huǒ;br le;al	378
@@ -203207,7 +203003,6 @@ sort: by_weight
 贝斯基	bèi;kr sī;ct jī;ct	418
 被撕开	bèi;pp sī;ft kāi;ac	132
 被撕了	bèi;pp sī;ft le;al	626
-被撕了	bèi;pp sī;ft le;al	46
 被撕裂	bèi;pp sī;ft liè;dy	806
 北四路	běi;lb sì;we lù;zk	418
 北司马	běi;lb sī;vk mǎ;va	288
@@ -209233,7 +209028,6 @@ sort: by_weight
 变性了	biàn;wy xìng;xu le;al	52
 变形力	biàn;wy xíng;kp lì;vp	266
 变形量	biàn;wy xíng;kp liàng;ol	486
-变形量	biàn;wy xíng;kp liàng;ol	32
 变形率	biàn;wy xíng;kp lǜ;wu	338
 变型男	biàn;wy xíng;kt nán;tl	436
 变形能	biàn;wy xíng;kp néng;sb	626
@@ -209915,7 +209709,6 @@ sort: by_weight
 标签页	biāo;au qiān;vq yè;ab	1526
 标签云	biāo;au qiān;vq yún;ag	19
 标签纸	biāo;au qiān;vq zhǐ;su	50
-标签纸	biāo;au qiān;vq zhǐ;su	46
 标签值	biāo;au qiān;vq zhí;rq	45
 标签中	biāo;au qiān;vq zhōng;kl	900
 标枪兵	biāo;au qiāng;av bīng;qb	302
@@ -210283,7 +210076,6 @@ sort: by_weight
 标准品	biāo;au zhǔn;dv pǐn;kk	738
 标准器	biāo;au zhǔn;dv qì;xx	540
 标准气	biāo;au zhǔn;dv qì;pv	407
-标准器	biāo;au zhǔn;dv qì;xx	46
 标准枪	biāo;au zhǔn;dv qiāng;av	356
 标准日	biāo;au zhǔn;dv rì;wa	886
 标准三	biāo;au zhǔn;dv sān;ae	693
@@ -216564,7 +216356,6 @@ sort: by_weight
 不服输	bù;ab fú;oy shū;id	1557
 不服帖	bù;ab fú;oy tiē;jv	72
 不复位	bú;ab fù;pw wèi;rl	252
-不复位	bú;ab fù;pw wèi;rl	32
 不负我	bú;ab fù;db wǒ;ga	666
 不复我	bú;ab fù;pw wǒ;ga	258
 不服务	bù;ab fú;oy wù;wl	644
@@ -217222,7 +217013,6 @@ sort: by_weight
 不归客	bù;ab guī;le kè;bk	31
 不归来	bù;ab guī;le lái;aa	396
 不贵了	bú;ab guì;vb le;al	666
-不归零	bù;ab guī;le líng;ys	46
 不归零	bù;ab guī;le líng;ys	6
 不归路	bù;ab guī;le lù;zk	901
 不规律	bù;ab guī;fj lǜ;ry	1224
@@ -218160,7 +217950,6 @@ sort: by_weight
 不加钱	bù;ab jiā;lk qián;jj	207
 不加强	bù;ab jiā;lk qiáng;gi	63
 不加热	bù;ab jiā;lk rè;fh	652
-不加热	bù;ab jiā;lk rè;fh	32
 不嫁人	bú;ab jià;nu rén;pn	688
 不加绒	bù;ab jiā;lk róng;su	25
 不加入	bù;ab jiā;lk rù;pn	918
@@ -219274,7 +219063,6 @@ sort: by_weight
 不良了	bù;ab liáng;dg le;al	505
 不两立	bù;ab liǎng;ar lì;wb	34
 不良率	bù;ab liáng;dg lǜ;wu	963
-不良率	bù;ab liáng;dg lǜ;wu	32
 不亮码	bú;ab liàng;wj mǎ;um	4
 不良女	bù;ab liáng;dg nǚ;va	418
 不良品	bù;ab liáng;dg pǐn;kk	85
@@ -224116,6 +223904,7 @@ sort: by_weight
 不再犯	bú;ab zài;ar fàn;qv	774
 不在岗	bú;ab zài;ut gǎng;ux	590
 不在高	bú;ab zài;ut gāo;wk	747
+不在行	bú;ab zài;ut háng;rd	770
 不在乎	bú;ab zài;ut hu;pl	11571
 不再会	bú;ab zài;ar huì;ry	940
 不再回	bú;ab zài;ar huí;wk	714
@@ -224176,7 +223965,6 @@ sort: by_weight
 不再向	bú;ab zài;ar xiàng;pk	138
 不在想	bú;ab zài;ut xiǎng;ax	110
 不再写	bú;ab zài;ar xiě;by	608
-不在行	bú;ab zài;ut xíng;rd	770
 不在呀	bú;ab zài;ut ya;ky	9
 不在意	bú;ab zài;ut yì;lx	6547
 不再以	bú;ab zài;ar yǐ;lr	864
@@ -226552,7 +226340,6 @@ sort: by_weight
 菜市场	cài;ca shì;wj chǎng;tp	5247
 采石场	cǎi;va shí;ak chǎng;tp	379
 采石厂	cǎi;va shí;ak chǎng;ap	323
-菜市场	cài;ca shì;wj chǎng;tp	46
 彩石邨	cǎi;vp shí;ak cūn;te	76
 彩石道	cǎi;vp shí;ak dào;zz	162
 才使得	cái;up shǐ;rl de;rc	1485
@@ -234315,7 +234102,6 @@ sort: by_weight
 朝两边	cháo;uo liǎng;ar biān;zl	81
 炒两菜	chǎo;hu liǎng;ar cài;ca	52
 超量程	chāo;tk liàng;ol chéng;hw	220
-超量程	chāo;tk liàng;ol chéng;hw	46
 炒凉粉	chǎo;hu liáng;dx fěn;mf	19
 超良心	chāo;tk liáng;dg xīn;dd	328
 超临界	chāo;tk lín;lk jiè;tj	264
@@ -236844,7 +236630,6 @@ sort: by_weight
 称此时	chēng;hx cǐ;vb shí;to	446
 乘错车	chéng;qr cuò;jo chē;au	83
 秤错了	chèng;hp cuò;jo le;al	46
-称错了	chēng;hx cuò;jo le;al	46
 称错了	chēng;hx cuò;jo le;al	42
 乘大巴	chéng;qr dà;ar bā;sl	639
 成大才	chéng;gv dà;ar cái;up	19
@@ -237051,7 +236836,6 @@ sort: by_weight
 成对照	chéng;gv duì;yc zhào;oh	6
 成吨的	chéng;gv dūn;kt de;bu	323
 撑多久	chēng;fu duō;xx jiǔ;pn	69
-称多了	chēng;hx duō;xx le;al	46
 称多了	chēng;hx duō;xx le;al	34
 承恩公	chéng;ln ēn;yx gōng;bs	504
 承恩门	chéng;ln ēn;yx mén;dv	328
@@ -237930,7 +237714,6 @@ sort: by_weight
 呈上了	chéng;kw shàng;ba le;al	422
 呈上升	chéng;kw shàng;ba shēng;pc	53
 称少了	chēng;hx shǎo;xp le;al	63
-称少了	chēng;hx shǎo;xp le;al	46
 成少女	chéng;gv shào;xp nǚ;va	567
 成神经	chéng;gv shén;pu jīng;sj	846
 成神了	chéng;gv shén;pu le;al	188
@@ -238508,7 +238291,6 @@ sort: by_weight
 承载式	chéng;ln zài;gi shì;gg	1184
 承载索	chéng;ln zài;gi suǒ;ux	144
 承载台	chéng;ln zài;gi tái;sk	144
-承载台	chéng;ln zài;gi tái;sk	46
 承载体	chéng;ln zài;gi tǐ;rb	531
 承载网	chéng;ln zài;gi wǎng;kx	477
 承载物	chéng;ln zài;gi wù;nw	423
@@ -238632,7 +238414,6 @@ sort: by_weight
 承重孙	chéng;ln zhòng;ql sūn;zx	3
 称重台	chēng;hx zhòng;ql tái;sk	84
 承重台	chéng;ln zhòng;ql tái;sk	46
-称重台	chēng;hx zhòng;ql tái;sk	46
 城中心	chéng;ti zhōng;kl xīn;dd	176
 承重性	chéng;ln zhòng;ql xìng;xu	176
 城中央	chéng;ti zhōng;kl yāng;kr	666
@@ -240843,7 +240624,6 @@ sort: by_weight
 重复项	chóng;ql fù;pw xiàng;gy	53
 重复性	chóng;ql fù;pw xìng;xu	2352
 重复行	chóng;ql fù;pw xíng;rd	1008
-重复性	chóng;ql fù;pw xìng;xu	46
 重复学	chóng;ql fù;pw xué;xz	9
 重复着	chóng;ql fù;pw zhe;yo	1523
 重复帧	chóng;ql fù;pw zhēn;jb	50
@@ -242828,7 +242608,6 @@ sort: by_weight
 出方案	chū;uu fāng;wv àn;ba	846
 厨房长	chú;ic fáng;hf cháng;pn	58
 厨房秤	chú;ic fáng;hf chèng;hp	518
-厨房秤	chú;ic fáng;hf chèng;hp	46
 处方单	chǔ;wb fāng;wv dān;bu	482
 厨房刀	chú;ic fáng;hf dāo;vp	446
 厨房岛	chú;ic fáng;hf dǎo;nu	289
@@ -245402,7 +245181,6 @@ sort: by_weight
 传感盘	chuán;rv gǎn;gx pán;vm	73
 传感器	chuán;rv gǎn;gx qì;xx	14438
 川甘槭	chuān;pl gān;ca qì;ax	130
-传感器	chuán;rv gǎn;gx qì;xx	46
 传感台	chuán;rv gǎn;gx tái;sk	45
 传感网	chuán;rv gǎn;gx wǎng;kx	119
 穿高领	chuān;by gāo;wk lǐng;ry	621
@@ -247155,7 +246933,6 @@ sort: by_weight
 垂直带	chuí;qt zhí;uq dài;cj	396
 垂直的	chuí;qt zhí;uq de;bu	1053
 垂直度	chuí;qt zhí;uq dù;gy	214
-垂直度	chuí;qt zhí;uq dù;gy	32
 垂直舵	chuí;qt zhí;uq duò;vb	13
 垂直管	chuí;qt zhí;uq guǎn;vl	792
 垂直化	chuí;qt zhí;uq huà;rb	742
@@ -253416,7 +253193,6 @@ sort: by_weight
 粗糙的	cū;mq cāo;mk de;bu	3322
 粗糙地	cū;mq cāo;mk dì;ty	37
 粗糙度	cū;mq cāo;mk dù;gy	452
-粗糙度	cū;mq cāo;mk dù;gy	32
 粗糙感	cū;mq cāo;mk gǎn;gx	644
 粗糙集	cū;mq cāo;mk jí;ra	13
 粗糙了	cū;mq cāo;mk le;al	927
@@ -255126,6 +254902,7 @@ sort: by_weight
 大宝剑	dà;ar bǎo;by jiàn;qd	373
 大宝鉴	dà;ar bǎo;by jiàn;lj	236
 打薄剪	dǎ;fd báo;cc jiǎn;bd	67
+大堡礁	dà;ar bǎo;rt jiāo;uh	1125
 打报警	dǎ;fd bào;fy jǐng;ck	68
 大宝库	dà;ar bǎo;by kù;gi	69
 打包块	dǎ;fd bāo;bs kuài;tg	34
@@ -258450,7 +258227,6 @@ sort: by_weight
 大祸害	dà;ar huò;pn hai;bk	482
 大火后	dà;ar huǒ;br hòu;ik	666
 打火花	dǎ;fd huǒ;br huā;cb	288
-打火花	dǎ;fd huǒ;br huā;cb	32
 大祸患	dà;ar huò;pn huàn;ix	356
 打火机	dǎ;fd huǒ;br jī;aj	2101
 打火箭	dǎ;fd huǒ;br jiàn;vd	562
@@ -261281,7 +261057,6 @@ sort: by_weight
 大普尔	dà;ar pǔ;bo ěr;dx	171
 大浦河	dà;ar pǔ;df hé;dk	180
 大普及	dà;ar pǔ;bo jí;pn	522
-大堡礁	dà;ar pù;rt jiāo;uh	1125
 打扑克	dǎ;fd pū;fb kè;ux	399
 大浦口	dà;ar pǔ;df kǒu;la	333
 达普拉	dá;zd pǔ;bo lā;fl	126
@@ -262488,7 +262263,6 @@ sort: by_weight
 大水崛	dà;ar shuǐ;ln jué;ui	50
 大水坑	dà;ar shuǐ;ln kēng;tj	44
 大水口	dà;ar shuǐ;ln kǒu;la	202
-大水口	dà;ar shuǐ;ln kǒu;la	32
 大水库	dà;ar shuǐ;ln kù;gi	63
 大水堀	dà;ar shuǐ;ln kū;ti	57
 大水兰	dà;ar shuǐ;ln lán;bs	87
@@ -264565,7 +264339,6 @@ sort: by_weight
 打印机	dǎ;fd yìn;pe jī;aj	4333
 打印件	dǎ;fd yìn;pe jiàn;rn	594
 打印键	dǎ;fd yìn;pe jiàn;jy	224
-打印键	dǎ;fd yìn;pe jiàn;jy	46
 大音阶	dà;ar yīn;lo jiē;ej	122
 大阴茎	dà;ar yīn;eo jīng;cj	468
 大因经	dà;ar yīn;wd jīng;sj	152
@@ -264590,7 +264363,6 @@ sort: by_weight
 打印时	dǎ;fd yìn;pe shí;to	104
 打印室	dǎ;fd yìn;pe shì;bt	97
 大因素	dà;ar yīn;wd sù;fx	1053
-打印头	dǎ;fd yìn;pe tóu;dd	46
 打印头	dǎ;fd yìn;pe tóu;dd	44
 打印完	dǎ;fd yìn;pe wán;by	36
 打印线	dǎ;fd yìn;pe xiàn;sj	936
@@ -264605,7 +264377,6 @@ sort: by_weight
 打印针	dǎ;fd yìn;pe zhēn;ju	324
 大印镇	dà;ar yìn;pe zhèn;jb	122
 打印纸	dǎ;fd yìn;pe zhǐ;su	389
-打印纸	dǎ;fd yìn;pe zhǐ;su	46
 打印中	dǎ;fd yìn;pe zhōng;kl	648
 大银子	dà;ar yín;jg zi;la	540
 打印字	dǎ;fd yìn;pe zì;bz	293
@@ -276381,7 +276152,6 @@ sort: by_weight
 挡风墙	dǎng;fe fēng;jx qiáng;tk	3
 挡风沙	dǎng;fe fēng;jx shā;du	13
 党风室	dǎng;xx fēng;jx shì;bt	378
-挡风罩	dǎng;fe fēng;jx zhào;su	46
 挡风罩	dǎng;fe fēng;jx zhào;su	44
 当富贵	dāng;xe fù;bt guì;vb	288
 当辅警	dāng;xe fǔ;if jǐng;ck	16
@@ -279365,7 +279135,6 @@ sort: by_weight
 导向绳	dǎo;sc xiàng;pk shéng;sd	44
 倒像是	dào;rd xiàng;ru shì;oz	685
 导向套	dǎo;sc xiàng;pk tào;dg	243
-导向套	dǎo;sc xiàng;pk tào;dg	32
 倒象系	dào;rd xiàng;du xì;px	45
 导向线	dǎo;sc xiàng;pk xiàn;sj	43
 导向销	dǎo;sc xiàng;pk xiāo;jo	73
@@ -282372,7 +282141,6 @@ sort: by_weight
 低电位	dī;ru diàn;ov wèi;rl	428
 地电位	dì;ty diàn;ov wèi;rl	338
 低电压	dī;ru diàn;ov yā;id	305
-低电压	dī;ru diàn;ov yā;id	46
 地电仪	dì;ty diàn;ov yí;ry	45
 低电阻	dī;ru diàn;ov zǔ;eq	6
 低调啊	dī;ru diào;yk a;kk	567
@@ -286332,7 +286100,6 @@ sort: by_weight
 滇池边	diān;db chí;dy biān;zl	414
 电池仓	diàn;ov chí;dy cāng;rv	666
 电池舱	diàn;ov chí;dy cāng;vv	323
-电池仓	diàn;ov chí;dy cāng;rv	46
 电池槽	diàn;ov chí;dy cáo;ao	459
 电池厂	diàn;ov chí;dy chǎng;ap	157
 电池长	diàn;ov chí;dy cháng;pn	141
@@ -286952,7 +286719,6 @@ sort: by_weight
 点火后	diǎn;vh huǒ;br hòu;ik	621
 电火花	diàn;ov huǒ;br huā;cb	380
 点火花	diǎn;vh huǒ;br huā;cb	55
-电火花	diàn;ov huǒ;br huā;cb	32
 店伙计	diàn;gv huǒ;rh jì;yu	19
 点火角	diǎn;vh huǒ;br jiǎo;dy	73
 点火炬	diǎn;vh huǒ;br jù;hj	346
@@ -287710,7 +287476,6 @@ sort: by_weight
 电热杯	diàn;ov rè;fh bēi;ab	25
 电热垫	diàn;ov rè;fh diàn;ft	238
 电热管	diàn;ov rè;fh guǎn;vl	75
-电热管	diàn;ov rè;fh guǎn;vl	32
 电热锅	diàn;ov rè;fh guō;jn	63
 电热壶	diàn;ov rè;fh hú;ty	22
 点热量	diǎn;vh rè;fh liàng;ol	526
@@ -288651,7 +288416,6 @@ sort: by_weight
 电子秤	diàn;ov zǐ;la chèng;hp	791
 电子城	diàn;ov zǐ;la chéng;ti	106
 电子称	diàn;ov zǐ;la chēng;hx	84
-电子秤	diàn;ov zǐ;la chèng;hp	46
 电子尺	diàn;ov zǐ;la chǐ;un	3
 电子单	diàn;ov zǐ;la dān;bu	531
 电子档	diàn;ov zǐ;la dàng;ae	846
@@ -289023,7 +288787,6 @@ sort: by_weight
 掉公司	diào;fu gōng;bs sī;vk	576
 调工作	diào;yk gōng;aa zuò;rv	9
 吊钩秤	diào;kj gōu;jg chèng;hp	99
-吊钩秤	diào;kj gōu;jg chèng;hp	46
 钓够了	diào;ju gòu;jx le;al	54
 掉沟里	diào;fu gōu;dg lǐ;tt	500
 吊钩梁	diào;kj gōu;jg liáng;da	4
@@ -289262,7 +289025,6 @@ sort: by_weight
 调脾胃	diào;yk pí;ou wèi;to	477
 掉皮屑	diào;fu pí;py xiè;uo	342
 调平夹	diào;yk píng;au jiā;ar	69
-调平脚	diào;yk píng;au jiǎo;oe	46
 调平脚	diào;yk píng;au jiǎo;oe	43
 调平了	diào;yk píng;au le;al	39
 调平水	diào;yk píng;au shuǐ;ln	68
@@ -290546,7 +290308,6 @@ sort: by_weight
 定位焊	dìng;bz wèi;rl hàn;hg	243
 定位好	dìng;bz wèi;rl hǎo;nz	693
 定位环	dìng;bz wèi;rl huán;wb	42
-定位环	dìng;bz wèi;rl huán;wb	32
 定位机	dìng;bz wèi;rl jī;aj	634
 定位基	dìng;bz wèi;rl jī;ct	391
 定位夹	dìng;bz wèi;rl jiā;ar	67
@@ -290575,7 +290336,6 @@ sort: by_weight
 定位图	dìng;bz wèi;rl tú;wd	44
 定位线	dìng;bz wèi;rl xiàn;sj	364
 定位像	dìng;bz wèi;rl xiàng;ru	284
-定位销	dìng;bz wèi;rl xiāo;jo	32
 定位销	dìng;bz wèi;rl xiāo;jo	16
 定位仪	dìng;bz wèi;rl yí;ry	53
 定位于	dìng;bz wèi;rl yú;au	1633
@@ -290840,7 +290600,6 @@ sort: by_weight
 盯着我	dīng;od zhe;yo wǒ;ga	2336
 顶着雨	dǐng;dy zhe;yo yǔ;ad	35
 顶针板	dǐng;dy zhēn;ju bǎn;ay	54
-顶针板	dǐng;dy zhēn;ju bǎn;ay	32
 顶枕缝	dǐng;dy zhěn;ae fèng;sf	4
 顶枕沟	dǐng;dy zhěn;ae gōu;dg	248
 丁真火	dīng;al zhēn;ub huǒ;br	117
@@ -297667,7 +297426,6 @@ sort: by_weight
 对不齐	duì;yc bù;ab qí;wl	254
 兑不起	duì;bx bù;ab qǐ;tj	47
 对不上	duì;yc bú;ab shàng;ba	2729
-对不上	duì;yc bú;ab shàng;ba	46
 对不住	duì;yc bú;ab zhù;rv	1074
 对菜吧	duì;yc cài;ca ba;kb	320
 对财富	duì;yc cái;bc fù;bt	801
@@ -305473,7 +305231,6 @@ sort: by_weight
 法律与	fǎ;dq lǜ;ry yǔ;va	950
 法律战	fǎ;dq lǜ;ry zhàn;vg	432
 法律中	fǎ;dq lǜ;ry zhōng;kl	922
-砝码盒	fǎ;uq mǎ;um hé;rm	46
 砝码盒	fǎ;uq mǎ;um hé;rm	39
 发麻了	fā;fy má;ga le;al	567
 砝码盘	fǎ;uq mǎ;um pán;vm	39
@@ -310551,7 +310308,6 @@ sort: by_weight
 放水里	fàng;fw shuǐ;ln lǐ;tt	648
 防水门	fáng;ef shuǐ;ln mén;dv	279
 防水膜	fáng;ef shuǐ;ln mó;od	468
-防水膜	fáng;ef shuǐ;ln mó;od	46
 放水瓶	fàng;fw shuǐ;ln píng;bw	297
 防水漆	fáng;ef shuǐ;ln qī;du	41
 防水墙	fáng;ef shuǐ;ln qiáng;tk	35
@@ -310573,7 +310329,6 @@ sort: by_weight
 仿水印	fǎng;rf shuǐ;ln yìn;pe	45
 防水毡	fáng;ef shuǐ;ln zhān;mv	69
 防水罩	fáng;ef shuǐ;ln zhào;su	432
-防水罩	fáng;ef shuǐ;ln zhào;su	46
 防水纸	fáng;ef shuǐ;ln zhǐ;su	3
 方顺桥	fāng;wv shùn;iy qiáo;al	3
 房舜卿	fáng;hf shùn;vf qīng;pg	76
@@ -311576,7 +311331,6 @@ sort: by_weight
 放嘴里	fàng;fw zuǐ;ky lǐ;tt	716
 放尊重	fàng;fw zūn;bc zhòng;ql	16
 防作弊	fáng;ef zuò;rv bì;xc	122
-防作弊	fáng;ef zuò;rv bì;xc	46
 放左边	fàng;fw zuǒ;ug biān;zl	54
 飞啊飞	fēi;vd a;kk fēi;vd	60
 非阿里	fēi;ls ā;ek lǐ;tt	459
@@ -314020,7 +313774,6 @@ sort: by_weight
 分辨法	fēn;bd biàn;xl fǎ;dq	320
 分辨了	fēn;bd biàn;xl le;al	616
 分辨力	fēn;bd biàn;xl lì;vp	330
-分辨力	fēn;bd biàn;xl lì;vp	46
 粪便量	fèn;mg biàn;rg liàng;ol	428
 分辨率	fēn;bd biàn;xl lǜ;wu	1764
 粪便中	fèn;mg biàn;rg zhōng;kl	810
@@ -314275,10 +314028,8 @@ sort: by_weight
 分度弧	fēn;bd dù;gy hú;gg	50
 分度盘	fēn;bd dù;gy pán;vm	189
 分度数	fēn;bd dù;gy shù;mw	248
-分度数	fēn;bd dù;gy shù;mw	46
 分度头	fēn;bd dù;gy tóu;dd	234
 分度圆	fēn;bd dù;gy yuán;wb	3
-分度值	fēn;bd dù;gy zhí;rq	46
 分度值	fēn;bd dù;gy zhí;rq	35
 分段表	fēn;bd duàn;pu biǎo;fy	3
 分段法	fēn;bd duàn;pu fǎ;dq	297
@@ -314869,9 +314620,7 @@ sort: by_weight
 粉岭围	fěn;mf lǐng;us wéi;ww	382
 分领域	fēn;bd lǐng;ry yù;ta	1210
 分流板	fēn;bd liú;di bǎn;ay	171
-分流板	fēn;bd liú;di bǎn;ay	32
 分流道	fēn;bd liú;di dào;zz	450
-分流道	fēn;bd liú;di dào;zz	32
 分流点	fēn;bd liú;di diǎn;vh	495
 分馏度	fēn;bd liú;ut dù;gy	45
 分流阀	fēn;bd liú;di fá;mg	266
@@ -315612,9 +315361,7 @@ sort: by_weight
 汾兴湖	fén;df xīng;xb hú;do	76
 分行李	fēn;bd xíng;rd lǐ;az	28
 分型面	fēn;bd xíng;kt miàn;ao	315
-分型面	fēn;bd xíng;kt miàn;ao	32
 分型线	fēn;bd xíng;kt xiàn;sj	212
-分型线	fēn;bd xíng;kt xiàn;sj	32
 分形子	fēn;bd xíng;kp zǐ;la	50
 粉锈宁	fěn;mf xiù;jn níng;bd	3
 粉绣球	fěn;mf xiù;sn qiú;wq	41
@@ -320966,7 +320713,6 @@ sort: by_weight
 符先生	fú;vc xiān;ne shēng;pf	230
 副现象	fù;ad xiàn;wj xiàng;du	392
 复现性	fù;pw xiàn;wj xìng;xu	369
-复现性	fù;pw xiàn;wj xìng;xu	46
 服现役	fú;oy xiàn;wj yì;ru	47
 浮现于	fú;dz xiàn;wj yú;au	72
 浮现在	fú;dz xiàn;wj zài;ut	1044
@@ -326985,7 +326731,6 @@ sort: by_weight
 干燥机	gān;au zào;ha jī;aj	351
 干燥基	gān;au zào;ha jī;ct	220
 赶早集	gǎn;tg zǎo;ou jí;ra	34
-干燥机	gān;au zào;ha jī;aj	32
 干燥快	gān;au zào;ha kuài;xg	396
 干燥炉	gān;au zào;ha lú;hh	153
 干燥率	gān;au zào;ha lǜ;wu	37
@@ -332104,7 +331849,6 @@ sort: by_weight
 铬染料	gè;jk rǎn;da liào;md	45
 割让地	gē;bd ràng;yu dì;ty	315
 隔热板	gé;eg rè;fh bǎn;ay	44
-隔热板	gé;eg rè;fh bǎn;ay	32
 隔热层	gé;eg rè;fh céng;uy	220
 隔热差	gé;eg rè;fh chā;yg	73
 隔热的	gé;eg rè;fh de;bu	576
@@ -337304,7 +337048,6 @@ sort: by_weight
 宫嫔妃	gōng;bk pín;nb fēi;nj	680
 公平啊	gōng;bs píng;au a;kk	693
 公平吧	gōng;bs píng;au ba;kb	549
-公平秤	gōng;bs píng;au chèng;hp	46
 公平秤	gōng;bs píng;au chèng;hp	25
 公平的	gōng;bs píng;au de;bu	1552
 公平地	gōng;bs píng;au de;ty	745
@@ -338081,7 +337824,6 @@ sort: by_weight
 公益金	gōng;bs yì;bm jīn;rb	75
 工艺精	gōng;aa yì;cv jīng;mo	940
 工艺卡	gōng;aa yì;cv kǎ;ub	324
-工艺卡	gōng;aa yì;cv kǎ;ub	32
 公益课	gōng;bs yì;bm kè;yg	814
 工艺科	gōng;aa yì;cv kē;hd	422
 工艺课	gōng;aa yì;cv kè;yg	247
@@ -341633,7 +341375,6 @@ sort: by_weight
 故障了	gù;gw zhàng;eu le;al	509
 故障率	gù;gw zhàng;eu lǜ;wu	1026
 故障码	gù;gw zhàng;eu mǎ;um	204
-故障码	gù;gw zhàng;eu mǎ;um	46
 故障少	gù;gw zhàng;eu shǎo;xp	414
 鼓掌声	gǔ;tv zhǎng;xu shēng;tu	53
 故障时	gù;gw zhàng;eu shí;to	138
@@ -348473,7 +348214,6 @@ sort: by_weight
 果蔬区	guǒ;ta shū;ci qū;kx	302
 郭叔叔	guō;we shū;uy shu;uy	333
 果树所	guǒ;ta shù;ac suǒ;ht	310
-果蔬摊	guǒ;ta shū;ci tān;fv	46
 果蔬摊	guǒ;ta shū;ci tān;fv	34
 果树学	guǒ;ta shù;ac xué;xz	78
 果树园	guǒ;ta shù;ac yuán;wy	6
@@ -351500,7 +351240,6 @@ sort: by_weight
 海鲜素	hǎi;dm xiān;yy sù;fx	396
 还嫌他	hái;zb xián;nj tā;ry	31
 海鲜摊	hǎi;dm xiān;yy tān;fv	472
-海鲜摊	hǎi;dm xiān;yy tān;fv	46
 海鲜汤	hǎi;dm xiān;yy tāng;dp	116
 海鲜桶	hǎi;dm xiān;yy tǒng;ay	25
 海鲜味	hǎi;dm xiān;yy wèi;kw	954
@@ -352958,7 +352697,6 @@ sort: by_weight
 含水量	hán;rk shuǐ;ln liàng;ol	2054
 汉水路	hàn;dy shuǐ;ln lù;zk	243
 含水率	hán;rk shuǐ;ln lǜ;wu	832
-含水率	hán;rk shuǐ;ln lǜ;wu	32
 汉水桥	hàn;dy shuǐ;ln qiáo;al	320
 寒水石	hán;bd shuǐ;ln shí;ak	364
 汗水型	hàn;dg shuǐ;ln xíng;kt	243
@@ -358186,13 +357924,11 @@ sort: by_weight
 鹤鸣亭	hè;bn míng;kn tíng;wd	117
 合模缝	hé;rk mó;ad fèng;sf	52
 合模机	hé;rk mó;ad jī;aj	189
-合模力	hé;rk mó;ad lì;vp	32
 合模力	hé;rk mó;ad lì;vp	3
 河磨料	hé;dk mó;gu liào;md	69
 核模式	hé;ar mó;ad shì;gg	572
 喝墨水	hē;kr mò;lt shuǐ;ln	6
 合模线	hé;rk mó;ad xiàn;sj	52
-合模线	hé;rk mó;ad xiàn;sj	32
 盒模型	hé;rm mó;ad xíng;kt	298
 核模型	hé;ar mó;ad xíng;kt	268
 河磨玉	hé;dk mó;gu yù;wd	3
@@ -368474,7 +368210,7 @@ sort: by_weight
 吼完了	hǒu;kv wán;by le;al	346
 后王朝	hòu;ik wáng;at cháo;uo	414
 后忘了	hòu;ik wàng;wx le;al	684
-侯王庙	hòu;ru wáng;at miào;gy	392
+侯王庙	hóu;ru wáng;at miào;gy	392
 后尾巴	hòu;ik wěi;um bā;sl	410
 后卫吧	hòu;ik wèi;ea ba;kb	239
 猴尾巴	hóu;qu wěi;um ba;sl	148
@@ -369710,7 +369446,6 @@ sort: by_weight
 虎皮裙	hǔ;hj pí;py qún;pk	400
 槲皮素	hú;ad pí;py sù;fx	298
 虎皮纹	hǔ;hj pí;py wén;sw	486
-虎皮纹	hǔ;hj pí;py wén;sw	32
 护皮油	hù;fh pí;py yóu;dy	43
 虎皮玉	hǔ;hj pí;py yù;wd	117
 虎皮鱼	hǔ;hj pí;py yú;da	87
@@ -373591,7 +373326,6 @@ sort: by_weight
 缓冲带	huǎn;sy chōng;dv dài;cj	166
 缓冲袋	huǎn;sy chōng;dv dài;ry	79
 缓冲垫	huǎn;sy chōng;dv diàn;ft	531
-缓冲垫	huǎn;sy chōng;dv diàn;ft	32
 缓冲对	huǎn;sy chōng;dv duì;yc	82
 缓冲盖	huǎn;sy chōng;dv gài;ym	69
 缓冲罐	huǎn;sy chōng;dv guàn;fv	144
@@ -387615,7 +387349,6 @@ sort: by_weight
 混合类	hùn;db hé;rk lèi;md	612
 混合量	hùn;db hé;rk liàng;ol	248
 混合粮	hùn;db hé;rk liáng;ml	118
-混合料	hùn;db hé;rk liào;md	32
 混合料	hùn;db hé;rk liào;md	22
 混合流	hùn;db hé;rk liú;di	428
 混合瘤	hùn;db hé;rk liú;bt	315
@@ -387734,7 +387467,6 @@ sort: by_weight
 婚恋中	hūn;no liàn;wx zhōng;kl	531
 混料槽	hùn;db liào;md cáo;ao	45
 混料机	hùn;db liào;md jī;aj	180
-混料机	hùn;db liào;md jī;aj	32
 混料桶	hùn;db liào;md tǒng;ay	45
 混流泵	hùn;db liú;di bèng;uu	261
 混流式	hùn;db liú;di shì;gg	9
@@ -391477,7 +391209,6 @@ sort: by_weight
 计价表	jì;yu jià;rj biǎo;fy	19
 积家表	jī;hv jiā;bu biǎo;fy	17
 计价秤	jì;yu jià;rj chèng;hp	234
-计价秤	jì;yu jià;rj chèng;hp	46
 计价称	jì;yu jià;rj chēng;hx	34
 几家愁	jǐ;pv jiā;bu chóu;hx	3
 极佳的	jí;aj jiā;rt de;bu	2126
@@ -392030,7 +391761,6 @@ sort: by_weight
 计量式	jì;yu liàng;ol shì;gg	29
 计量司	jì;yu liàng;ol sī;vk	99
 计量所	jì;yu liàng;ol suǒ;ht	464
-计量所	jì;yu liàng;ol suǒ;ht	46
 挤两桶	jǐ;fq liǎng;ar tǒng;ay	63
 计量箱	jì;yu liàng;ol xiāng;vo	297
 剂量小	jì;qd liàng;ol xiǎo;lb	495
@@ -392040,7 +391770,6 @@ sort: by_weight
 剂量仪	jì;qd liàng;ol yí;ry	152
 计量员	jì;yu liàng;ol yuán;kb	464
 计量院	jì;yu liàng;ol yuàn;ey	236
-计量员	jì;yu liàng;ol yuán;kb	46
 计量站	jì;yu liàng;ol zhàn;lv	6
 吉良镇	jí;tk liáng;dg zhèn;jb	52
 集料槽	jí;ra liào;md cáo;ao	45
@@ -393434,7 +393163,6 @@ sort: by_weight
 技术层	jì;fv shù;ad céng;uy	1143
 技术差	jì;fv shù;ad chà;yg	868
 计数秤	jì;yu shù;mw chèng;hp	50
-计数秤	jì;yu shù;mw chèng;hp	46
 技术处	jì;fv shù;ad chù;wb	958
 基数词	jī;ct shù;mw cí;yk	119
 基数大	jī;ct shù;mw dà;ar	989
@@ -394340,7 +394068,6 @@ sort: by_weight
 机械室	jī;aj xiè;ac shì;bt	476
 机械手	jī;aj xiè;ac shǒu;pf	534
 机械兽	jī;aj xiè;ac shòu;bk	481
-机械手	jī;aj xiè;ac shǒu;pf	32
 机械锁	jī;aj xiè;ac suǒ;jb	50
 机械所	jī;aj xiè;ac suǒ;ht	45
 鸡血汤	jī;yn xiě;pm tāng;dp	621
@@ -397404,7 +397131,6 @@ sort: by_weight
 加强级	jiā;lk qiáng;gi jí;sj	312
 加强件	jiā;lk qiáng;gi jiàn;rn	778
 加强筋	jiā;lk qiáng;gi jīn;vl	148
-加强筋	jiā;lk qiáng;gi jīn;vl	32
 加强酒	jiā;lk qiáng;gi jiǔ;dy	504
 加强款	jiā;lk qiáng;gi kuǎn;tq	234
 加强了	jiā;lk qiáng;gi le;al	1436
@@ -399024,7 +398750,6 @@ sort: by_weight
 鉴别卡	jiàn;lj bié;kd kǎ;ub	54
 鉴别力	jiàn;lj bié;kd lì;vp	88
 见别离	jiàn;ke bié;kd lí;wn	79
-鉴别力	jiàn;lj bié;kd lì;vp	46
 鉴别器	jiàn;lj bié;kd qì;xx	41
 见别人	jiàn;ke bié;kd rén;pn	1044
 鉴别时	jiàn;lj bié;kd shí;to	477
@@ -401322,7 +401047,6 @@ sort: by_weight
 碱水结	jiǎn;uk shuǐ;ln jié;sk	302
 碱水解	jiǎn;uk shuǐ;ln jiě;dn	42
 剪水口	jiǎn;bd shuǐ;ln kǒu;la	54
-剪水口	jiǎn;bd shuǐ;ln kǒu;la	32
 建水库	jiàn;zy shuǐ;ln kù;gi	580
 减水率	jiǎn;dk shuǐ;ln lǜ;wu	252
 碱水面	jiǎn;uk shuǐ;ln miàn;ao	729
@@ -415368,7 +415092,6 @@ sort: by_weight
 结合为	jié;sk hé;rk wéi;ld	0
 结合物	jié;sk hé;rk wù;nw	60
 结合线	jié;sk hé;rk xiàn;sj	734
-结合线	jié;sk hé;rk xiàn;sj	32
 结合性	jié;sk hé;rk xìng;xu	88
 结核性	jié;sk hé;ar xìng;xu	79
 结合型	jié;sk hé;rk xíng;kt	71
@@ -416932,7 +416655,6 @@ sort: by_weight
 界限感	jiè;tj xiàn;eg gǎn;gx	540
 接线工	jiē;fn xiàn;sj gōng;aa	594
 接线盒	jiē;fn xiàn;sj hé;rm	47
-接线盒	jiē;fn xiàn;sj hé;rm	46
 接线夹	jiē;fn xiàn;sj jiā;ar	39
 界限街	jiè;tj xiàn;eg jiē;rt	634
 借现金	jiè;ro xiàn;wj jīn;rb	585
@@ -422044,7 +421766,6 @@ sort: by_weight
 静海石	jìng;fy hǎi;dm shí;ak	37
 井海王	jǐng;ac hǎi;dm wáng;at	212
 净含量	jìng;dy hán;rk liàng;ol	210
-净含量	jìng;dy hán;rk liàng;ol	46
 井函数	jǐng;ac hán;ku shù;mw	117
 经杭州	jīng;sj háng;aj zhōu;dl	513
 井号键	jǐng;ac hào;kk jiàn;jy	3
@@ -422699,7 +422420,6 @@ sort: by_weight
 京门穴	jīng;wx mén;dv xué;bb	225
 经蒙古	jīng;sj měng;cu gǔ;uk	414
 静谧吧	jìng;fy mì;ym ba;kb	207
-精密秤	jīng;mo mì;bu chèng;hp	46
 精密秤	jīng;mo mì;bu chèng;hp	28
 精密度	jīng;mo mì;bu dù;gy	182
 粳米粉	jīng;mg mǐ;ba fěn;mf	432
@@ -427733,7 +427453,6 @@ sort: by_weight
 久坐族	jiǔ;pn zuò;tr zú;fu	522
 距岸约	jù;zj àn;ug yuē;su	117
 聚氨酯	jù;eu ān;qn zhǐ;yo	515
-聚氨酯	jù;eu ān;qn zhǐ;yo	32
 句罢了	jù;bk bà;sq le;al	490
 举白旗	jǔ;xf bái;po qí;fb	78
 举白纸	jǔ;xf bái;po zhǐ;su	324
@@ -427810,7 +427529,6 @@ sort: by_weight
 疽病方	jū;bq bìng;bn fāng;wv	45
 句柄数	jù;bk bǐng;an shù;mw	243
 聚丙烯	jù;eu bǐng;an xī;hj	333
-聚丙烯	jù;eu bǐng;an xī;hj	32
 巨柏林	jù;kk bó;ab lín;aa	252
 据博主	jù;fg bó;uc zhǔ;wt	3
 举不出	jǔ;xf bù;ab chū;uu	166
@@ -428213,7 +427931,6 @@ sort: by_weight
 居家令	jū;ug jiā;bu lìng;rs	387
 居家男	jū;ug jiā;bu nán;tl	518
 居家桥	jū;ug jiā;bu qiáo;al	310
-聚甲醛	jù;eu jiǎ;ol quán;yw	32
 聚甲醛	jù;eu jiǎ;ol quán;yw	9
 居家时	jū;ug jiā;bu shí;to	410
 居家式	jū;ug jiā;bu shì;gg	323
@@ -428625,7 +428342,6 @@ sort: by_weight
 句容人	jù;bk róng;bg rén;pn	400
 居戎氏	jū;ug róng;gu shì;pv	4
 聚乳酸	jù;eu rǔ;vv suān;yw	141
-聚乳酸	jù;eu rǔ;vv suān;yw	32
 遽如许	jù;zu rú;nk xǔ;yw	144
 巨乳症	jù;kk rǔ;vv zhèng;bv	351
 聚散球	jù;eu sàn;cw qiú;wq	53
@@ -428819,7 +428535,6 @@ sort: by_weight
 剧务组	jù;ud wù;wl zǔ;sq	53
 巨细胞	jù;kk xì;st bāo;ob	69
 巨喜欢	jù;kk xǐ;tk huan;yq	590
-聚烯烃	jù;eu xī;hj tīng;hj	32
 聚烯烃	jù;eu xī;hj tīng;hj	19
 局系统	jú;uk xì;px tǒng;sy	50
 巨系统	jù;kk xì;px tǒng;sy	45
@@ -428830,7 +428545,6 @@ sort: by_weight
 举下手	jǔ;xf xià;ab shǒu;pf	351
 居下位	jū;ug xià;ab wèi;rl	270
 聚酰胺	jù;eu xiān;ye àn;on	72
-聚酰胺	jù;eu xiān;ye àn;on	32
 举贤才	jǔ;xf xián;lb cái;up	310
 距县城	jù;zj xiàn;qs chéng;ti	28
 局限的	jú;uk xiàn;eg de;bu	824
@@ -428931,7 +428645,6 @@ sort: by_weight
 聚义厅	jù;eu yì;dx tīng;id	53
 据一位	jù;fg yí;aa wèi;rl	173
 聚乙烯	jù;eu yǐ;vv xī;hj	408
-聚乙烯	jù;eu yǐ;vv xī;hj	32
 聚一下	jù;eu yí;aa xià;ab	69
 举一下	jǔ;xf yí;aa xià;ab	62
 举一些	jǔ;xf yì;aa xiē;ve	329
@@ -438667,7 +438380,6 @@ sort: by_weight
 颗粒类	kē;gy lì;ml lèi;md	315
 颗粒粮	kē;gy lì;ml liáng;ml	118
 颗粒料	kē;gy lì;ml liào;md	428
-颗粒料	kē;gy lì;ml liào;md	32
 科利马	kē;hd lì;hd mǎ;va	540
 颗粒酶	kē;gy lì;ml méi;ym	297
 克力木	kè;ux lì;vp mù;ur	40
@@ -439674,7 +439386,6 @@ sort: by_weight
 可跳过	kě;dk tiào;zv guò;zc	634
 可调剂	kě;dk tiáo;yk jì;qd	9
 可调脚	kě;dk tiáo;yk jiǎo;oe	69
-可调脚	kě;dk tiáo;yk jiǎo;oe	46
 可调节	kě;dk tiáo;yk jié;ce	2748
 可调控	kě;dk tiáo;yk kòng;fg	75
 可调式	kě;dk tiáo;yk shì;gg	639
@@ -441769,7 +441480,6 @@ sort: by_weight
 孔学堂	kǒng;zv xué;xz táng;xt	403
 恐血症	kǒng;gx xuè;pm zhèng;bv	288
 空循环	kōng;bg xún;ro huán;wb	364
-空循环	kōng;bg xún;ro huán;wb	32
 空压机	kōng;bg yā;id jī;aj	113
 孔压计	kǒng;zv yā;id jì;yu	53
 控烟令	kòng;fg yān;hy lìng;rs	324
@@ -444120,7 +443830,6 @@ sort: by_weight
 快捷化	kuài;xg jié;fz huà;rb	418
 快结婚	kuài;xg jié;sk hūn;no	896
 快捷键	kuài;xg jié;fz jiàn;jy	6139
-快捷键	kuài;xg jié;fz jiàn;jy	46
 快接近	kuài;xg jiē;fn jìn;zt	774
 快解决	kuài;xg jiě;dn jué;dg	1040
 快捷栏	kuài;xg jié;fz lán;al	75
@@ -453917,7 +453626,6 @@ sort: by_weight
 冷冽了	lěng;ds liè;dd le;al	387
 冷裂纹	lěng;ds liè;dy wén;sw	189
 冷流道	lěng;ds liú;di dào;zz	54
-冷流道	lěng;ds liú;di dào;zz	32
 冷硫化	lěng;ds liú;ui huà;rb	4
 冷流雪	lěng;ds liú;di xuě;ye	52
 冷龙岭	lěng;ds lóng;yp lǐng;us	333
@@ -454020,7 +453728,6 @@ sort: by_weight
 冷却后	lěng;ds què;qe hòu;ik	713
 冷却剂	lěng;ds què;qe jì;qd	148
 冷却机	lěng;ds què;qe jī;aj	133
-冷却机	lěng;ds què;qe jī;aj	32
 冷却架	lěng;ds què;qe jià;la	657
 冷却间	lěng;ds què;qe jiān;mo	68
 冷却了	lěng;ds què;qe le;al	198
@@ -454088,7 +453795,6 @@ sort: by_weight
 冷水壶	lěng;ds shuǐ;ln hú;ty	364
 冷水湖	lěng;ds shuǐ;ln hú;do	201
 冷水花	lěng;ds shuǐ;ln huā;cb	598
-冷水机	lěng;ds shuǐ;ln jī;aj	32
 冷水机	lěng;ds shuǐ;ln jī;aj	9
 冷水江	lěng;ds shuǐ;ln jiāng;dg	6
 冷水浇	lěng;ds shuǐ;ln jiāo;dw	644
@@ -454581,7 +454287,6 @@ sort: by_weight
 利迪娅	lì;hd dí;zy yà;ny	134
 锂电车	lǐ;jl diàn;ov chē;au	459
 锂电池	lǐ;jl diàn;ov chí;dy	4964
-锂电池	lǐ;jl diàn;ov chí;dy	46
 里点了	lǐ;tt diǎn;vh le;al	891
 里店铺	lǐ;tt diàn;gv pù;jf	490
 离店时	lí;wn diàn;gv shí;to	549
@@ -459864,7 +459569,6 @@ sort: by_weight
 两票制	liǎng;ar piào;xu zhì;nd	850
 良品啊	liáng;dg pǐn;kk a;kk	378
 良品率	liáng;dg pǐn;kk lǜ;wu	783
-良品率	liáng;dg pǐn;kk lǜ;wu	32
 两品牌	liǎng;ar pǐn;kk pái;pu	432
 两瓶吧	liǎng;ar píng;bw ba;kb	256
 梁平法	liáng;da píng;au fǎ;dq	117
@@ -462846,7 +462550,6 @@ sort: by_weight
 灵敏啊	líng;eh mǐn;pw a;kk	364
 灵敏吧	líng;eh mǐn;pw ba;kb	238
 灵敏度	líng;eh mǐn;pw dù;gy	2744
-灵敏度	líng;eh mǐn;pw dù;gy	46
 灵敏了	líng;eh mǐn;pw le;al	657
 灵敏性	líng;eh mǐn;pw xìng;xu	254
 铃模型	líng;js mó;ad xíng;kt	4
@@ -468689,7 +468392,6 @@ sort: by_weight
 论金吧	lùn;yl jīn;rb ba;kb	252
 论斤称	lùn;yl jīn;it chēng;hx	572
 论斤卖	lùn;yl jīn;it mài;ud	97
-论斤卖	lùn;yl jīn;it mài;ud	46
 论经济	lùn;yl jīng;sj jì;dq	891
 论精神	lùn;yl jīng;mo shén;pu	580
 论经验	lùn;yl jīng;sj yàn;mq	621
@@ -468705,7 +468407,6 @@ sort: by_weight
 轮廓标	lún;il kuò;ge biāo;au	342
 轮廓灯	lún;il kuò;ge dēng;hd	13
 轮廓度	lún;il kuò;ge dù;gy	73
-轮廓度	lún;il kuò;ge dù;gy	32
 轮廓感	lún;il kuò;ge gǎn;gx	572
 轮廓光	lún;il kuò;ge guāng;xe	504
 轮廓画	lún;il kuò;ge huà;at	33
@@ -469643,7 +469344,6 @@ sort: by_weight
 螺丝侠	luó;ix sī;sa xiá;rj	364
 螺丝旋	luó;ix sī;sa xuán;fz	297
 螺丝柱	luó;ix sī;sa zhù;av	69
-螺丝柱	luó;ix sī;sa zhù;av	32
 螺丝转	luó;ix sī;sa zhuǎn;iv	518
 螺蛳转	luó;ix sī;ij zhuǎn;iv	201
 螺丝钻	luó;ix sī;sa zuān;jv	284
@@ -469713,10 +469413,8 @@ sort: by_weight
 螺纹钢	luó;ix wén;sw gāng;jx	593
 螺纹管	luó;ix wén;sw guǎn;vl	43
 螺纹规	luó;ix wén;sw guī;fj	194
-螺纹规	luó;ix wén;sw guī;fj	32
 螺纹胶	luó;ix wén;sw jiāo;of	73
 螺纹孔	luó;ix wén;sw kǒng;zv	346
-螺纹孔	luó;ix wén;sw kǒng;zv	32
 螺纹口	luó;ix wén;sw kǒu;la	266
 罗纹口	luó;sx wén;sw kǒu;la	43
 螺纹领	luó;ix wén;sw lǐng;ry	351
@@ -477303,7 +477001,6 @@ sort: by_weight
 没房间	méi;du fáng;hf jiān;mo	38
 没放开	méi;du fàng;fw kāi;ac	580
 没房了	méi;du fáng;hf le;al	454
-没放平	méi;du fàng;fw píng;au	46
 没放平	méi;du fàng;fw píng;au	39
 没放弃	méi;du fàng;fw qì;wc	339
 没放手	méi;du fàng;fw shǒu;pf	69
@@ -481338,8 +481035,6 @@ sort: by_weight
 没通风	méi;du tōng;zy fēng;jx	63
 没通关	méi;du tōng;zy guān;bt	468
 没通过	méi;du tōng;zy guò;zc	1011
-没通过	méi;du tōng;zy guò;zc	46
-没通过	méi;du tōng;zy guò;zc	32
 没痛苦	méi;du tòng;by kǔ;cg	16
 没通气	méi;du tōng;zy qì;pv	55
 美通社	měi;yd tōng;zy shè;pt	828
@@ -489883,7 +489578,6 @@ sort: by_weight
 墨味重	mò;lt wèi;kw zhòng;ql	29
 魔纹布	mó;gg wén;sw bù;uj	3
 模温机	mó;ad wēn;dm jī;aj	648
-模温机	mó;ad wēn;dm jī;aj	32
 莫问剑	mò;cd wèn;mk jiàn;qd	333
 莫文泉	mò;cd wén;wx quán;bu	4
 莫卧儿	mò;cd wò;ib ér;pv	148
@@ -490942,7 +490636,6 @@ sort: by_weight
 母菊花	mǔ;md jú;cm huā;cb	279
 模具夹	mú;ad jù;qb jiā;ar	69
 模具架	mú;ad jù;qb jià;la	69
-模具架	mú;ad jù;qb jià;la	32
 模具胶	mú;ad jù;qb jiāo;of	117
 模具口	mú;ad jù;qb kǒu;la	36
 模具框	mú;ad jù;qb kuàng;aw	31
@@ -494533,7 +494226,6 @@ sort: by_weight
 奈梅亨	nài;du méi;am hēng;wl	19
 奶棉线	nǎi;nn mián;aj xiàn;sj	42
 耐磨板	nài;ec mó;gu bǎn;ay	194
-耐磨板	nài;ec mó;gu bǎn;ay	32
 耐磨擦	nài;ec mó;gu cā;fu	53
 耐摩擦	nài;ec mó;gu cā;fu	28
 耐磨层	nài;ec mó;gu céng;uy	69
@@ -498146,7 +497838,6 @@ sort: by_weight
 内因子	nèi;kr yīn;wd zǐ;la	19
 内应力	nèi;kr yìng;ga lì;vp	210
 内营力	nèi;kr yíng;ck lì;vp	162
-内应力	nèi;kr yìng;ga lì;vp	32
 内影像	nèi;kr yǐng;op xiàng;ru	3
 内迎香	nèi;kr yíng;ze xiāng;ho	2
 内有了	nèi;kr yǒu;uo le;al	594
@@ -522829,7 +522520,6 @@ sort: by_weight
 排气尾	pái;ff qì;pv wěi;um	562
 排气罩	pái;ff qì;pv zhào;su	256
 排气针	pái;ff qì;pv zhēn;ju	37
-排气针	pái;ff qì;pv zhēn;ju	32
 牌卡住	pái;pu qiǎ;ub zhù;rv	26
 派遣工	pài;dy qiǎn;zl gōng;aa	684
 派遣军	pài;dy qiǎn;zl jūn;bi	122
@@ -525966,7 +525656,6 @@ sort: by_weight
 喷射枪	pēn;kb shè;uc qiāng;av	162
 喷射式	pēn;kb shè;uc shì;gg	28
 喷射纹	pēn;kb shè;uc wén;sw	54
-喷射纹	pēn;kb shè;uc wén;sw	32
 喷射性	pēn;kb shè;uc xìng;xu	486
 喷射着	pēn;kb shè;uc zhe;yo	22
 喷射状	pēn;kb shè;uc zhuàng;lq	590
@@ -529085,7 +528774,6 @@ sort: by_weight
 屏蔽我	píng;uk bì;cw wǒ;ga	119
 屏蔽物	píng;uk bì;cw wù;nw	320
 屏蔽线	píng;uk bì;cw xiàn;sj	66
-屏蔽线	píng;uk bì;cw xiàn;sj	46
 屏蔽箱	píng;uk bì;cw xiāng;vo	400
 屏蔽性	píng;uk bì;cw xìng;xu	446
 屏蔽仪	píng;uk bì;cw yí;ry	432
@@ -529765,7 +529453,6 @@ sort: by_weight
 平面波	píng;au miàn;ao bō;dp	581
 平面差	píng;au miàn;ao chà;yg	48
 平面点	píng;au miàn;ao diǎn;vh	252
-平面度	píng;au miàn;ao dù;gy	32
 平面度	píng;au miàn;ao dù;gy	9
 平面法	píng;au miàn;ao fǎ;dq	356
 平面感	píng;au miàn;ao gǎn;gx	378
@@ -530129,7 +529816,6 @@ sort: by_weight
 平行的	píng;au xíng;rd de;bu	1094
 平行调	píng;au xíng;rd diào;yk	72
 平行度	píng;au xíng;rd dù;gy	35
-平行度	píng;au xíng;rd dù;gy	32
 平型夫	píng;au xíng;kt fū;er	200
 平型关	píng;au xíng;kt guān;bt	135
 平行光	píng;au xíng;rd guāng;xe	220
@@ -530692,7 +530378,6 @@ sort: by_weight
 破碎了	pò;up suì;uu le;al	788
 破碎粒	pò;up suì;uu lì;ml	42
 破碎料	pò;up suì;uu liào;md	315
-破碎料	pò;up suì;uu liào;md	32
 破碎岭	pò;up suì;uu lǐng;us	225
 破碎率	pò;up suì;uu lǜ;wu	328
 破碎面	pò;up suì;uu miàn;ao	225
@@ -535552,8 +535237,6 @@ sort: by_weight
 掐指算	qiā;fj zhǐ;fo suàn;vc	585
 卡住了	qiǎ;ub zhù;rv le;al	1630
 掐住了	qiā;fj zhù;rv le;al	832
-卡住了	qiǎ;ub zhù;rv le;al	46
-卡住了	qiǎ;ub zhù;rv le;al	32
 卡住牌	qiǎ;ub zhù;rv pái;pu	26
 卡住刃	qiǎ;ub zhù;rv rèn;dd	71
 卡住时	qiǎ;ub zhù;rv shí;to	374
@@ -536057,7 +535740,6 @@ sort: by_weight
 迁飞性	qiān;zq fēi;vd xìng;xu	234
 千分比	qiān;pu fēn;bd bǐ;bb	25
 千分表	qiān;pu fēn;bd biǎo;fy	315
-千分尺	qiān;pu fēn;bd chǐ;un	32
 千分尺	qiān;pu fēn;bd chǐ;un	25
 千分点	qiān;pu fēn;bd diǎn;vh	13
 千分号	qiān;pu fēn;bd hào;kk	9
@@ -543702,7 +543384,6 @@ sort: by_weight
 清洗了	qīng;do xǐ;de le;al	1030
 清晰了	qīng;do xī;ot le;al	714
 清洗料	qīng;do xǐ;de liào;md	32
-清洗料	qīng;do xǐ;de liào;md	32
 清西陵	qīng;do xī;ak líng;ew	31
 清溪路	qīng;do xī;dd lù;zk	580
 青溪路	qīng;fo xī;dd lù;zk	209
@@ -547234,7 +546915,6 @@ sort: by_weight
 去忙吧	qù;ts máng;xw ba;kb	837
 去忙了	qù;ts máng;xw le;al	765
 去毛边	qù;ts máo;pv biān;zl	40
-去毛刺	qù;ts máo;pv cì;ud	32
 去毛刺	qù;ts máo;pv cì;ud	16
 去毛球	qù;ts máo;pv qiú;wq	518
 祛毛梳	qū;pq máo;pv shū;ai	118
@@ -547726,7 +547406,6 @@ sort: by_weight
 取舍权	qǔ;ey shě;rg quán;ay	234
 取舍时	qǔ;ey shě;rg shí;to	356
 去摄影	qù;ts shè;fy yǐng;op	598
-屈折语	qū;ui shé;ft yǔ;yk	612
 去设置	qù;ts shè;yu zhì;sq	675
 去申报	qù;ts shēn;ol bào;fy	482
 去深度	qù;ts shēn;da dù;gy	536
@@ -548769,6 +548448,7 @@ sort: by_weight
 觑着人	qù;hj zhe;yo rén;pn	99
 去折腾	qù;ts zhē;ft teng;om	806
 曲折性	qū;wc zhé;ft xìng;xu	82
+屈折语	qū;ui zhé;ft yǔ;yk	612
 取真经	qǔ;ey zhēn;ub jīng;sj	500
 取针器	qǔ;ey zhēn;ju qì;xx	48
 去镇上	qù;ts zhèn;jb shàng;ba	392
@@ -552214,7 +551894,6 @@ sort: by_weight
 热变化	rè;fh biàn;wy huà;rb	536
 热变形	rè;fh biàn;wy xíng;kp	540
 热变性	rè;fh biàn;wy xìng;xu	300
-热变形	rè;fh biàn;wy xíng;kp	32
 热表面	rè;fh biǎo;fy miàn;ao	428
 热兵器	rè;fh bīng;qb qì;xx	729
 热播榜	rè;fh bō;ft bǎng;af	342
@@ -552563,7 +552242,6 @@ sort: by_weight
 热列兹	rè;fh liè;dd zī;by	43
 热淋病	rè;fh lìn;da bìng;bn	144
 热流道	rè;fh liú;di dào;zz	306
-热流道	rè;fh liú;di dào;zz	32
 热硫化	rè;fh liú;ui huà;rb	297
 热流计	rè;fh liú;di jì;yu	76
 热流量	rè;fh liú;di liàng;ol	13
@@ -552614,7 +552292,6 @@ sort: by_weight
 热敏灸	rè;fh mǐn;pw jiǔ;jh	302
 热敏性	rè;fh mǐn;pw xìng;xu	13
 热敏纸	rè;fh mǐn;pw zhǐ;su	85
-热敏纸	rè;fh mǐn;pw zhǐ;su	46
 热磨机	rè;fh mó;gu jī;aj	180
 热模型	rè;fh mó;ad xíng;kt	261
 热木星	rè;fh mù;ur xīng;ou	594
@@ -555497,7 +555174,6 @@ sort: by_weight
 日采取	rì;wa cǎi;va qǔ;ey	526
 日产车	rì;wa chǎn;wi chē;au	662
 日产量	rì;wa chǎn;wi liàng;ol	66
-日产量	rì;wa chǎn;wi liàng;ol	32
 日产能	rì;wa chǎn;wi néng;sb	531
 日常啊	rì;wa cháng;xj a;kk	400
 日常吧	rì;wa cháng;xj ba;kb	572
@@ -556097,7 +555773,6 @@ sort: by_weight
 融合网	róng;gi hé;rk wǎng;kx	477
 融合为	róng;gi hé;rk wéi;ld	129
 熔合线	róng;hg hé;rk xiàn;sj	82
-熔合线	róng;hg hé;rk xiàn;sj	32
 融合性	róng;gi hé;rk xìng;xu	616
 融合型	róng;gi hé;rk xíng;kt	464
 融合牙	róng;gi hé;rk yá;gp	99
@@ -556185,7 +555860,6 @@ sort: by_weight
 溶解烃	róng;dg jiě;dn tīng;hj	45
 溶解物	róng;dg jiě;dn wù;nw	25
 熔接线	róng;hg jiē;fn xiàn;sj	54
-熔接线	róng;hg jiē;fn xiàn;sj	32
 溶解性	róng;dg jiě;dn xìng;xu	279
 溶解氧	róng;dg jiě;dn yǎng;qy	126
 溶解液	róng;dg jiě;dn yè;dw	351
@@ -563271,7 +562945,6 @@ sort: by_weight
 三足乌	sān;ae zú;kz wū;pa	22
 三尊佛	sān;ae zūn;bc fó;rf	428
 三坐标	sān;ae zuò;tr biāo;au	63
-三坐标	sān;ae zuò;tr biāo;au	32
 三座城	sān;ae zuò;gr chéng;ti	729
 三唑醇	sān;ae zuò;kr chún;yz	50
 三座店	sān;ae zuò;gr diàn;gv	252
@@ -563879,7 +563552,6 @@ sort: by_weight
 色明度	sè;db míng;oo dù;gy	423
 色母机	sè;db mǔ;md jī;aj	32
 色母粒	sè;db mǔ;md lì;ml	315
-色母粒	sè;db mǔ;md lì;ml	32
 色木槭	sè;db mù;ur qì;ax	220
 色目人	sè;db mù;we rén;pn	358
 瑟涅河	sè;wb niè;dt hé;dk	256
@@ -568429,7 +568101,6 @@ sort: by_weight
 商量着	shāng;wk liang;ol zhe;yo	703
 上两周	shàng;ba liǎng;ar zhōu;kk	580
 上料辊	shàng;ba liào;md gǔn;ib	45
-上料机	shàng;ba liào;md jī;aj	32
 上料机	shàng;ba liào;md jī;aj	3
 上髎穴	shàng;ba liáo;gp xué;bb	4
 上列车	shàng;ba liè;dd chē;au	702
@@ -582517,7 +582188,6 @@ sort: by_weight
 师生比	shī;lj shēng;pf bǐ;bb	556
 试生产	shì;yg shēng;pf chǎn;wi	69
 使生产	shǐ;rl shēng;pf chǎn;wi	62
-试生产	shì;yg shēng;pf chǎn;wi	32
 是生辰	shì;oz shēng;pf chén;iy	441
 十胜川	shí;al shèng;ou chuān;pl	446
 始生代	shǐ;nk shēng;pf dài;rg	4
@@ -590058,7 +589728,6 @@ sort: by_weight
 数码店	shù;mw mǎ;um diàn;gv	500
 数码多	shù;mw mǎ;um duō;xx	495
 数码港	shù;mw mǎ;um gǎng;ds	75
-数码管	shù;mw mǎ;um guǎn;vl	46
 数码管	shù;mw mǎ;um guǎn;vl	16
 数码化	shù;mw mǎ;um huà;rb	201
 数码机	shù;mw mǎ;um jī;aj	531
@@ -590525,7 +590194,6 @@ sort: by_weight
 数十艘	shù;mw shí;al sōu;vy	19
 数十所	shù;mw shí;al suǒ;ht	28
 数十台	shù;mw shí;al tái;sk	31
-熟食摊	shú;wh shí;rg tān;fv	46
 熟食摊	shú;wh shí;rg tān;fv	34
 数十套	shù;mw shí;al tào;dg	25
 数十天	shù;mw shí;al tiān;ad	47
@@ -591249,7 +590917,6 @@ sort: by_weight
 数字加	shù;mw zì;bz jiā;lk	756
 数字键	shù;mw zì;bz jiàn;jy	188
 数字间	shù;mw zì;bz jiān;mo	169
-数字键	shù;mw zì;bz jiàn;jy	46
 数字卡	shù;mw zì;bz kǎ;ub	22
 数字蜡	shù;mw zì;bz là;io	28
 数字了	shù;mw zì;bz le;al	756
@@ -592659,7 +592326,6 @@ sort: by_weight
 双面镜	shuāng;yy miàn;ao jìng;je	500
 双面呢	shuāng;yy miàn;ao ní;kb	513
 双面屏	shuāng;yy miàn;ao píng;uk	324
-双面屏	shuāng;yy miàn;ao píng;uk	46
 双面坡	shuāng;yy miàn;ao pō;tp	99
 双面人	shuāng;yy miàn;ao rén;pn	807
 双面刃	shuāng;yy miàn;ao rèn;dd	378
@@ -593451,7 +593117,6 @@ sort: by_weight
 水博士	shuǐ;ln bó;uc shì;ua	482
 水波烫	shuǐ;ln bō;dp tàng;dh	67
 水波纹	shuǐ;ln bō;dp wén;sw	330
-水波纹	shuǐ;ln bō;dp wén;sw	32
 水波形	shuǐ;ln bō;dp xíng;kp	207
 水博园	shuǐ;ln bó;uc yuán;wy	356
 谁不爱	shuí;yv bú;ab ài;vy	783
@@ -593577,7 +593242,6 @@ sort: by_weight
 水产品	shuǐ;ln chǎn;wi pǐn;kk	399
 水产区	shuǐ;ln chǎn;wi qū;kx	418
 谁产生	shuí;yv chǎn;wi shēng;pf	382
-水产摊	shuǐ;ln chǎn;wi tān;fv	46
 水产摊	shuǐ;ln chǎn;wi tān;fv	34
 水产厅	shuǐ;ln chǎn;wi tīng;id	35
 水产网	shuǐ;ln chǎn;wi wǎng;kx	162
@@ -595414,7 +595078,6 @@ sort: by_weight
 水平年	shuǐ;ln píng;au nián;pf	770
 水瓶女	shuǐ;ln píng;bw nǚ;va	801
 水平盘	shuǐ;ln píng;au pán;vm	39
-水平泡	shuǐ;ln píng;au pào;db	46
 水平泡	shuǐ;ln píng;au pào;db	39
 水平上	shuǐ;ln píng;au shàng;ba	1224
 水平时	shuǐ;ln píng;au shí;to	860
@@ -597045,7 +596708,6 @@ sort: by_weight
 顺序读	shùn;iy xù;gy dú;yd	572
 顺序对	shùn;iy xù;gy duì;yc	670
 顺序阀	shùn;iy xù;gy fá;mg	212
-顺序阀	shùn;iy xù;gy fá;mg	32
 顺序号	shùn;iy xù;gy hào;kk	82
 顺序码	shùn;iy xù;gy mǎ;um	490
 顺序器	shùn;iy xù;gy qì;xx	44
@@ -601897,7 +601559,6 @@ sort: by_weight
 耸肩膀	sǒng;re jiān;ho bǎng;of	814
 送检车	sòng;zt jiǎn;aq chē;au	51
 送检单	sòng;zt jiǎn;aq dān;bu	99
-送检单	sòng;zt jiǎn;aq dān;bu	46
 送检方	sòng;zt jiǎn;aq fāng;wv	47
 送健康	sòng;zt jiàn;ry kāng;gl	16
 宋建隆	sòng;ba jiàn;zy lóng;eu	450
@@ -603035,7 +602696,6 @@ sort: by_weight
 塑胶管	sù;nt jiāo;of guǎn;vl	13
 塑胶花	sù;nt jiāo;of huā;cb	558
 塑胶件	sù;nt jiāo;of jiàn;rn	346
-塑胶件	sù;nt jiāo;of jiàn;rn	32
 塑胶壳	sù;nt jiāo;of ké;tj	306
 塑胶类	sù;nt jiāo;of lèi;md	297
 塑胶粒	sù;nt jiāo;of lì;ml	32
@@ -603137,7 +602797,6 @@ sort: by_weight
 塑料机	sù;nt liào;md jī;aj	720
 塑料夹	sù;nt liào;md jiā;ar	387
 塑料件	sù;nt liào;md jiàn;rn	295
-塑料件	sù;nt liào;md jiàn;rn	32
 塑料桨	sù;nt liào;md jiǎng;la	38
 塑料胶	sù;nt liào;md jiāo;of	540
 塑料卡	sù;nt liào;md kǎ;ub	572
@@ -603150,7 +602809,6 @@ sort: by_weight
 塑料米	sù;nt liào;md mǐ;ba	248
 塑料膜	sù;nt liào;md mó;od	402
 塑料模	sù;nt liào;md mó;ad	362
-塑料模	sù;nt liào;md mó;ad	32
 塑料盘	sù;nt liào;md pán;vm	477
 塑料盆	sù;nt liào;md pén;fm	339
 塑料棚	sù;nt liào;md péng;ao	482
@@ -625646,7 +625304,7 @@ sort: by_weight
 台湾好	tái;sk wān;dg hǎo;nz	765
 台湾红	tái;sk wān;dg hóng;sg	3
 台湾猴	tái;sk wān;dg hóu;qu	3
-台湾话	tāi;sk wān;dg huà;yu	31
+台湾话	tái;sk wān;dg huà;yu	31
 台湾化	tái;sk wān;dg huà;rb	28
 台湾籍	tái;sk wān;dg jí;vo	82
 台湾甲	tái;sk wān;dg jiǎ;ol	266
@@ -626712,7 +626370,6 @@ sort: by_weight
 弹簧草	tán;gu huáng;vb cǎo;cu	22
 弹簧厂	tán;gu huáng;vb chǎng;ap	279
 弹簧秤	tán;gu huáng;vb chèng;hp	57
-弹簧秤	tán;gu huáng;vb chèng;hp	46
 弹簧床	tán;gu huáng;vb chuáng;ga	85
 弹簧刀	tán;gu huáng;vb dāo;vp	63
 弹簧垫	tán;gu huáng;vb diàn;ft	9
@@ -626734,7 +626391,6 @@ sort: by_weight
 弹簧土	tán;gu huáng;vb tǔ;ua	43
 弹簧音	tán;gu huáng;vb yīn;lo	96
 弹簧组	tán;gu huáng;vb zǔ;sq	459
-弹簧座	tán;gu huáng;vb zuò;gr	32
 弹簧座	tán;gu huáng;vb zuò;gr	13
 弹回来	tán;gu huí;wk lái;aa	236
 弹回去	tán;gu huí;wk qù;ts	91
@@ -627236,7 +626892,6 @@ sort: by_weight
 潭尾段	tán;du wěi;um duàn;pu	297
 摊位费	tān;fv wèi;rl fèi;fb	69
 摊位号	tān;fv wèi;rl hào;kk	328
-摊位号	tān;fv wèi;rl hào;kk	46
 摊位口	tān;fv wèi;rl kǒu;la	34
 谈未来	tán;yh wèi;aa lái;aa	742
 摊位前	tān;fv wèi;rl qián;bd	97
@@ -634337,7 +633992,6 @@ sort: by_weight
 跳芦笙	tiào;zv lú;ch shēng;vu	297
 跳乱了	tiào;zv luàn;uv le;al	53
 条码秤	tiáo;wa mǎ;um chèng;hp	84
-条码秤	tiáo;wa mǎ;um chèng;hp	46
 条码尺	tiáo;wa mǎ;um chǐ;un	39
 条码机	tiáo;wa mǎ;um jī;aj	3
 条码卡	tiáo;wa mǎ;um kǎ;ub	230
@@ -635640,7 +635294,7 @@ sort: by_weight
 铁中毒	tiě;jf zhòng;kl dú;fm	374
 铁柱观	tiě;jf zhù;av guān;yj	220
 贴住了	tiē;bv zhù;rv le;al	432
-铁铸模	tiě;jf zhù;jc mó;ad	248
+铁铸模	tiě;jf zhù;jc mú;ad	248
 铁烛台	tiě;jf zhú;hi tái;sk	180
 铁竹堂	tiě;jf zhú;gg táng;xt	9
 铁柱子	tiě;jf zhù;av zi;la	464
@@ -639137,7 +638791,6 @@ sort: by_weight
 通志馆	tōng;zy zhì;tx guǎn;ul	468
 统制官	tǒng;sy zhì;nd guān;bl	357
 通止规	tōng;zy zhǐ;lb guī;fj	73
-通止规	tōng;zy zhǐ;lb guī;fj	32
 通知过	tōng;zy zhī;uk guò;zc	702
 统治过	tǒng;sy zhì;dk guò;zc	524
 通知函	tōng;zy zhī;uk hán;ku	170
@@ -639211,7 +638864,6 @@ sort: by_weight
 通州的	tōng;zy zhōu;dl de;bu	729
 同轴的	tóng;kk zhóu;iy de;bu	403
 通州店	tōng;zy zhōu;dl diàn;gv	459
-同轴度	tóng;kk zhóu;iy dù;gy	32
 同轴度	tóng;kk zhóu;iy dù;gy	9
 通州段	tōng;zy zhōu;dl duàn;pu	378
 通州国	tōng;zy zhōu;dl guó;wy	414
@@ -639841,7 +639493,6 @@ sort: by_weight
 透明化	tòu;zn míng;oo huà;rb	813
 透明甲	tòu;zn míng;oo jiǎ;ol	118
 透明件	tòu;zn míng;oo jiàn;rn	266
-透明件	tòu;zn míng;oo jiàn;rn	32
 透明胶	tòu;zn míng;oo jiāo;of	276
 透明卡	tòu;zn míng;oo kǎ;ub	333
 透明壳	tòu;zn míng;oo ké;tj	423
@@ -642185,7 +641836,6 @@ sort: by_weight
 推不动	tuī;fv bú;ab dòng;yl	587
 腿不好	tuǐ;og bù;ab hǎo;nz	616
 退不回	tuì;zg bù;ab huí;wk	73
-退不回	tuì;zg bù;ab huí;wk	32
 推不进	tuī;fv bú;ab jìn;zj	81
 推不开	tuī;fv bù;ab kāi;ac	75
 退步了	tuì;zg bù;vu le;al	744
@@ -643739,7 +643389,6 @@ sort: by_weight
 脱模剂	tuō;ox mó;ad jì;qd	472
 脱膜剂	tuō;ox mó;od jì;qd	104
 脱模机	tuō;ox mó;ad jī;aj	41
-脱模剂	tuō;ox mó;ad jì;qd	32
 脱墨浆	tuō;ox mò;lt jiāng;lu	94
 脱模口	tuō;ox mó;ad kǒu;la	31
 托莫里	tuō;fq mò;cd lǐ;tt	333
@@ -644854,7 +644503,6 @@ sort: by_weight
 外观党	wài;xb guān;yj dǎng;xx	504
 外观好	wài;xb guān;yj hǎo;nz	958
 外观件	wài;xb guān;yj jiàn;rn	486
-外观件	wài;xb guān;yj jiàn;rn	32
 外管局	wài;xb guǎn;vl jú;uk	760
 外观美	wài;xb guān;yj měi;yd	814
 外观篇	wài;xb guān;yj piān;vc	441
@@ -653066,7 +652714,6 @@ sort: by_weight
 稳定土	wěn;hx dìng;bz tǔ;ua	490
 稳定性	wěn;hx dìng;bz xìng;xu	25974
 稳定型	wěn;hx dìng;bz xíng;kt	128
-稳定性	wěn;hx dìng;bz xìng;xu	46
 稳定呀	wěn;hx dìng;bz ya;ky	346
 蚊叮咬	wén;iw dīng;kd yǎo;kf	428
 稳定音	wěn;hx dìng;bz yīn;lo	378
@@ -674350,7 +673997,6 @@ sort: by_weight
 误差律	wù;yt chā;yg lǜ;ry	38
 无差评	wú;ay chà;yg píng;yp	53
 误差时	wù;yt chā;yg shí;to	374
-误差限	wù;yt chā;yg xiàn;eg	46
 误差限	wù;yt chā;yg xiàn;eg	39
 误差线	wù;yt chā;yg xiàn;sj	39
 误差项	wù;yt chā;yg xiàng;gy	176
@@ -675501,14 +675147,14 @@ sort: by_weight
 午后吧	wǔ;pu hòu;ik ba;kb	306
 午后茶	wǔ;pu hòu;ik chá;cm	378
 午后场	wǔ;pu hòu;ik chǎng;tp	36
-武侯祠	wǔ;gv hòu;ru cí;pk	581
+武侯祠	wǔ;gv hóu;ru cí;pk	581
 武候祠	wǔ;gv hòu;ru cí;pk	360
 午后的	wǔ;pu hòu;ik de;bu	232
 无后宫	wú;ay hòu;ik gōng;bk	200
 午后困	wǔ;pu hòu;ik kùn;wa	46
 无后门	wú;ay hòu;ik mén;dv	194
-武侯庙	wǔ;gv hòu;ru miào;gy	220
-武侯墓	wǔ;gv hòu;ru mù;ct	369
+武侯庙	wǔ;gv hóu;ru miào;gy	220
+武侯墓	wǔ;gv hóu;ru mù;ct	369
 无后期	wú;ay hòu;ik qī;co	468
 物候期	wù;nw hòu;ru qī;co	262
 乌后旗	wū;pa hòu;ik qí;fb	156
@@ -681485,7 +681131,6 @@ sort: by_weight
 西辽国	xī;ak liáo;zl guó;wy	3
 西辽河	xī;ak liáo;zl hé;dk	35
 吸料机	xī;kj liào;md jī;aj	130
-吸料机	xī;kj liào;md jī;aj	32
 洗料盘	xǐ;de liào;md pán;vm	63
 细料石	xì;st liào;md shí;ak	4
 喜辽妥	xǐ;tk liáo;zl tuǒ;vn	338
@@ -682517,7 +682162,6 @@ sort: by_weight
 吸水力	xī;kj shuǐ;ln lì;vp	391
 吸水量	xī;kj shuǐ;ln liàng;ol	526
 吸水率	xī;kj shuǐ;ln lǜ;wu	693
-吸水率	xī;kj shuǐ;ln lǜ;wu	32
 洗水唛	xǐ;de shuǐ;ln mà;kw	284
 西水门	xī;ak shuǐ;ln mén;dv	310
 吸水棉	xī;kj shuǐ;ln mián;aj	37
@@ -688586,7 +688230,6 @@ sort: by_weight
 鲜苇茎	xiān;yy wěi;cw jīng;cj	4
 限位孔	xiàn;eg wèi;rl kǒng;zv	248
 限位块	xiàn;eg wèi;rl kuài;tg	297
-限位块	xiàn;eg wèi;rl kuài;tg	32
 限位栏	xiàn;eg wèi;rl lán;al	248
 纤维类	xiān;sq wéi;sv lèi;md	616
 显威力	xiǎn;oy wēi;gn lì;vp	459
@@ -698353,9 +697996,7 @@ sort: by_weight
 小飘窗	xiǎo;lb piāo;xf chuāng;bw	16
 小票号	xiǎo;lb piào;xu hào;kk	34
 小票机	xiǎo;lb piào;xu jī;aj	84
-小票机	xiǎo;lb piào;xu jī;aj	46
 小漂亮	xiǎo;lb piào;du liang;wj	459
-小票纸	xiǎo;lb piào;xu zhǐ;su	46
 小票纸	xiǎo;lb piào;xu zhǐ;su	34
 小撇步	xiǎo;lb piē;fw bù;vu	19
 小品吧	xiǎo;lb pǐn;kk ba;kb	266
@@ -704462,7 +704103,6 @@ sort: by_weight
 信号图	xìn;rk hào;kk tú;wd	64
 信号线	xìn;rk hào;kk xiàn;sj	160
 新号线	xīn;lt hào;kk xiàn;sj	144
-信号线	xìn;rk hào;kk xiàn;sj	46
 信号箱	xìn;rk hào;kk xiāng;vo	374
 新豪轩	xīn;lt háo;wu xuān;ig	243
 信号一	xìn;rk hào;kk yī;aa	927
@@ -711157,7 +710797,6 @@ sort: by_weight
 秀水河	xiù;hn shuǐ;ln hé;dk	436
 秀水街	xiù;hn shuǐ;ln jiē;rt	57
 修水口	xiū;rp shuǐ;ln kǒu;la	54
-修水口	xiū;rp shuǐ;ln kǒu;la	32
 修水库	xiū;rp shuǐ;ln kù;gi	536
 修水利	xiū;rp shuǐ;ln lì;hd	53
 秀水路	xiù;hn shuǐ;ln lù;zk	266
@@ -711621,7 +711260,6 @@ sort: by_weight
 需提防	xū;ye dī;fz fang;ef	9
 虚地址	xū;hy dì;ty zhǐ;tv	220
 蓄电池	xù;ct diàn;ov chí;dy	914
-蓄电池	xù;ct diàn;ov chí;dy	46
 蓄电量	xù;ct diàn;ov liàng;ol	35
 虚电路	xū;hy diàn;ov lù;zk	328
 蓄电瓶	xù;ct diàn;ov píng;bw	288
@@ -716287,7 +715925,6 @@ sort: by_weight
 亚克力	yà;ay kè;ux lì;vp	575
 亚颗粒	yà;ay kē;gy lì;ml	99
 压克力	yā;id kè;ux lì;vp	69
-亚克力	yà;ay kè;ux lì;vp	32
 亚克隆	yà;ay kè;ux lóng;eu	400
 牙科镊	yá;gp kē;hd niè;jy	121
 雅克萨	yǎ;yv kè;ux sà;ci	47
@@ -717207,7 +716844,7 @@ sort: by_weight
 压铸件	yā;id zhù;jc jiàn;rn	31
 压住了	yā;id zhù;rv le;al	850
 压铸铝	yā;id zhù;jc lǚ;jk	392
-压铸模	yā;id zhù;jc mó;ad	477
+压铸模	yā;id zhù;jc mú;ad	477
 压住刃	yā;id zhù;rv rèn;dd	37
 压住纸	yā;id zhù;rv zhǐ;su	29
 压砖机	yā;id zhuān;uv jī;aj	274
@@ -721021,7 +720658,7 @@ sort: by_weight
 仰卧时	yǎng;re wò;ib shí;to	590
 仰卧位	yǎng;re wò;ib wèi;rl	528
 养乌龟	yǎng;yl wū;pa guī;dd	508
-阳武侯	yáng;eo wǔ;gv hòu;ru	428
+阳武侯	yáng;eo wǔ;gv hóu;ru	428
 洋务局	yáng;dy wù;wl jú;uk	6
 洋务派	yáng;dy wù;wl pài;dy	254
 养五脏	yǎng;yl wǔ;aw zàng;ot	594
@@ -722322,7 +721959,6 @@ sort: by_weight
 遥控杆	yáo;zf kòng;fg gān;ag	38
 遥控机	yáo;zf kòng;fg jī;aj	544
 遥控器	yáo;zf kòng;fg qì;xx	3887
-遥控器	yáo;zf kòng;fg qì;xx	46
 遥控式	yáo;zf kòng;fg shì;gg	410
 遥控锁	yáo;zf kòng;fg suǒ;jb	436
 遥控台	yáo;zf kòng;fg tái;sk	38
@@ -724405,7 +724041,6 @@ sort: by_weight
 液晶膜	yè;dw jīng;oo mó;od	279
 液晶片	yè;dw jīng;oo piàn;pv	194
 液晶屏	yè;dw jīng;oo píng;uk	898
-液晶屏	yè;dw jīng;oo píng;uk	46
 夜景时	yè;ww jǐng;ox shí;to	657
 液晶态	yè;dw jīng;oo tài;tx	279
 液晶体	yè;dw jīng;oo tǐ;rb	3
@@ -737036,7 +736671,6 @@ sort: by_weight
 一直疼	yì;aa zhí;uq téng;bd	652
 移植体	yí;hx zhí;aq tǐ;rb	346
 一直跳	yì;aa zhí;uq tiào;zv	711
-一直跳	yì;aa zhí;uq tiào;zv	46
 一直听	yì;aa zhí;uq tīng;kt	1184
 一直痛	yì;aa zhí;uq tòng;by	31
 一只桶	yì;aa zhī;kb tǒng;ay	28
@@ -739606,7 +739240,6 @@ sort: by_weight
 应变的	yìng;ga biàn;wy de;bu	806
 应变规	yìng;ga biàn;wy guī;fj	117
 应变计	yìng;ga biàn;wy jì;yu	486
-应变计	yìng;ga biàn;wy jì;yu	46
 硬边界	yìng;ug biān;zl jiè;tj	346
 应变局	yìng;ga biàn;wy jú;uk	3
 应变力	yìng;ga biàn;wy lì;vp	63
@@ -739615,7 +739248,6 @@ sort: by_weight
 应变率	yìng;ga biàn;wy lǜ;wu	351
 硬编码	yìng;ug biān;sc mǎ;um	286
 应变片	yìng;ga biàn;wy piàn;pv	450
-应变片	yìng;ga biàn;wy piàn;pv	46
 应变式	yìng;ga biàn;wy shì;gg	315
 应变数	yìng;ga biàn;wy shù;mw	3
 应变图	yìng;ga biàn;wy tú;wd	162
@@ -745419,7 +745051,6 @@ sort: by_weight
 又开了	yòu;vn kāi;ac le;al	1053
 有开了	yǒu;uo kāi;ac le;al	486
 又开裂	yòu;vn kāi;ac liè;dy	103
-又开裂	yòu;vn kāi;ac liè;dy	32
 右开门	yòu;uk kāi;ac mén;dv	32
 又开始	yòu;vn kāi;ac shǐ;nk	13276
 又开胃	yòu;vn kāi;ac wèi;to	608
@@ -753949,7 +753580,6 @@ sort: by_weight
 原煤场	yuán;ix méi;ha chǎng;tp	50
 原美冴	yuán;ix měi;yd hù;dy	400
 元每斤	yuán;aw měi;pm jīn;it	698
-元每斤	yuán;aw měi;pm jīn;it	46
 元每米	yuán;aw měi;pm mǐ;ba	306
 原煤筛	yuán;ix méi;ha shāi;vj	45
 园梅熟	yuán;wy méi;am shú;wh	45
@@ -754194,7 +753824,6 @@ sort: by_weight
 原生活	yuán;ix shēng;pf huó;du	648
 原声集	yuán;ix shēng;tu jí;ra	57
 原生矿	yuán;ix shēng;pf kuàng;ug	495
-原生料	yuán;ix shēng;pf liào;md	32
 原生料	yuán;ix shēng;pf liào;md	32
 原生林	yuán;ix shēng;pf lín;aa	41
 原声片	yuán;ix shēng;tu piàn;pv	36
@@ -760992,7 +760621,6 @@ sort: by_weight
 在胜利	zài;ut shèng;ou lì;hd	801
 再生力	zài;ar shēng;pf lì;vp	211
 再生料	zài;ar shēng;pf liào;md	414
-再生料	zài;ar shēng;pf liào;md	32
 再生铝	zài;ar shēng;pf lǚ;jk	400
 再生率	zài;ar shēng;pf lǜ;wu	220
 再生毛	zài;ar shēng;pf máo;pv	234
@@ -776976,7 +776604,6 @@ sort: by_weight
 职称吧	zhí;ev chēng;hx ba;kb	117
 支撑板	zhī;uy chēng;fu bǎn;ay	454
 支承板	zhī;uy chéng;ln bǎn;ay	65
-支撑板	zhī;uy chēng;fu bǎn;ay	32
 置成本	zhì;sq chéng;gv běn;aa	43
 支撑臂	zhī;uy chēng;fu bì;uo	328
 支撑层	zhī;uy chēng;fu céng;uy	369
@@ -777046,7 +776673,6 @@ sort: by_weight
 支撑轴	zhī;uy chēng;fu zhóu;iy	338
 支撑住	zhī;uy chēng;fu zhù;rv	242
 支撑柱	zhī;uy chēng;fu zhù;av	218
-支撑柱	zhī;uy chēng;fu zhù;av	32
 支撑桩	zhī;uy chēng;fu zhuāng;at	130
 支承桩	zhī;uy chéng;ln zhuāng;at	84
 支撑组	zhī;uy chēng;fu zǔ;sq	639
@@ -779320,7 +778946,6 @@ sort: by_weight
 只能唱	zhǐ;kb néng;sb chàng;ko	540
 智能车	zhì;uo néng;sb chē;au	1017
 智能秤	zhì;uo néng;sb chèng;hp	468
-智能秤	zhì;uo néng;sb chèng;hp	46
 智能充	zhì;uo néng;sb chōng;wy	702
 智能床	zhì;uo néng;sb chuáng;ga	936
 智能窗	zhì;uo néng;sb chuāng;bw	566
@@ -779405,7 +779030,6 @@ sort: by_weight
 之昵称	zhī;dn nì;ob chēng;hx	153
 止逆齿	zhǐ;lb nì;zn chǐ;vr	49
 止逆阀	zhǐ;lb nì;zn fá;mg	449
-止逆阀	zhǐ;lb nì;zn fá;mg	32
 止逆环	zhǐ;lb nì;zn huán;wb	32
 止逆爪	zhǐ;lb nì;zn zhǎo;in	49
 执念吧	zhí;fw niàn;rx ba;kb	432
@@ -780254,7 +779878,6 @@ sort: by_weight
 直筒裤	zhí;uq tǒng;vk kù;pi	339
 直筒款	zhí;uq tǒng;vk kuǎn;tq	9
 直通率	zhí;uq tōng;zy lǜ;wu	266
-直通率	zhí;uq tōng;zy lǜ;wu	32
 止痛片	zhǐ;lb tòng;by piàn;pv	201
 直筒裙	zhí;uq tǒng;vk qún;pk	490
 直通赛	zhí;uq tōng;zy sài;bb	378
@@ -785891,7 +785514,6 @@ sort: by_weight
 猪宝贝	zhū;qo bǎo;by bèi;kr	3
 珠宝城	zhū;ww bǎo;by chéng;ti	612
 珠宝秤	zhū;ww bǎo;by chèng;hp	69
-珠宝秤	zhū;ww bǎo;by chèng;hp	46
 助保贷	zhù;ql bǎo;ra dài;rb	482
 珠宝店	zhū;ww bǎo;by diàn;gv	355
 主报告	zhǔ;wt bào;fy gào;nk	472
@@ -787268,7 +786890,6 @@ sort: by_weight
 主流程	zhǔ;wt liú;di chéng;hw	223
 猪柳蛋	zhū;qo liǔ;ae dàn;zi	6
 主流道	zhǔ;wt liú;di dào;zz	418
-主流道	zhǔ;wt liú;di dào;zz	32
 驻留的	zhù;mv liú;pt de;bu	531
 猪流感	zhū;qo liú;di gǎn;gx	182
 主流化	zhǔ;wt liú;di huà;rb	644
@@ -787913,17 +787534,13 @@ sort: by_weight
 住宿好	zhù;rv sù;bb hǎo;nz	6
 注塑机	zhù;dv sù;nt jī;aj	53
 注塑级	zhù;dv sù;nt jí;sj	48
-注塑机	zhù;dv sù;nt jī;aj	32
-注塑级	zhù;dv sù;nt jí;sj	32
 注塑架	zhù;dv sù;nt jià;la	53
-注塑件	zhù;dv sù;nt jiàn;rn	32
 注塑件	zhù;dv sù;nt jiàn;rn	25
 注塑口	zhù;dv sù;nt kǒu;la	52
 住宿了	zhù;rv sù;bb le;al	518
 注塑料	zhù;dv sù;nt liào;md	356
 住宿楼	zhù;rv sù;bb lóu;an	44
 注塑模	zhù;dv sù;nt mó;ad	486
-注塑模	zhù;dv sù;nt mó;ad	32
 住宿票	zhù;rv sù;bb piào;xu	9
 住宿区	zhù;rv sù;bb qū;kx	88
 住宿券	zhù;rv sù;bb quàn;jd	73
@@ -791749,7 +791366,6 @@ sort: by_weight
 追溯到	zhuī;zl sù;do dào;gd	5847
 追溯力	zhuī;zl sù;do lì;vp	16
 追溯码	zhuī;zl sù;do mǎ;um	423
-追溯码	zhuī;zl sù;do mǎ;um	46
 追诉期	zhuī;zl sù;yi qī;co	630
 追溯期	zhuī;zl sù;do qī;co	384
 追诉权	zhuī;zl sù;yi quán;ay	19
@@ -792029,7 +791645,6 @@ sort: by_weight
 准确的	zhǔn;dv què;uy de;bu	1840
 准确点	zhǔn;dv què;uy diǎn;vh	711
 准确度	zhǔn;dv què;uy dù;gy	3460
-准确度	zhǔn;dv què;uy dù;gy	46
 准确化	zhǔn;dv què;uy huà;rb	333
 准确级	zhǔn;dv què;uy jí;sj	315
 准确解	zhǔn;dv què;uy jiě;dn	13
@@ -805519,7 +805134,6 @@ sort: by_weight
 安检师傅	ān;bn jiǎn;aq shī;lj fu;rc	55
 按键事件	àn;fn jiàn;jy shì;gy jiàn;rn	3
 按键失灵	àn;fn jiàn;jy shī;pf líng;eh	536
-按键失灵	àn;fn jiàn;jy shī;pf líng;eh	34
 案件事实	àn;ba jiàn;rn shì;gy shí;bd	796
 按键失效	àn;fn jiàn;jy shī;pf xiào;ww	34
 按件收费	àn;fn jiàn;rn shōu;jw fèi;fb	79
@@ -816390,7 +816004,6 @@ sort: by_weight
 保持愉悦	bǎo;ra chí;fc yú;xd yuè;xx	702
 保持原样	bǎo;ra chí;fc yuán;ix yàng;ay	670
 保持原状	bǎo;ra chí;fc yuán;ix zhuàng;lq	78
-保持原状	bǎo;ra chí;fc yuán;ix zhuàng;lq	34
 保持增长	bǎo;ra chí;fc zēng;to zhǎng;pn	298
 保持这一	bǎo;ra chí;fc zhè;zw yī;aa	113
 保持这种	bǎo;ra chí;fc zhè;zw zhǒng;hv	685
@@ -819067,11 +818680,9 @@ sort: by_weight
 保压过高	bǎo;ra yā;id guò;zc gāo;wk	18
 保压切换	bǎo;ra yā;id qiē;qd huàn;fr	18
 保压时间	bǎo;ra yā;id shí;to jiān;mo	346
-保压时间	bǎo;ra yā;id shí;to jiān;mo	18
 保压试验	bǎo;ra yā;id shì;yg yàn;mq	44
 保压系统	bǎo;ra yā;id xì;px tǒng;sy	83
 保压压力	bǎo;ra yā;id yā;id lì;vp	212
-保压压力	bǎo;ra yā;id yā;id lì;vp	18
 保压终点	bǎo;ra yā;id zhōng;sd diǎn;vh	18
 鲍亚忠江	bào;yb yà;ay zhōng;vx jiāng;dg	99
 报验登记	bào;fy yàn;mq dēng;bb jì;yj	360
@@ -829266,7 +828877,6 @@ sort: by_weight
 标准断面	biāo;au zhǔn;dv duàn;vt miàn;ao	39
 标准法典	biāo;au zhǔn;dv fǎ;dq diǎn;qb	153
 标准砝码	biāo;au zhǔn;dv fǎ;uq mǎ;um	356
-标准砝码	biāo;au zhǔn;dv fǎ;uq mǎ;um	34
 标准发音	biāo;au zhǔn;dv fā;fy yīn;lo	662
 标准方程	biāo;au zhǔn;dv fāng;wv chéng;hw	50
 标准方法	biāo;au zhǔn;dv fāng;wv fǎ;dq	61
@@ -829304,7 +828914,6 @@ sort: by_weight
 标准机架	biāo;au zhǔn;dv jī;aj jià;la	153
 标准计量	biāo;au zhǔn;dv jì;yu liàng;ol	472
 标准剂量	biāo;au zhǔn;dv jì;qd liàng;ol	315
-标准计量	biāo;au zhǔn;dv jì;yu liàng;ol	34
 标准击实	biāo;au zhǔn;dv jī;fk shí;bd	82
 标准机箱	biāo;au zhǔn;dv jī;aj xiāng;vo	225
 标准机型	biāo;au zhǔn;dv jī;aj xíng;kt	243
@@ -833369,9 +832978,7 @@ sort: by_weight
 玻纤外露	bō;wp xiān;sq wài;xb lù;yk	18
 拨弦乐器	bō;fy xián;gx yuè;px qì;xx	94
 玻纤增强	bō;wp xiān;sq zēng;to qiáng;gi	288
-玻纤增强	bō;wp xiān;sq zēng;to qiáng;gi	18
 玻纤制品	bō;wp xiān;sq zhì;nd pǐn;kk	194
-玻纤制品	bō;wp xiān;sq zhì;nd pǐn;kk	18
 博翔科技	bó;uc xiáng;yx kē;hd jì;fv	76
 博祥药业	bó;uc xiáng;py yào;cu yè;la	194
 剥小龙虾	bō;ed xiǎo;lb lóng;yp xiā;ix	387
@@ -842541,7 +842148,6 @@ sort: by_weight
 不锈钢炉	bú;ab xiù;jn gāng;jx lú;hh	162
 不锈钢门	bú;ab xiù;jn gāng;jx mén;dv	16
 不锈钢盘	bú;ab xiù;jn gāng;jx pán;vm	454
-不锈钢盘	bú;ab xiù;jn gāng;jx pán;vm	34
 不锈钢盆	bú;ab xiù;jn gāng;jx pén;fm	626
 不锈钢坯	bú;ab xiù;jn gāng;jx pī;tp	4
 不锈钢片	bú;ab xiù;jn gāng;jx piàn;pv	310
@@ -846571,7 +846177,7 @@ sort: by_weight
 采摘时节	cǎi;va zhāi;fg shí;to jié;ce	284
 采摘下来	cǎi;va zhāi;fg xià;ab lái;aa	630
 采摘野果	cǎi;va zhāi;fg yě;ly guǒ;ta	396
-才占八斗	cái;up zhān;bw bā;pn dǒu;ud	45
+才占八斗	cái;up zhàn;bw bā;pn dǒu;ud	45
 才找别人	cái;up zhǎo;fg bié;kd rén;pn	76
 才找到了	cái;up zhǎo;fg dào;gd le;al	765
 才找到你	cái;up zhǎo;fg dào;gd nǐ;rx	418
@@ -847312,7 +846918,6 @@ sort: by_weight
 参数识别	cān;sp shù;mw shí;yv bié;kd	82
 参数说明	cān;sp shù;mw shuō;yx míng;oo	132
 参数锁定	cān;sp shù;mw suǒ;jb dìng;bz	38
-参数锁定	cān;sp shù;mw suǒ;jb dìng;bz	34
 参数特征	cān;sp shù;mw tè;nc zhēng;rv	608
 参数调整	cān;sp shù;mw tiáo;yk zhěng;uv	34
 参数误差	cān;sp shù;mw wù;yt chā;yg	38
@@ -850680,7 +850285,6 @@ sort: by_weight
 产品描述	chǎn;wi pǐn;kk miáo;ft shù;zu	1048
 产品名称	chǎn;wi pǐn;kk míng;xk chēng;hx	1166
 产品铭牌	chǎn;wi pǐn;kk míng;jk pái;pu	279
-产品铭牌	chǎn;wi pǐn;kk míng;jk pái;pu	34
 产品目录	chǎn;wi pǐn;kk mù;we lù;eu	738
 产品内容	chǎn;wi pǐn;kk nèi;kr róng;bg	747
 产品牌号	chǎn;wi pǐn;kk pái;pu hào;kk	171
@@ -852270,7 +851874,6 @@ sort: by_weight
 场面壮观	chǎng;tp miàn;ao zhuàng;lt guān;yj	47
 长命百岁	cháng;pn mìng;re bǎi;ab suì;ux	728
 厂名厂址	chǎng;ap míng;xk chǎng;ap zhǐ;tv	590
-厂名厂址	chǎng;ap míng;xk chǎng;ap zhǐ;tv	34
 长命富贵	cháng;pn mìng;re fù;bt guì;vb	356
 长命功夫	cháng;pn mìng;re gōng;gl fu;er	50
 肠鸣下利	cháng;op míng;kn xià;ab lì;hd	338
@@ -854206,7 +853809,6 @@ sort: by_weight
 吵起来了	chǎo;ku qǐ;tj lái;aa le;al	672
 潮气十足	cháo;do qì;pv shí;al zú;kz	310
 超期未检	chāo;tk qī;co wèi;aa jiǎn;aq	310
-超期未检	chāo;tk qī;co wèi;aa jiǎn;aq	34
 超浅成岩	chāo;tk qiǎn;dj chéng;gv yán;uu	45
 超前点播	chāo;tk qián;bd diǎn;vh bō;ft	697
 超前点映	chāo;tk qián;bd diǎn;vh yìng;oy	63
@@ -857895,7 +857497,6 @@ sort: by_weight
 称量砝码	chēng;hx liáng;ol fǎ;uq mǎ;um	99
 称量范围	chēng;hx liáng;ol fàn;cv wéi;ww	189
 秤量范围	chēng;hp liàng;ol fàn;cv wéi;ww	34
-称量范围	chēng;hx liáng;ol fàn;cv wéi;ww	34
 成量股份	chéng;gv liàng;ol gǔ;ou fèn;rf	45
 称量记录	chēng;hx liáng;ol jì;yj lù;eu	34
 称量检定	chēng;hx liáng;ol jiǎn;aq dìng;bz	34
@@ -859523,7 +859124,6 @@ sort: by_weight
 承重构件	chéng;ln zhòng;ql gòu;ag jiàn;rn	22
 称中国人	chēng;hx zhōng;kl guó;wy rén;pn	792
 城中化石	chéng;ti zhōng;kl huà;rb shí;ak	45
-称重计价	chēng;hx zhòng;ql jì;yu jià;rj	34
 称重计价	chēng;hx zhòng;ql jì;yu jià;rj	32
 称重计量	chēng;hx zhòng;ql jì;yu liàng;ol	3
 称重记录	chēng;hx zhòng;ql jì;yj lù;eu	34
@@ -859841,16 +859441,13 @@ sort: by_weight
 尺寸定制	chǐ;un cùn;ud dìng;bz zhì;nd	37
 尺寸更大	chǐ;un cùn;ud gèng;an dà;ar	711
 尺寸公差	chǐ;un cùn;ud gōng;bs chāi;yg	73
-尺寸公差	chǐ;un cùn;ud gōng;bs chāi;yg	18
 尺寸规格	chǐ;un cùn;ud guī;fj gé;ak	612
 尺寸检验	chǐ;un cùn;ud jiǎn;aq yàn;mq	18
 尺寸界线	chǐ;un cùn;ud jiè;tj xiàn;sj	266
 尺寸偏差	chǐ;un cùn;ud piān;rc chā;yg	436
 尺寸偏大	chǐ;un cùn;ud piān;rc dà;ar	42
-尺寸偏大	chǐ;un cùn;ud piān;rc dà;ar	18
 尺寸偏了	chǐ;un cùn;ud piān;rc le;al	40
 尺寸偏小	chǐ;un cùn;ud piān;rc xiǎo;lb	42
-尺寸偏小	chǐ;un cùn;ud piān;rc xiǎo;lb	18
 尺寸适中	chǐ;un cùn;ud shì;zu zhōng;kl	482
 尺寸效应	chǐ;un cùn;ud xiào;ww yìng;ga	333
 尺寸一致	chǐ;un cùn;ud yí;aa zhì;gw	387
@@ -860489,7 +860086,7 @@ sort: by_weight
 齿轮箱厂	chǐ;vr lún;il xiāng;vo chǎng;ap	99
 齿轮咬合	chǐ;vr lún;il yǎo;kf hé;rk	356
 齿轮油泵	chǐ;vr lún;il yóu;dy bèng;uu	256
-齿轮铸模	chǐ;vr lún;il zhù;jc mó;ad	76
+齿轮铸模	chǐ;vr lún;il zhù;jc mú;ad	76
 齿轮装置	chǐ;vr lún;il zhuāng;ly zhì;sq	346
 赤裸裸的	chì;tb luǒ;pg luǒ;pg de;bu	4082
 赤裸上身	chì;tb luǒ;pg shàng;ba shēn;zc	666
@@ -861385,7 +860982,6 @@ sort: by_weight
 冲不干净	chōng;dv bù;ab gān;au jìng;dy	490
 冲不过去	chōng;dv bú;ab guò;zc qù;ts	25
 充不进电	chōng;wy bú;ab jìn;zj diàn;ov	608
-充不进电	chōng;wy bú;ab jìn;zj diàn;ov	34
 充不进去	chōng;wy bú;ab jìn;zj qù;ts	626
 充不了电	chōng;wy bù;ab liǎo;al diàn;ov	44
 充不满电	chōng;wy bù;ab mǎn;dl diàn;ov	405
@@ -861513,7 +861109,6 @@ sort: by_weight
 充电服务	chōng;wy diàn;ov fú;oy wù;wl	801
 充电功率	chōng;wy diàn;ov gōng;gl lǜ;wu	616
 充电故障	chōng;wy diàn;ov gù;gw zhàng;eu	64
-充电故障	chōng;wy diàn;ov gù;gw zhàng;eu	34
 充电管理	chōng;wy diàn;ov guǎn;vl lǐ;wl	64
 充电过程	chōng;wy diàn;ov guò;zc chéng;hw	675
 充电过热	chōng;wy diàn;ov guò;zc rè;fh	78
@@ -863731,7 +863326,6 @@ sort: by_weight
 初产母猪	chū;pd chǎn;wi mǔ;md zhū;qo	63
 出厂报价	chū;uu chǎng;ap bào;fy jià;rj	576
 出厂编号	chū;uu chǎng;ap biān;sc hào;kk	351
-出厂编号	chū;uu chǎng;ap biān;sc hào;kk	34
 出厂标配	chū;uu chǎng;ap biāo;au pèi;yj	306
 出厂标准	chū;uu chǎng;ap biāo;au zhǔn;dv	306
 出厂测试	chū;uu chǎng;ap cè;dd shì;yg	346
@@ -865583,7 +865177,6 @@ sort: by_weight
 初始辐射	chū;pd shǐ;nk fú;it shè;uc	4
 初试复试	chū;pd shì;yg fù;pw shì;yg	490
 除湿干燥	chú;em shī;dy gān;au zào;ha	338
-除湿干燥	chú;em shī;dy gān;au zào;ha	18
 除诗歌外	chú;em shī;yc gē;kq wài;xb	464
 处事公道	chǔ;wb shì;gy gōng;bs dào;zz	3
 除湿功能	chú;em shī;dy gōng;gl néng;sb	464
@@ -865814,7 +865407,6 @@ sort: by_weight
 出水水质	chū;uu shuǐ;ln shuǐ;ln zhì;ib	598
 出水太小	chū;uu shuǐ;ln tài;dd xiǎo;lb	73
 出水温度	chū;uu shuǐ;ln wēn;dm dù;gy	41
-出水温度	chū;uu shuǐ;ln wēn;dm dù;gy	18
 楚水吴山	chǔ;az shuǐ;ln wú;kt shān;kl	117
 储水组织	chǔ;ro shuǐ;ln zǔ;sq zhī;sv	76
 除水作用	chú;em shuǐ;ln zuò;rv yòng;kf	4
@@ -889495,7 +889087,6 @@ sort: by_weight
 登记保存	dēng;bb jì;yj bǎo;ra cún;uz	472
 等级保护	děng;vc jí;sj bǎo;ra hù;fh	648
 登记备案	dēng;bb jì;yj bèi;wt àn;ba	954
-登记备案	dēng;bb jì;yj bèi;wt àn;ba	34
 登记编号	dēng;bb jì;yj biān;sc hào;kk	612
 等级变化	děng;vc jí;sj biàn;wy huà;rb	306
 等积变形	děng;vc jī;hv biàn;wy xíng;kp	82
@@ -889615,7 +889206,6 @@ sort: by_weight
 登记在案	dēng;bb jì;yj zài;ut àn;ba	518
 登记在册	dēng;bb jì;yj zài;ut cè;ka	148
 登记造册	dēng;bb jì;yj zào;zk cè;ka	639
-登记造册	dēng;bb jì;yj zào;zk cè;ka	34
 登机闸机	dēng;bb jī;aj zhá;mj jī;aj	51
 等级战士	děng;vc jí;sj zhàn;vg shì;ua	234
 登记证号	dēng;bb jì;yj zhèng;yv hào;kk	598
@@ -893660,7 +893250,6 @@ sort: by_weight
 地学杂志	dì;ty xué;xz zá;ja zhì;tx	261
 地学哲学	dì;ty xué;xz zhé;fk xué;xz	50
 低压保护	dī;ru yā;id bǎo;ra hù;fh	284
-低压保护	dī;ru yā;id bǎo;ra hù;fh	18
 低压报警	dī;ru yā;id bào;fy jǐng;ck	171
 低压保险	dī;ru yā;id bǎo;ra xiǎn;eq	99
 低压部分	dī;ru yā;id bù;le fen;bd	220
@@ -894893,7 +894482,6 @@ sort: by_weight
 电池出柜	diàn;ov chí;dy chū;uu guì;aj	44
 电池电机	diàn;ov chí;dy diàn;ov jī;aj	684
 电池电量	diàn;ov chí;dy diàn;ov liàng;ol	506
-电池电量	diàn;ov chí;dy diàn;ov liàng;ol	34
 电池电芯	diàn;ov chí;dy diàn;ov xīn;cx	459
 电池电压	diàn;ov chí;dy diàn;ov yā;id	173
 电池掉电	diàn;ov chí;dy diào;fu diàn;ov	64
@@ -894905,7 +894493,6 @@ sort: by_weight
 电池腐蚀	diàn;ov chí;dy fǔ;gr shí;ui	212
 电池更换	diàn;ov chí;dy gēng;an huàn;fr	34
 电池鼓包	diàn;ov chí;dy gǔ;tv bāo;bs	432
-电池鼓包	diàn;ov chí;dy gǔ;tv bāo;bs	34
 电池故障	diàn;ov chí;dy gù;gw zhàng;eu	477
 电池管理	diàn;ov chí;dy guǎn;vl lǐ;wl	832
 滇池海棠	diān;db chí;dy hǎi;dm táng;xa	117
@@ -894939,7 +894526,6 @@ sort: by_weight
 电池卡扣	diàn;ov chí;dy qiǎ;ub kòu;fk	64
 电池卡住	diàn;ov chí;dy qiǎ;ub zhù;rv	44
 电池欠压	diàn;ov chí;dy qiàn;dr yā;id	130
-电池欠压	diàn;ov chí;dy qiàn;dr yā;id	34
 电池热泵	diàn;ov chí;dy rè;fh bèng;uu	68
 电池容量	diàn;ov chí;dy róng;bg liàng;ol	2484
 电池入柜	diàn;ov chí;dy rù;pn guì;aj	44
@@ -898072,7 +897658,6 @@ sort: by_weight
 电子吊磅	diàn;ov zǐ;la diào;kj bàng;uf	45
 电子吊称	diàn;ov zǐ;la diào;kj chèng;hx	76
 电子吊秤	diàn;ov zǐ;la diào;kj chèng;hp	38
-电子吊秤	diàn;ov zǐ;la diào;kj chèng;hp	34
 电子订单	diàn;ov zǐ;la dìng;yd dān;bu	83
 电子动能	diàn;ov zǐ;la dòng;yl néng;sb	346
 电子毒品	diàn;ov zǐ;la dú;fm pǐn;kk	19
@@ -898148,7 +897733,6 @@ sort: by_weight
 电子机械	diàn;ov zǐ;la jī;aj xiè;ac	72
 电子机芯	diàn;ov zǐ;la jī;aj xīn;cx	48
 电子价签	diàn;ov zǐ;la jià;rj qiān;vq	279
-电子价签	diàn;ov zǐ;la jià;rj qiān;vq	34
 电子驾照	diàn;ov zǐ;la jià;lm zhào;oh	45
 电子监察	diàn;ov zǐ;la jiān;lm chá;bu	459
 电子监考	diàn;ov zǐ;la jiān;lm kǎo;lk	93
@@ -898284,10 +897868,8 @@ sort: by_weight
 电子税票	diàn;ov zǐ;la shuì;hx piào;xu	45
 电子送达	diàn;ov zǐ;la sòng;zt dá;zd	45
 电子台秤	diàn;ov zǐ;la tái;sk chèng;hp	230
-电子台秤	diàn;ov zǐ;la tái;sk chèng;hp	34
 电子陶瓷	diàn;ov zǐ;la táo;ef cí;dw	28
 电子特气	diàn;ov zǐ;la tè;nc qì;pv	180
-电子天平	diàn;ov zǐ;la tiān;ad píng;au	34
 电子天平	diàn;ov zǐ;la tiān;ad píng;au	16
 电子通信	diàn;ov zǐ;la tōng;zy xìn;rk	198
 电子通讯	diàn;ov zǐ;la tōng;zy xùn;yu	104
@@ -902514,7 +902096,6 @@ sort: by_weight
 动态路由	dòng;yl tài;tx lù;zk yóu;ol	83
 动态漫游	dòng;yl tài;tx màn;dy yóu;dz	99
 动态密码	dòng;yl tài;tx mì;bu mǎ;um	621
-动态密码	dòng;yl tài;tx mì;bu mǎ;um	34
 动态模糊	dòng;yl tài;tx mó;ad hu;mo	157
 动态模量	dòng;yl tài;tx mó;ad liàng;ol	45
 动态拟合	dòng;yl tài;tx nǐ;fr hé;rk	135
@@ -907405,7 +906986,6 @@ sort: by_weight
 读数变化	dú;yd shù;mw biàn;wy huà;rb	194
 读书不多	dú;yd shū;vd bù;ab duō;xx	675
 读数不稳	dú;yd shù;mw bù;ab wěn;hx	61
-读数不稳	dú;yd shù;mw bù;ab wěn;hx	34
 读书不止	dú;yd shū;vd bù;ab zhǐ;lb	3
 度数测量	dù;gy shù;mw cè;dd liáng;ol	144
 独树成林	dú;qi shù;ac chéng;gv lín;aa	374
@@ -907454,9 +907034,7 @@ sort: by_weight
 读数跳变	dú;yd shù;mw tiào;zv biàn;wy	34
 读书娃娃	dú;yd shū;vd wá;nt wa;nt	4
 读数稳定	dú;yd shù;mw wěn;hx dìng;bz	130
-读数稳定	dú;yd shù;mw wěn;hx dìng;bz	34
 读数误差	dú;yd shù;mw wù;yt chā;yg	234
-读数误差	dú;yd shù;mw wù;yt chā;yg	34
 读书无用	dú;yd shū;vd wú;ay yòng;kf	254
 读书习惯	dú;yd shū;vd xí;vd guàn;xb	688
 读书习字	dú;yd shū;vd xí;vd zì;bz	410
@@ -908178,7 +907756,6 @@ sort: by_weight
 断接卡子	duàn;vt jiē;fn qiǎ;ub zi;la	76
 断筋腐骨	duàn;vt jīn;vl fǔ;gr gǔ;go	220
 短斤缺两	duǎn;ub jīn;it quē;fg liǎng;ar	22
-短斤少两	duǎn;ub jīn;it shǎo;xp liǎng;ar	34
 短斤少两	duǎn;ub jīn;it shǎo;xp liǎng;ar	28
 断金碎玉	duàn;vt jīn;rb suì;uu yù;wd	45
 断金之友	duàn;vt jīn;rb zhī;dn yǒu;uy	45
@@ -913381,7 +912958,6 @@ sort: by_weight
 二次回温	èr;aa cì;dq huí;wk wēn;dm	34
 二次会议	èr;aa cì;dq huì;ry yì;yy	22
 二次加工	èr;aa cì;dq jiā;lk gōng;aa	711
-二次加工	èr;aa cì;dq jiā;lk gōng;aa	18
 二次加热	èr;aa cì;dq jiā;lk rè;fh	58
 二次加压	èr;aa cì;dq jiā;lk yā;id	37
 二次检测	èr;aa cì;dq jiǎn;aq cè;dd	47
@@ -925497,7 +925073,6 @@ sort: by_weight
 非法贩卖	fēi;ls fǎ;dq fàn;by mài;ud	472
 非法放贷	fēi;ls fǎ;dq fàng;fw dài;rb	288
 非法改装	fēi;ls fǎ;dq gǎi;jw zhuāng;ly	716
-非法改装	fēi;ls fǎ;dq gǎi;jw zhuāng;ly	34
 非法干扰	fēi;ls fǎ;dq gān;au rǎo;fy	52
 非法干预	fēi;ls fǎ;dq gān;au yù;yy	13
 非法雇佣	fēi;ls fǎ;dq gù;hv yōng;ry	328
@@ -938689,13 +938264,10 @@ sort: by_weight
 改性沥青	gǎi;jw xìng;xu lì;dl qīng;fo	3
 改姓名为	gǎi;jw xìng;nu míng;xk wéi;ld	320
 改性尼龙	gǎi;jw xìng;xu ní;ub lóng;yp	99
-改性尼龙	gǎi;jw xìng;xu ní;ub lóng;yp	18
 改行迁善	gǎi;jw xíng;rd qiān;zq shàn;yk	45
 改性手术	gǎi;jw xìng;xu shǒu;pf shù;ad	4
 改性树脂	gǎi;jw xìng;xu shù;ac zhī;oo	194
-改性树脂	gǎi;jw xìng;xu shù;ac zhī;oo	18
 改性塑料	gǎi;jw xìng;xu sù;nt liào;md	38
-改性塑料	gǎi;jw xìng;xu sù;nt liào;md	18
 概形态射	gài;aw xíng;kp tài;tx shè;uc	99
 概形同构	gài;aw xíng;kp tóng;kk gòu;ag	4
 改性纤维	gǎi;jw xìng;xu xiān;sq wéi;sv	50
@@ -943481,7 +943053,6 @@ sort: by_weight
 高柳垂阴	gāo;wk liǔ;ae chuí;qt yīn;eo	76
 高流动料	gāo;wk liú;di dòng;yl liào;md	18
 高流动性	gāo;wk liú;di dòng;yl xìng;xu	878
-高流动性	gāo;wk liú;di dòng;yl xìng;xu	18
 高硫分煤	gāo;wk liú;ui fēn;bd méi;ha	50
 高硫酸钾	gāo;wk liú;ui suān;yw jiǎ;jj	90
 高硫酸钠	gāo;wk liú;ui suān;yw nà;jn	4
@@ -951146,7 +950717,6 @@ sort: by_weight
 工程硕士	gōng;aa chéng;hw shuò;uy shì;ua	245
 工程四队	gōng;aa chéng;hw sì;we duì;er	45
 工程塑料	gōng;aa chéng;hw sù;nt liào;md	126
-工程塑料	gōng;aa chéng;hw sù;nt liào;md	18
 公称通径	gōng;bs chēng;hx tōng;zy jìng;rj	328
 工程投资	gōng;aa chéng;hw tóu;fu zī;db	770
 工程土建	gōng;aa chéng;hw tǔ;ua jiàn;zy	454
@@ -952942,7 +952512,6 @@ sort: by_weight
 公平合理	gōng;bs píng;au hé;rk lǐ;wl	292
 公平角度	gōng;bs píng;au jiǎo;dy dù;gy	315
 公平交易	gōng;bs píng;au jiāo;wf yì;ow	201
-公平交易	gōng;bs píng;au jiāo;wf yì;ow	34
 公平竞技	gōng;bs píng;au jìng;lx jì;fv	173
 公平竞赛	gōng;bs píng;au jìng;lx sài;bb	675
 公平竞争	gōng;bs píng;au jìng;lx zhēng;dy	1090
@@ -956274,7 +955843,6 @@ sort: by_weight
 购物网站	gòu;bg wù;nw wǎng;kx zhàn;lv	1002
 购物消费	gòu;bg wù;nw xiāo;do fèi;fb	783
 购物小票	gòu;bg wù;nw xiǎo;lb piào;xu	770
-购物小票	gòu;bg wù;nw xiǎo;lb piào;xu	34
 购物心得	gòu;bg wù;nw xīn;dd dé;rc	44
 购物休闲	gòu;bg wù;nw xiū;ra xián;ma	756
 购物需求	gòu;bg wù;nw xū;ye qiú;au	828
@@ -959125,7 +958693,6 @@ sort: by_weight
 故障存储	gù;gw zhàng;eu cún;uz chǔ;ro	73
 菇长大了	gū;cg zhǎng;pn dà;ar le;al	28
 故障代码	gù;gw zhàng;eu dài;rg mǎ;um	544
-故障代码	gù;gw zhàng;eu dài;rg mǎ;um	34
 鼓掌的人	gǔ;tv zhǎng;xu de;bu rén;pn	536
 故障灯亮	gù;gw zhàng;eu dēng;hd liàng;wj	603
 故障地址	gù;gw zhàng;eu dì;ty zhǐ;tv	44
@@ -959173,7 +958740,6 @@ sort: by_weight
 孤掌难鸣	gū;zg zhǎng;xu nán;yv míng;kn	126
 故障内容	gù;gw zhàng;eu nèi;kr róng;bg	130
 故障排查	gù;gw zhàng;eu pái;ff chá;ad	41
-故障排查	gù;gw zhàng;eu pái;ff chá;ad	34
 故障排除	gù;gw zhàng;eu pái;ff chú;em	100
 故障判断	gù;gw zhàng;eu pàn;bd duàn;vt	405
 故障频度	gù;gw zhàng;eu pín;vy dù;gy	45
@@ -959200,13 +958766,11 @@ sort: by_weight
 故障停车	gù;gw zhàng;eu tíng;rd chē;au	93
 故障停电	gù;gw zhàng;eu tíng;rd diàn;ov	414
 故障停机	gù;gw zhàng;eu tíng;rd jī;aj	338
-故障停机	gù;gw zhàng;eu tíng;rd jī;aj	18
 故障停用	gù;gw zhàng;eu tíng;rd yòng;kf	34
 故障通报	gù;gw zhàng;eu tōng;zy bào;fy	83
 故障通告	gù;gw zhàng;eu tōng;zy gào;nk	83
 菇长歪了	gū;cg zhǎng;pn wāi;bv le;al	28
 故障维护	gù;gw zhàng;eu wéi;sv hù;fh	306
-故障维修	gù;gw zhàng;eu wéi;sv xiū;rp	34
 故障维修	gù;gw zhàng;eu wéi;sv xiū;rp	22
 故障位置	gù;gw zhàng;eu wèi;rl zhì;sq	297
 故障问题	gù;gw zhàng;eu wèn;mk tí;oy	702
@@ -962313,8 +961877,8 @@ sort: by_weight
 光斑直径	guāng;xe bān;ww zhí;uq jìng;rj	234
 广保大道	guǎng;di bǎo;ra dà;ar dào;zz	4
 广保丰田	guǎng;di bǎo;ra fēng;sl tián;wu	234
+光饱和点	guāng;xe bǎo;ub hé;hk diǎn;vh	202
 光饱和度	guāng;xe bǎo;ub hé;hk dù;gy	284
-光饱和点	guāng;xe bǎo;ub huó;hk diǎn;vh	202
 光薄介质	guāng;xe báo;cc jiè;rl zhì;ib	45
 广褒无垠	guǎng;di bāo;ya wú;ay yín;tg	117
 光被四表	guāng;xe bèi;pp sì;we biǎo;fy	9
@@ -965488,7 +965052,6 @@ sort: by_weight
 过程检测	guò;zc chéng;hw jiǎn;aq cè;dd	289
 过程艰辛	guò;zc chéng;hw jiān;yg xīn;lu	436
 过程检验	guò;zc chéng;hw jiǎn;aq yàn;mq	103
-过程检验	guò;zc chéng;hw jiǎn;aq yàn;mq	18
 过程接口	guò;zc chéng;hw jiē;fn kǒu;la	153
 过程控制	guò;zc chéng;hw kòng;fg zhì;nd	182
 国城矿业	guó;wy chéng;ti kuàng;ug yè;la	45
@@ -968434,7 +967997,6 @@ sort: by_weight
 国营牧场	guó;wy yíng;ck mù;nw chǎng;tp	202
 国营农场	guó;wy yíng;ck nóng;by chǎng;tp	85
 过盈配合	guò;zc yíng;nm pèi;yj hé;rk	320
-过盈配合	guò;zc yíng;nm pèi;yj hé;rk	18
 国营频道	guó;wy yíng;ck pín;vy dào;zz	338
 国营企业	guó;wy yíng;ck qǐ;rv yè;la	254
 国营商店	guó;wy yíng;ck shāng;wk diàn;gv	567
@@ -968602,7 +968164,6 @@ sort: by_weight
 国运昌盛	guó;wy yùn;zy chāng;oo shèng;im	13
 国运兴衰	guó;wy yùn;zy xīng;xb shuāi;yv	279
 过载保护	guò;zc zài;gi bǎo;ra hù;fh	66
-过载保护	guò;zc zài;gi bǎo;ra hù;fh	34
 过载报警	guò;zc zài;gi bào;fy jǐng;ck	18
 过载测试	guò;zc zài;gi cè;dd shì;yg	49
 过载模式	guò;zc zài;gi mó;ad shì;gg	171
@@ -977175,7 +976736,6 @@ sort: by_weight
 河钢资源	hé;dk gāng;jx zī;db yuán;dx	50
 合格标本	hé;rk gé;ak biāo;au běn;aa	153
 合格标志	hé;rk gé;ak biāo;au zhì;tx	64
-合格标志	hé;rk gé;ak biāo;au zhì;tx	34
 合格标准	hé;rk gé;ak biāo;au zhǔn;dv	720
 合格产品	hé;rk gé;ak chǎn;wi pǐn;kk	207
 合格成绩	hé;rk gé;ak chéng;gv jì;sb	706
@@ -984880,7 +984440,7 @@ sort: by_weight
 厚外套了	hòu;iz wài;xb tào;dg le;al	194
 厚往薄来	hòu;iz wǎng;rv báo;cc lái;aa	13
 猴王出世	hóu;qu wáng;at chū;uu shì;cv	274
-侯王将相	hòu;ru wáng;at jiàng;lc xiàng;ao	3
+侯王将相	hóu;ru wáng;at jiàng;lc xiàng;ao	3
 猴王世家	hóu;qu wáng;at shì;cv jiā;bu	346
 猴王五九	hóu;qu wáng;at wǔ;aw jiǔ;pv	194
 后围侧板	hòu;ik wéi;ww cè;rd bǎn;ay	90
@@ -987360,7 +986920,7 @@ sort: by_weight
 滑步鞋底	huá;do bù;vu xié;ct dǐ;gu	20
 华埠新闻	huá;ru bù;tu xīn;lt wén;me	4
 话不虚传	huà;yu bù;ab xū;hy chuán;rv	220
-话不在行	huà;yu bú;ab zài;ut xíng;rd	130
+话不在行	huà;yu bú;ab zài;ut háng;rd	130
 华不再扬	huá;ru bú;ab zài;ar yáng;fp	153
 花不知名	huā;cb bù;ab zhī;uk míng;xk	162
 华不注山	huá;ru bú;ab zhù;dv shān;kl	279
@@ -1003107,7 +1002667,6 @@ sort: by_weight
 激光标记	jī;dw guāng;xe biāo;au jì;yj	53
 激光剥离	jī;dw guāng;xe bō;ed lí;wn	96
 激光补焊	jī;dw guāng;xe bǔ;pb hàn;hg	32
-激光补焊	jī;dw guāng;xe bǔ;pb hàn;hg	18
 激光裁床	jī;dw guāng;xe cái;gy chuáng;ga	76
 激光裁剪	jī;dw guāng;xe cái;gy jiǎn;bd	43
 激光材料	jī;dw guāng;xe cái;ac liào;md	328
@@ -1004917,7 +1004476,6 @@ sort: by_weight
 剂量过大	jì;qd liàng;ol guò;zc dà;ar	490
 计量回路	jì;yu liàng;ol huí;wk lù;zk	94
 剂量减半	jì;qd liàng;ol jiǎn;dk bàn;bf	302
-计量检定	jì;yu liàng;ol jiǎn;aq dìng;bz	34
 计量检定	jì;yu liàng;ol jiǎn;aq dìng;bz	22
 计量监督	jì;yu liàng;ol jiān;lm dū;uo	436
 剂量监控	jì;qd liàng;ol jiān;lm kòng;fg	76
@@ -1004942,7 +1004500,6 @@ sort: by_weight
 计量违法	jì;yu liàng;ol wéi;zw fǎ;dq	34
 计量位置	jì;yu liàng;ol wèi;rl zhì;sq	18
 计量误差	jì;yu liàng;ol wù;yt chā;yg	94
-计量误差	jì;yu liàng;ol wù;yt chā;yg	34
 计量系数	jì;yu liàng;ol xì;px shù;mw	82
 剂量限值	jì;qd liàng;ol xiàn;eg zhí;rq	220
 剂量相关	jì;qd liàng;ol xiāng;ao guān;bt	351
@@ -1004954,7 +1004511,6 @@ sort: by_weight
 计量巡查	jì;yu liàng;ol xún;zv chá;ad	34
 计量仪表	jì;yu liàng;ol yí;ry biǎo;fy	328
 计量异常	jì;yu liàng;ol yì;sc cháng;xj	94
-计量异常	jì;yu liàng;ol yì;sc cháng;xj	18
 计量仪器	jì;yu liàng;ol yí;ry qì;xx	25
 几两银子	jǐ;pv liǎng;ar yín;jg zi;la	670
 脊梁长疮	jǐ;ro liáng;da zhǎng;pn chuāng;bv	99
@@ -1015524,7 +1015080,6 @@ sort: by_weight
 检定砝码	jiǎn;aq dìng;bz fǎ;uq mǎ;um	34
 鉴定方法	jiàn;lj dìng;bz fāng;wv fǎ;dq	662
 检定方法	jiǎn;aq dìng;bz fāng;wv fǎ;dq	179
-检定方法	jiǎn;aq dìng;bz fāng;wv fǎ;dq	34
 坚定方向	jiān;lt dìng;bz fāng;wv xiàng;pk	338
 鉴定费用	jiàn;lj dìng;bz fèi;fb yong;kf	47
 坚定风采	jiān;lt dìng;bz fēng;jx cǎi;va	4
@@ -1015532,12 +1015087,10 @@ sort: by_weight
 鉴定古董	jiàn;lj dìng;bz gǔ;uk dǒng;cv	333
 鉴定估价	jiàn;lj dìng;bz gū;rg jià;rj	544
 检定规程	jiǎn;aq dìng;bz guī;fj chéng;hw	342
-检定规程	jiǎn;aq dìng;bz guī;fj chéng;hw	34
 坚定果敢	jiān;lt dìng;bz guǒ;ta gǎn;ew	338
 坚定捍卫	jiān;lt dìng;bz hàn;fg wèi;ea	522
 检定合格	jiǎn;aq dìng;bz hé;rk gé;ak	436
 鉴定合格	jiàn;lj dìng;bz hé;rk gé;ak	369
-检定合格	jiǎn;aq dìng;bz hé;rk gé;ak	34
 见顶回落	jiàn;ke dǐng;dy huí;wk luò;ck	57
 鉴定机构	jiàn;lj dìng;bz jī;aj gòu;ag	509
 检定机构	jiǎn;aq dìng;bz jī;aj gòu;ag	34
@@ -1015546,7 +1015099,6 @@ sort: by_weight
 检定校准	jiǎn;aq dìng;bz jiào;af zhǔn;dv	288
 鉴定结果	jiàn;lj dìng;bz jié;sk guǒ;ta	411
 检定结果	jiǎn;aq dìng;bz jié;sk guǒ;ta	306
-检定结果	jiǎn;aq dìng;bz jié;sk guǒ;ta	34
 鉴定结论	jiàn;lj dìng;bz jié;sk lùn;yl	245
 检定结论	jiǎn;aq dìng;bz jié;sk lùn;yl	34
 坚定拒绝	jiān;lt dìng;bz jù;fj jué;sb	441
@@ -1015601,7 +1015153,6 @@ sort: by_weight
 鉴定证明	jiàn;lj dìng;bz zhèng;yv míng;oo	693
 鉴定证书	jiàn;lj dìng;bz zhèng;yv shū;vd	144
 检定证书	jiǎn;aq dìng;bz zhèng;yv shū;vd	130
-检定证书	jiǎn;aq dìng;bz zhèng;yv shū;vd	34
 坚定支持	jiān;lt dìng;bz zhī;uy chí;fc	819
 鉴定知识	jiàn;lj dìng;bz zhī;uk shi;yv	504
 坚定之心	jiān;lt dìng;bz zhī;dn xīn;dd	162
@@ -1015610,7 +1015161,6 @@ sort: by_weight
 鉴定中心	jiàn;lj dìng;bz zhōng;kl xīn;dd	166
 检定中心	jiǎn;aq dìng;bz zhōng;kl xīn;dd	149
 检定周期	jiǎn;aq dìng;bz zhōu;kk qī;co	238
-检定周期	jiǎn;aq dìng;bz zhōu;kk qī;co	34
 鉴定专家	jiàn;lj dìng;bz zhuān;ts jiā;bu	765
 检定装置	jiǎn;aq dìng;bz zhuāng;ly zhì;sq	256
 坚定自信	jiān;lt dìng;bz zì;po xìn;rk	513
@@ -1015626,7 +1015176,6 @@ sort: by_weight
 建都成都	jiàn;zy dū;le chéng;gv dū;le	153
 监督程序	jiān;lm dū;uo chéng;hw xù;gy	9
 监督抽测	jiān;lm dū;uo chōu;fy cè;dd	234
-监督抽查	jiān;lm dū;uo chōu;fy chá;ad	34
 监督抽查	jiān;lm dū;uo chōu;fy chá;ad	6
 监督抽检	jiān;lm dū;uo chōu;fy jiǎn;aq	801
 监督抽验	jiān;lm dū;uo chōu;fy yàn;mq	418
@@ -1018275,7 +1017824,6 @@ sort: by_weight
 见习魔女	jiàn;ke xí;vd mó;gg nǚ;va	270
 见习排长	jiàn;ke xí;vd pái;ff zhǎng;pn	279
 间隙配合	jiàn;mo xì;eo pèi;yj hé;rk	73
-间隙配合	jiàn;mo xì;eo pèi;yj hé;rk	18
 见习期间	jiàn;ke xí;vd qī;co jiān;mo	392
 见习骑士	jiàn;ke xí;vd qí;mk shì;ua	418
 湔洗前罪	jiān;dd xǐ;de qián;bd zuì;sf	52
@@ -1021927,7 +1021475,6 @@ sort: by_weight
 浇口白印	jiāo;dw kǒu;la bái;po yìn;pe	18
 浇口残留	jiāo;dw kǒu;la cán;dj liú;pt	18
 胶口衬套	jiāo;of kǒu;la chèn;pc tào;dg	45
-浇口衬套	jiāo;dw kǒu;la chèn;pc tào;dg	18
 浇口衬套	jiāo;dw kǒu;la chèn;pc tào;dg	4
 交口称誉	jiāo;wf kǒu;la chēng;hx yù;xk	230
 交口称赞	jiāo;wf kǒu;la chēng;hx zàn;nb	349
@@ -1021946,7 +1021493,6 @@ sort: by_weight
 浇口设计	jiāo;dw kǒu;la shè;yu jì;yu	50
 皎口水库	jiǎo;bf kǒu;la shuǐ;ln kù;gi	315
 浇口位置	jiāo;dw kǒu;la wèi;rl zhì;sq	99
-浇口位置	jiāo;dw kǒu;la wèi;rl zhì;sq	18
 交口县人	jiāo;wf kǒu;la xiàn;qs rén;pn	171
 交口赞誉	jiāo;wf kǒu;la zàn;nb yù;xk	6
 叫苦不迭	jiào;kj kǔ;cg bù;ab dié;zf	449
@@ -1023452,10 +1022998,8 @@ sort: by_weight
 交易结构	jiāo;wf yì;ow jié;sk gòu;ag	837
 交易结果	jiāo;wf yì;ow jié;sk guǒ;ta	814
 交易结算	jiāo;wf yì;ow jié;sk suàn;vc	972
-交易结算	jiāo;wf yì;ow jié;sk suàn;vc	34
 交易截图	jiāo;wf yì;ow jié;gv tú;wd	387
 交易金额	jiāo;wf yì;ow jīn;rb é;by	973
-交易金额	jiāo;wf yì;ow jīn;rb é;by	34
 交易经验	jiāo;wf yì;ow jīng;sj yàn;mq	774
 交易纠纷	jiāo;wf yì;ow jiū;sj fēn;sf	10
 交易决策	jiāo;wf yì;ow jué;dg cè;vu	900
@@ -1024018,7 +1023562,6 @@ sort: by_weight
 胶状物质	jiāo;of zhuàng;lq wù;nw zhì;ib	572
 角锥棱镜	jiǎo;dy zhuī;jv léng;aw jìng;je	50
 校准砝码	jiào;af zhǔn;dv fǎ;uq mǎ;um	47
-校准砝码	jiào;af zhǔn;dv fǎ;uq mǎ;um	34
 校准方向	jiào;af zhǔn;dv fāng;wv xiàng;pk	130
 校准极轴	jiào;af zhǔn;dv jí;aj zhóu;iy	30
 校准曲线	jiào;af zhǔn;dv qū;wc xiàn;sj	374
@@ -1025605,7 +1025148,6 @@ sort: by_weight
 结晶条件	jié;sk jīng;oo tiáo;wa jiàn;rn	82
 洁净卫生	jié;dk jìng;dy wèi;ea shēng;pf	405
 结晶温度	jié;sk jīng;oo wēn;dm dù;gy	356
-结晶温度	jié;sk jīng;oo wēn;dm dù;gy	18
 洁净无瑕	jié;dk jìng;dy wú;ay xiá;wy	6
 洁净系统	jié;dk jìng;dy xì;px tǒng;sy	3
 结晶系统	jié;sk jīng;oo xì;px tǒng;sy	2
@@ -1026850,7 +1026392,6 @@ sort: by_weight
 结算依据	jié;sk suàn;vc yī;ry jù;fg	441
 结算账户	jié;sk suàn;vc zhàng;bi hù;du	788
 结算重量	jié;sk suàn;vc zhòng;ql liàng;ol	91
-结算重量	jié;sk suàn;vc zhòng;ql liàng;ol	34
 结算中心	jié;sk suàn;vc zhōng;kl xīn;dd	91
 结算周期	jié;sk suàn;vc zhōu;kk qī;co	603
 解算装置	jiě;dn suàn;vc zhuāng;ly zhì;sq	171
@@ -1027177,7 +1026718,6 @@ sort: by_weight
 接线打结	jiē;fn xiàn;sj dǎ;fd jié;sk	42
 截线定理	jié;gv xiàn;sj dìng;bz lǐ;wl	171
 接线端子	jiē;fn xiàn;sj duān;le zǐ;la	66
-接线端子	jiē;fn xiàn;sj duān;le zǐ;la	34
 接线方便	jiē;fn xiàn;sj fāng;wv biàn;rg	194
 接线方法	jiē;fn xiàn;sj fāng;wv fǎ;dq	19
 接线方式	jiē;fn xiàn;sj fāng;wv shì;gg	490
@@ -1029716,10 +1029256,8 @@ sort: by_weight
 尽量避免	jǐn;id liàng;ol bì;zx miǎn;de	5972
 尽量不吃	jǐn;id liàng;ol bù;ab chī;kv	747
 斤两不对	jīn;it liǎng;ar bú;ab duì;yc	34
-斤两不对	jīn;it liǎng;ar bú;ab duì;yc	34
 尽量不喝	jǐn;id liàng;ol bù;ab hē;kr	486
 尽量不要	jǐn;id liàng;ol bú;ab yào;xn	1449
-斤两不足	jīn;it liǎng;ar bù;ab zú;kz	34
 斤两不足	jīn;it liǎng;ar bù;ab zú;kz	3
 尽量的吧	jǐn;id liàng;ol de;bu ba;kb	52
 劲量电池	jìn;jl liàng;ol diàn;ov chí;dy	202
@@ -1036285,7 +1035823,6 @@ sort: by_weight
 精密试纸	jīng;mo mì;bu shì;yg zhǐ;su	220
 静谧舒适	jìng;fy mì;ym shū;ry shì;zu	410
 精密天平	jīng;mo mì;bu tiān;ad píng;au	84
-精密天平	jīng;mo mì;bu tiān;ad píng;au	34
 精密五金	jīng;mo mì;bu wǔ;aw jīn;rb	292
 静谧无声	jìng;fy mì;ym wú;ay shēng;tu	459
 精密星历	jīng;mo mì;bu xīng;ou lì;il	194
@@ -1036305,7 +1035842,6 @@ sort: by_weight
 静谧之中	jìng;fy mì;ym zhī;dn zhōng;kl	356
 精密铸件	jīng;mo mì;bu zhù;jc jiàn;rn	315
 精密注塑	jīng;mo mì;bu zhù;dv sù;nt	266
-精密注塑	jīng;mo mì;bu zhù;dv sù;nt	18
 精密铸造	jīng;mo mì;bu zhù;jc zào;zk	69
 精密组件	jīng;mo mì;bu zǔ;sq jiàn;rn	405
 镜面处理	jìng;je miàn;ao chǔ;wb lǐ;wl	342
@@ -1036323,7 +1035859,6 @@ sort: by_weight
 镜面魔方	jìng;je miàn;ao mó;gg fāng;wv	54
 镜面磨削	jìng;je miàn;ao mó;gu xuē;xd	50
 镜面抛光	jìng;je miàn;ao pāo;fl guāng;xe	48
-镜面抛光	jìng;je miàn;ao pāo;fl guāng;xe	18
 镜面水渍	jìng;je miàn;ao shuǐ;ln zì;db	79
 晶面条纹	jīng;oo miàn;ao tiáo;wa wén;sw	117
 镜面通道	jìng;je miàn;ao tōng;zy dào;zz	103
@@ -1043002,7 +1042537,6 @@ sort: by_weight
 剧本剧照	jù;ud běn;aa jù;ud zhào;oh	64
 剧本围读	jù;ud běn;aa wéi;ww dú;yd	6
 聚苯乙烯	jù;eu běn;cb yǐ;vv xī;hj	163
-聚苯乙烯	jù;eu běn;cb yǐ;vv xī;hj	18
 居必常安	jū;ug bì;xp cháng;xj ān;bn	52
 居必迁坐	jū;ug bì;xp qiān;zq zuò;tr	76
 居必择邻	jū;ug bì;xp zé;ff lín;re	117
@@ -1044049,7 +1043583,6 @@ sort: by_weight
 橘绿橙黄	jú;ak lǜ;su chéng;ab huáng;cb	76
 聚氯化铝	jù;eu lǜ;qu huà;rb lǚ;jk	162
 聚氯乙烯	jù;eu lǜ;qu yǐ;vv xī;hj	806
-聚氯乙烯	jù;eu lǜ;qu yǐ;vv xī;hj	18
 拒马护栏	jù;fj mǎ;va hù;fh lán;al	45
 聚马凉石	jù;eu mǎ;va liáng;dx shí;ak	90
 车马炮杀	jū;au mǎ;va pào;hb shā;xa	35
@@ -1044519,7 +1044052,6 @@ sort: by_weight
 据她所知	jù;fg tā;ny suǒ;ht zhī;uk	603
 聚态水晶	jù;eu tài;tx shuǐ;ln jīng;oo	99
 聚碳酸酯	jù;eu tàn;uh suān;yw zhǐ;yo	226
-聚碳酸酯	jù;eu tàn;uh suān;yw zhǐ;yo	18
 巨腾国际	jù;kk téng;om guó;wy jì;eu	194
 具体案件	jù;qb tǐ;rb àn;ba jiàn;rn	855
 具体案例	jù;qb tǐ;rb àn;ba lì;rd	954
@@ -1045222,7 +1044754,6 @@ sort: by_weight
 聚酯熔体	jù;eu zhǐ;yo róng;hg tǐ;rb	50
 举止失措	jǔ;xf zhǐ;lb shī;pf cuò;fo	13
 聚酯树脂	jù;eu zhǐ;yo shù;ac zhī;oo	486
-聚酯树脂	jù;eu zhǐ;yo shù;ac zhī;oo	18
 聚酯塑料	jù;eu zhǐ;yo sù;nt liào;md	248
 举止谈吐	jǔ;xf zhǐ;lb tán;yh tǔ;kt	526
 举止投足	jǔ;xf zhǐ;lb tóu;fu zú;kz	423
@@ -1048492,7 +1048023,6 @@ sort: by_weight
 开记者会	kāi;ac jì;yj zhě;lo huì;ry	1004
 凯基证券	kǎi;uj jī;ct zhèng;yv quàn;jd	536
 开机状态	kāi;ac jī;aj zhuàng;lq tài;tx	634
-开机自检	kāi;ac jī;aj zì;po jiǎn;aq	34
 开机自检	kāi;ac jī;aj zì;po jiǎn;aq	9
 开机自启	kāi;ac jī;aj zì;po qǐ;hk	100
 开架管理	kāi;ac jià;la guǎn;vl lǐ;wl	45
@@ -1051066,7 +1050596,6 @@ sort: by_weight
 抗赤霉素	kàng;fj chì;tb méi;ym sù;fx	76
 抗冲击力	kàng;fj chōng;dv jī;fk lì;vp	423
 抗冲击性	kàng;fj chōng;dv jī;fk xìng;xu	66
-抗冲击性	kàng;fj chōng;dv jī;fk xìng;xu	18
 抗虫育种	kàng;fj chóng;vd yù;wo zhǒng;hv	4
 抗臭氧剂	kàng;fj chòu;zq yǎng;qy jì;qd	50
 抗臭氧性	kàng;fj chòu;zq yǎng;qy xìng;xu	4
@@ -1051491,8 +1051020,6 @@ sort: by_weight
 亢山广场	kàng;wj shān;kl guǎng;di chǎng;tp	9
 抗伤害性	kàng;fj shāng;rl hài;bk xìng;xu	76
 抗伤能力	kàng;fj shāng;rl néng;sb lì;vp	144
-抗折强度	kàng;fj shé;ft qiáng;gi dù;gy	346
-抗折试验	kàng;fj shé;ft shì;yg yàn;mq	76
 抗渗等级	kàng;fj shèn;dp děng;vc jí;sj	130
 康沈公路	kāng;gl shěn;de gōng;bs lù;zk	266
 抗神经炎	kàng;fj shén;pu jīng;sj yán;hh	9
@@ -1051817,6 +1051344,8 @@ sort: by_weight
 抗张性能	kàng;fj zhāng;gi xìng;xu néng;sb	50
 扛着菜刀	káng;fg zhe;yo cài;ca dāo;vp	45
 扛着锄头	káng;fg zhe;yo chú;jl tou;dd	57
+抗折强度	kàng;fj zhé;ft qiáng;gi dù;gy	346
+抗折试验	kàng;fj zhé;ft shì;yg yàn;mq	76
 扛着铁锹	káng;fg zhe;yo tiě;jf qiāo;jh	13
 扛着箱子	káng;fg zhe;yo xiāng;vo zi;la	51
 康哲药业	kāng;gl zhé;fk yào;cu yè;la	266
@@ -1066670,7 +1066199,6 @@ sort: by_weight
 累计接待	lěi;tx jì;yu jiē;fn dài;rc	616
 累计金额	lěi;tx jì;yu jīn;rb é;by	752
 累积金额	lěi;tx jī;hv jīn;rb é;by	258
-累计金额	lěi;tx jì;yu jīn;rb é;by	34
 累积经验	lěi;tx jī;hv jīng;sj yàn;mq	630
 累计净值	lěi;tx jì;yu jìng;dy zhí;rq	1022
 类集框架	lèi;md jí;ra kuàng;aw jià;la	4
@@ -1067509,7 +1067037,6 @@ sort: by_weight
 冷却风扇	lěng;ds què;qe fēng;jx shàn;hx	68
 冷却管路	lěng;ds què;qe guǎn;vl lù;zk	68
 冷却回路	lěng;ds què;qe huí;wk lù;zk	302
-冷却回路	lěng;ds què;qe huí;wk lù;zk	18
 冷却介质	lěng;ds què;qe jiè;rl zhì;ib	369
 冷却流量	lěng;ds què;qe liú;di liàng;ol	18
 冷却灭火	lěng;ds què;qe miè;ah huǒ;br	44
@@ -1067517,7 +1067044,6 @@ sort: by_weight
 冷却盘管	lěng;ds què;qe pán;vm guǎn;vl	194
 冷却曲线	lěng;ds què;qe qū;wc xiàn;sj	207
 冷却时间	lěng;ds què;qe shí;to jiān;mo	895
-冷却时间	lěng;ds què;qe shí;to jiān;mo	18
 冷却水泵	lěng;ds què;qe shuǐ;ln bèng;uu	297
 冷却水槽	lěng;ds què;qe shuǐ;ln cáo;ao	99
 冷却水池	lěng;ds què;qe shuǐ;ln chí;dy	144
@@ -1067525,7 +1067051,6 @@ sort: by_weight
 冷却水阀	lěng;ds què;qe shuǐ;ln fá;mg	153
 冷却水管	lěng;ds què;qe shuǐ;ln guǎn;vl	73
 冷却水路	lěng;ds què;qe shuǐ;ln lù;zk	54
-冷却水路	lěng;ds què;qe shuǐ;ln lù;zk	18
 冷却水箱	lěng;ds què;qe shuǐ;ln xiāng;vo	274
 冷却水嘴	lěng;ds què;qe shuǐ;ln zuǐ;ky	18
 冷却速率	lěng;ds què;qe sù;zu lǜ;wu	49
@@ -1067695,7 +1067220,6 @@ sort: by_weight
 立案登记	lì;wb àn;ba dēng;bb jì;yj	45
 离岸电台	lí;wn àn;ug diàn;ov tái;sk	4
 立案调查	lì;wb àn;ba diào;yk chá;ad	308
-立案调查	lì;wb àn;ba diào;yk chá;ad	34
 立案二庭	lì;wb àn;ba èr;aa tíng;gw	320
 离岸风电	lí;wn àn;ug fēng;jx diàn;ov	486
 离岸公司	lí;wn àn;ug gōng;bs sī;vk	792
@@ -1076382,7 +1075906,6 @@ sort: by_weight
 两只仓鼠	liǎng;ar zhī;kb cāng;rv shǔ;jv	369
 凉至常温	liáng;dx zhì;gt cháng;xj wēn;dm	117
 量值传递	liáng;ol zhí;rq chuán;rv dì;zd	202
-量值传递	liáng;ol zhí;rq chuán;rv dì;zd	34
 两只刺猬	liǎng;ar zhī;kb cì;ud wei;qo	374
 两只蛋挞	liǎng;ar zhī;kb dàn;zi tà;fd	180
 两支队伍	liǎng;ar zhī;uy duì;er wǔ;rw	846
@@ -1076412,7 +1075935,6 @@ sort: by_weight
 晾置时间	liàng;ox zhì;sq shí;to jiān;mo	69
 两只手臂	liǎng;ar zhī;kb shǒu;pf bì;uo	130
 量值溯源	liáng;ol zhí;rq sù;do yuán;dx	117
-量值溯源	liáng;ol zhí;rq sù;do yuán;dx	34
 两只喜鹊	liǎng;ar zhī;kb xǐ;tk què;cn	338
 两只小鸡	liǎng;ar zhī;kb xiǎo;lb jī;yn	392
 两只小手	liǎng;ar zhī;kb xiǎo;lb shǒu;pf	716
@@ -1078689,7 +1078211,6 @@ sort: by_weight
 零点零几	líng;ys diǎn;vh líng;ys jǐ;pv	360
 零点六八	líng;ys diǎn;vh liù;wb bā;pn	45
 零点漂移	líng;ys diǎn;vh piāo;du yí;hx	320
-零点漂移	líng;ys diǎn;vh piāo;du yí;hx	34
 零点区间	líng;ys diǎn;vh qū;kx jiān;mo	82
 零点上班	líng;ys diǎn;vh shàng;ba bān;wl	248
 零点时分	líng;ys diǎn;vh shí;to fēn;bd	279
@@ -1078697,7 +1078218,6 @@ sort: by_weight
 零点睡觉	líng;ys diǎn;vh shuì;ot jiào;xj	46
 零点天空	líng;ys diǎn;vh tiān;ad kōng;bg	4
 零点调整	líng;ys diǎn;vh tiáo;yk zhěng;uv	76
-零点调整	líng;ys diǎn;vh tiáo;yk zhěng;uv	34
 零点突变	líng;ys diǎn;vh tū;bq biàn;wy	90
 零点稳定	líng;ys diǎn;vh wěn;hx dìng;bz	34
 零点误差	líng;ys diǎn;vh wù;yt chā;yg	34
@@ -1080313,13 +1079833,11 @@ sort: by_weight
 留到明天	liú;pt dào;gd míng;oo tiān;ad	490
 六道模式	liù;wb dào;zz mó;ad shì;gg	13
 流道平衡	liú;di dào;zz píng;au héng;rd	45
-流道平衡	liú;di dào;zz píng;au héng;rd	18
 六到七级	liù;wb dào;gd qī;av jí;sj	38
 六到七米	liù;wb dào;gd qī;av mǐ;ba	21
 六到七岁	liù;wb dào;gd qī;av suì;ux	39
 六道倾城	liù;wb dào;zz qīng;ry chéng;ti	45
 流道设计	liú;di dào;zz shè;yu jì;yu	180
-流道设计	liú;di dào;zz shè;yu jì;yu	18
 六道生灭	liù;wb dào;zz shēng;pf miè;ah	76
 六到十次	liù;wb dào;gd shí;al cì;dq	37
 六到十家	liù;wb dào;gd shí;al jiā;bu	26
@@ -1080407,7 +1079925,6 @@ sort: by_weight
 流动量大	liú;di dòng;yl liàng;ol dà;ar	418
 流动末端	liú;di dòng;yl mò;aa duān;le	18
 流动平衡	liú;di dòng;yl píng;au héng;rd	117
-流动平衡	liú;di dòng;yl píng;au héng;rd	18
 流动奇点	liú;di dòng;yl qí;dk diǎn;vh	45
 流动起来	liú;di dòng;yl qǐ;tj lái;aa	734
 流动前沿	liú;di dòng;yl qián;bd yán;dk	18
@@ -1083575,7 +1083092,6 @@ sort: by_weight
 露点曲线	lòu;yk diǎn;vh qū;wc xiàn;sj	76
 漏点台账	lòu;dy diǎn;vh tái;sk zhàng;bi	37
 露点温度	lòu;yk diǎn;vh wēn;dm dù;gy	68
-露点温度	lòu;yk diǎn;vh wēn;dm dù;gy	18
 漏点修复	lòu;dy diǎn;vh xiū;rp fù;pw	37
 漏点坐标	lòu;dy diǎn;vh zuò;tr biāo;au	82
 漏掉了啊	lòu;dy diào;fu le;al a;kk	76
@@ -1100178,7 +1099694,6 @@ sort: by_weight
 米洛斯岛	mǐ;ba luò;dk sī;ct dǎo;nu	396
 米罗斯洛	mǐ;ba luó;sx sī;ct luò;dk	180
 密码保护	mì;bu mǎ;um bǎo;ra hù;fh	151
-密码保护	mì;bu mǎ;um bǎo;ra hù;fh	34
 密码被盗	mì;bu mǎ;um bèi;pp dào;dm	662
 密码猜测	mì;bu mǎ;um cāi;qo cè;dd	59
 密码重置	mì;bu mǎ;um chóng;ql zhì;sq	85
@@ -1107491,7 +1107006,6 @@ sort: by_weight
 模具围框	mú;ad jù;qb wéi;ww kuàng;aw	36
 模具维修	mú;ad jù;qb wéi;sv xiū;rp	18
 模具温度	mú;ad jù;qb wēn;dm dù;gy	28
-模具温度	mú;ad jù;qb wēn;dm dù;gy	18
 模具纹理	mú;ad jù;qb wén;sw lǐ;wl	36
 模具五金	mú;ad jù;qb wǔ;aw jīn;rb	220
 模具污染	mú;ad jù;qb wū;dk rǎn;da	18
@@ -1111032,7 +1110546,6 @@ sort: by_weight
 耐热材料	nài;ec rè;fh cái;ac liào;md	346
 耐热测试	nài;ec rè;fh cè;dd shì;yg	74
 耐热等级	nài;ec rè;fh děng;vc jí;sj	162
-耐热等级	nài;ec rè;fh děng;vc jí;sj	18
 耐热钢棒	nài;ec rè;fh gāng;jx bàng;af	4
 耐热合金	nài;ec rè;fh hé;rk jīn;rb	9
 耐热溶素	nài;ec rè;fh róng;dg sù;fx	45
@@ -1123237,7 +1122750,6 @@ sort: by_weight
 农忙时节	nóng;by máng;xw shí;to jié;ce	75
 农贸集市	nóng;by mào;pb jí;ra shì;wj	351
 农贸市场	nóng;by mào;pb shì;wj chǎng;tp	84
-农贸市场	nóng;by mào;pb shì;wj chǎng;tp	34
 浓眉大眼	nóng;dy méi;uo dà;ar yǎn;og	380
 弄眉挤眼	nòng;wc méi;uo jǐ;fq yǎn;og	4
 浓煤焦油	nóng;dy méi;ha jiāo;rh yóu;dy	45
@@ -1126441,7 +1125953,7 @@ sort: by_weight
 叛兵骷髅	pàn;by bīng;qb kū;gg lóu;gn	76
 盘不行吗	pán;vm bù;ab xíng;rd ma;km	117
 潘查希拉	pān;dt chá;ad xī;xj lā;fl	279
-攀蟾折桂	pān;au chán;ik shé;ft guì;at	50
+攀蟾折桂	pān;au chán;ik zhé;ft guì;at	50
 盘肠大战	pán;vm cháng;op dà;ar zhàn;vg	288
 盘长问短	pán;vm cháng;pn wèn;mk duǎn;ub	45
 盘车手轮	pán;vm chē;au shǒu;pf lún;il	64
@@ -1127824,7 +1127336,6 @@ sort: by_weight
 配合工作	pèi;yj hé;rk gōng;aa zuò;rv	724
 配合关系	pèi;yj hé;rk guān;bt xì;px	60
 配合间隙	pèi;yj hé;rk jiàn;mo xì;eo	73
-配合间隙	pèi;yj hé;rk jiàn;mo xì;eo	18
 配合教学	pèi;yj hé;rk jiào;lw xué;xz	356
 配合禁忌	pèi;yj hé;rk jìn;au jì;jx	117
 配合警方	pèi;yj hé;rk jǐng;ck fāng;wv	756
@@ -1128643,7 +1128154,6 @@ sort: by_weight
 喷子滚粗	pēn;kb zi;la gǔn;dg cū;mq	180
 盆子里有	pén;fm zi;la lǐ;tt yǒu;uo	194
 喷嘴堵塞	pēn;kb zuǐ;ky dǔ;to sè;bt	44
-喷嘴堵塞	pēn;kb zuǐ;ky dǔ;to sè;bt	18
 喷嘴孔径	pēn;kb zuǐ;ky kǒng;zv jìng;rj	55
 喷嘴温度	pēn;kb zuǐ;ky wēn;dm dù;gy	18
 喷嘴直径	pēn;kb zuǐ;ky zhí;uq jìng;rj	189
@@ -1129179,7 +1128689,6 @@ sort: by_weight
 皮刺疗法	pí;py cì;ud liáo;bl fǎ;dq	45
 批次录取	pī;fb cì;dq lù;eu qǔ;ey	855
 批次色差	pī;fb cì;dq sè;db chā;yg	40
-批次色差	pī;fb cì;dq sè;db chā;yg	18
 劈刺训练	pī;ud cì;ud xùn;yi liàn;sd	50
 批次召回	pī;fb cì;dq zhào;dk huí;wk	91
 批次追溯	pī;fb cì;dq zhuī;zl sù;do	68
@@ -1131605,7 +1131114,6 @@ sort: by_weight
 品质家居	pǐn;kk zhì;ib jiā;bu jū;ug	423
 品质家装	pǐn;kk zhì;ib jiā;bu zhuāng;ly	482
 品质鉴定	pǐn;kk zhì;ib jiàn;lj dìng;bz	32
-品质检验	pǐn;kk zhì;ib jiǎn;aq yàn;mq	18
 品质检验	pǐn;kk zhì;ib jiǎn;aq yàn;mq	13
 品质较差	pǐn;kk zhì;ib jiào;if chà;yg	522
 品质较好	pǐn;kk zhì;ib jiào;if hǎo;nz	657
@@ -1143647,7 +1143155,7 @@ sort: by_weight
 签名页面	qiān;vq míng;xk yè;ab miàn;ao	99
 签名仪式	qiān;vq míng;xk yí;ry shì;gg	284
 千磨百难	qiān;pu mó;gu bǎi;ab nán;yv	50
-千磨百折	qiān;pu mó;gu bǎi;ab shé;ft	50
+千磨百折	qiān;pu mó;gu bǎi;ab zhé;ft	50
 前膜壶腹	qián;bd mó;od hú;ty fù;ow	45
 前莫家巷	qián;bd mò;cd jiā;bu xiàng;gs	76
 阡陌交通	qiān;eq mò;eb jiāo;wf tōng;zy	75
@@ -1146357,7 +1145865,6 @@ sort: by_weight
 强制记忆	qiáng;gi zhì;nd jì;yj yì;xv	320
 强制检测	qiáng;gi zhì;nd jiǎn;aq cè;dd	554
 强制检定	qiáng;gi zhì;nd jiǎn;aq dìng;bz	423
-强制检定	qiáng;gi zhì;nd jiǎn;aq dìng;bz	34
 强制检疫	qiáng;gi zhì;nd jiǎn;aq yì;bu	454
 强制交易	qiáng;gi zhì;nd jiāo;wf yì;ow	513
 强制戒毒	qiáng;gi zhì;nd jiè;gc dú;fm	706
@@ -1159058,7 +1158565,6 @@ sort: by_weight
 却见不到	què;qe jiàn;ke bú;ab dào;gd	522
 雀角鼠牙	què;xv jiǎo;dy shǔ;jv yá;gp	76
 缺斤短两	quē;fg jīn;it duǎn;ub liǎng;ar	132
-缺斤短两	quē;fg jīn;it duǎn;ub liǎng;ar	34
 缺斤少两	quē;fg jīn;it shǎo;xp liǎng;ar	301
 却金亭碑	què;qe jīn;rb tíng;wd bēi;uu	234
 缺斤投诉	quē;fg jīn;it tóu;fu sù;yi	34
@@ -1159275,7 +1158781,6 @@ sort: by_weight
 缺陷闭环	quē;fg xiàn;ej bì;mc huán;wb	94
 缺陷产品	quē;fg xiàn;ej chǎn;wi pǐn;kk	0
 缺陷等级	quē;fg xiàn;ej děng;vc jí;sj	82
-缺陷等级	quē;fg xiàn;ej děng;vc jí;sj	18
 缺陷电气	quē;fg xiàn;ej diàn;ov qì;pv	153
 缺陷分析	quē;fg xiàn;ej fēn;bd xī;at	18
 缺陷跟踪	quē;fg xiàn;ej gēn;zg zōng;zu	59
@@ -1160803,7 +1160308,6 @@ sort: by_weight
 热烈追捧	rè;fh liè;dh zhuī;zl pěng;ff	724
 热灵敏度	rè;fh líng;eh mǐn;pw dù;gy	99
 热流道板	rè;fh liú;di dào;zz bǎn;ay	45
-热流道板	rè;fh liú;di dào;zz bǎn;ay	18
 热流道嘴	rè;fh liú;di dào;zz zuǐ;ky	18
 热六合汤	rè;fh liù;wb hé;rk tāng;dp	4
 热流密度	rè;fh liú;di mì;bu dù;gy	96
@@ -1161101,7 +1160605,6 @@ sort: by_weight
 热吻大赛	rè;fh wěn;kw dà;ar sài;bb	220
 热稳定剂	rè;fh wěn;hx dìng;bz jì;qd	338
 热稳定性	rè;fh wěn;hx dìng;bz xìng;xu	311
-热稳定性	rè;fh wěn;hx dìng;bz xìng;xu	18
 热稀释法	rè;fh xī;hj shì;mf fǎ;dq	76
 惹下大祸	rě;cx xià;ab dà;ar huò;pn	279
 热线电话	rè;fh xiàn;sj diàn;ov huà;yu	116
@@ -1165809,7 +1165312,6 @@ sort: by_weight
 日常需求	rì;wa cháng;xj xū;ye qiú;au	770
 日常学习	rì;wa cháng;xj xué;xz xí;vd	765
 日常巡查	rì;wa cháng;xj xún;zv chá;ad	662
-日常巡查	rì;wa cháng;xj xún;zv chá;ad	34
 日常巡检	rì;wa cháng;xj xún;zv jiǎn;aq	78
 日常训练	rì;wa cháng;xj xùn;yi liàn;sd	783
 日常养护	rì;wa cháng;xj yǎng;yl hù;fh	580
@@ -1166944,7 +1166446,6 @@ sort: by_weight
 溶溶月色	róng;dg róng;dg yuè;ke sè;db	266
 熔融皂基	róng;hg róng;gi zào;bq jī;ct	31
 熔融指数	róng;hg róng;gi zhǐ;fo shù;mw	82
-熔融指数	róng;hg róng;gi zhǐ;fo shù;mw	18
 溶肉瘤素	róng;dg ròu;nr liú;bt sù;fx	99
 荣辱不惊	róng;ca rǔ;ic bù;ab jīng;xx	44
 融入城市	róng;gi rù;pn chéng;ti shì;wj	666
@@ -1167018,7 +1166519,6 @@ sort: by_weight
 熔体流变	róng;hg tǐ;rb liú;di biàn;wy	18
 熔体流动	róng;hg tǐ;rb liú;di dòng;yl	18
 熔体黏度	róng;hg tǐ;rb nián;hv dù;gy	76
-熔体黏度	róng;hg tǐ;rb nián;hv dù;gy	18
 熔体破裂	róng;hg tǐ;rb pò;up liè;dy	18
 熔体强度	róng;hg tǐ;rb qiáng;gi dù;gy	18
 熔体生长	róng;hg tǐ;rb shēng;pf zhǎng;pn	45
@@ -1175684,7 +1175184,6 @@ sort: by_weight
 三抓三促	sān;ae zhuā;fv sān;ae cù;rz	256
 三抓一创	sān;ae zhuā;fv yí;aa chuàng;rd	4
 三转一响	sān;ae zhuǎn;iv yì;aa xiǎng;kk	504
-散装称重	sǎn;cw zhuāng;ly chēng;hx zhòng;ql	34
 散装称重	sǎn;cw zhuāng;ly chēng;hx zhòng;ql	16
 三幢大楼	sān;ae zhuàng;jl dà;ar lóu;an	248
 三幢大厦	sān;ae zhuàng;jl dà;ar shà;iw	189
@@ -1181137,7 +1180636,6 @@ sort: by_weight
 上门推销	shàng;ba mén;dv tuī;fv xiāo;jo	201
 上门喂猫	shàng;ba mén;dv wèi;ky māo;qt	118
 上门维修	shàng;ba mén;dv wéi;sv xiū;rp	711
-上门维修	shàng;ba mén;dv wéi;sv xiū;rp	34
 上门喂养	shàng;ba mén;dv wèi;ky yǎng;yl	118
 上门洗澡	shàng;ba mén;dv xǐ;de zǎo;da	42
 上门修车	shàng;ba mén;dv xiū;rp chē;au	44
@@ -1181232,7 +1180730,6 @@ sort: by_weight
 商品本身	shāng;wk pǐn;kk běn;aa shēn;zc	958
 商品编号	shāng;wk pǐn;kk biān;sc hào;kk	78
 商品编码	shāng;wk pǐn;kk biān;sc mǎ;um	567
-商品编码	shāng;wk pǐn;kk biān;sc mǎ;um	34
 商品标签	shāng;wk pǐn;kk biāo;au qiān;vq	34
 商品标示	shāng;wk pǐn;kk biāo;au shì;ex	9
 商品陈列	shāng;wk pǐn;kk chén;ed liè;dd	53
@@ -1181241,7 +1180738,6 @@ sort: by_weight
 商品纯铝	shāng;wk pǐn;kk chún;st lǚ;jk	4
 商品存货	shāng;wk pǐn;kk cún;uz huò;rb	333
 商品档案	shāng;wk pǐn;kk dàng;ae àn;ba	84
-商品档案	shāng;wk pǐn;kk dàng;ae àn;ba	34
 商品等级	shāng;wk pǐn;kk děng;vc jí;sj	202
 商品吊牌	shāng;wk pǐn;kk diào;kj pái;pu	69
 商品定级	shāng;wk pǐn;kk dìng;bz jí;sj	32
@@ -1190367,7 +1189863,6 @@ sort: by_weight
 生产测井	shēng;pf chǎn;wi cè;dd jǐng;ac	162
 生产产品	shēng;pf chǎn;wi chǎn;wi pǐn;kk	864
 生产厂家	shēng;pf chǎn;wi chǎng;ap jiā;bu	1366
-生产厂家	shēng;pf chǎn;wi chǎng;ap jiā;bu	34
 生产厂名	shēng;pf chǎn;wi chǎng;ap míng;xk	418
 生产厂区	shēng;pf chǎn;wi chǎng;ap qū;kx	405
 生产厂商	shēng;pf chǎn;wi chǎng;ap shāng;wk	471
@@ -1202091,7 +1201586,6 @@ sort: by_weight
 视频水印	shì;pj pín;vy shuǐ;ln yìn;pe	320
 视频素材	shì;pj pín;vy sù;fx cái;ac	837
 食品溯源	shí;rg pǐn;kk sù;do yuán;dx	508
-食品溯源	shí;rg pǐn;kk sù;do yuán;dx	34
 食品摊贩	shí;rg pǐn;kk tān;fv fàn;by	706
 饰品套装	shì;uj pǐn;kk tào;dg zhuāng;ly	36
 食品特供	shí;rg pǐn;kk tè;nc gōng;rg	306
@@ -1205875,7 +1205369,6 @@ sort: by_weight
 时序分析	shí;to xù;gy fēn;bd xī;at	75
 时序进度	shí;to xù;gy jìn;zj dù;gy	9
 时序控制	shí;to xù;gy kòng;fg zhì;nd	346
-时序控制	shí;to xù;gy kòng;fg zhì;nd	18
 时续时断	shí;to xù;sd shí;to duàn;vt	99
 时续时间	shí;to xù;sd shí;to jiān;mo	220
 时序数据	shí;to xù;gy shù;mw jù;fg	770
@@ -1208509,7 +1208002,6 @@ sort: by_weight
 始制文字	shǐ;nk zhì;nd wén;wx zì;bz	248
 失之我命	shī;pf zhī;dn wǒ;ga mìng;re	138
 示值误差	shì;ex zhí;rq wù;yt chā;yg	212
-示值误差	shì;ex zhí;rq wù;yt chā;yg	34
 食植物的	shí;rg zhí;aq wù;nw de;bu	369
 使志无怒	shǐ;rl zhì;tx wú;ay nù;nx	212
 食之无肉	shí;rg zhī;dn wú;ay ròu;nr	31
@@ -1210831,7 +1210323,6 @@ sort: by_weight
 首件工程	shǒu;bz jiàn;rn gōng;aa chéng;hw	234
 首件检测	shǒu;bz jiàn;rn jiǎn;aq cè;dd	50
 首件检验	shǒu;bz jiàn;rn jiǎn;aq yàn;mq	162
-首件检验	shǒu;bz jiàn;rn jiǎn;aq yàn;mq	18
 收件凭证	shōu;jw jiàn;rn píng;rj zhèng;yv	34
 收件签收	shōu;jw jiàn;rn qiān;vq shōu;jw	34
 首件签样	shǒu;bz jiàn;rn qiān;vq yàng;ay	18
@@ -1211050,7 +1210541,6 @@ sort: by_weight
 受理编号	shòu;vy lǐ;wl biān;sc hào;kk	274
 受力变形	shòu;vy lì;vp biàn;wy xíng;kp	324
 受力不均	shòu;vy lì;vp bù;ab jūn;ty	616
-受力不均	shòu;vy lì;vp bù;ab jūn;ty	34
 受理部门	shòu;vy lǐ;wl bù;le mén;dv	6
 受力部位	shòu;vy lì;vp bù;le wèi;rl	382
 受理材料	shòu;vy lǐ;wl cái;ac liào;md	410
@@ -1217128,7 +1216618,6 @@ sort: by_weight
 双色杀球	shuāng;yy sè;db shā;xa qiú;wq	45
 双色印刷	shuāng;yy sè;db yìn;pe shuā;ud	94
 双色注塑	shuāng;yy sè;db zhù;dv sù;nt	405
-双色注塑	shuāng;yy sè;db zhù;dv sù;nt	18
 爽上了天	shuǎng;dx shàng;ba le;al tiān;ad	76
 爽上天了	shuǎng;dx shàng;ba tiān;ad le;al	189
 双摄手机	shuāng;yy shè;fy shǒu;pf jī;aj	612
@@ -1218220,7 +1217709,6 @@ sort: by_weight
 水官解厄	shuǐ;ln guān;bl jiě;dn è;iv	292
 水管接口	shuǐ;ln guǎn;vl jiē;fn kǒu;la	38
 水管接头	shuǐ;ln guǎn;vl jiē;fn tóu;dd	338
-水管接头	shuǐ;ln guǎn;vl jiē;fn tóu;dd	18
 水管老化	shuǐ;ln guǎn;vl lǎo;lb huà;rb	360
 水管配件	shuǐ;ln guǎn;vl pèi;yj jiàn;rn	171
 水管破裂	shuǐ;ln guǎn;vl pò;up liè;dy	518
@@ -1227820,11 +1227308,9 @@ sort: by_weight
 塑料九厂	sù;nt liào;md jiǔ;pv chǎng;ap	220
 塑料卡钉	sù;nt liào;md kǎ;ub dīng;jd	99
 塑料颗粒	sù;nt liào;md kē;gy lì;ml	32
-塑料颗粒	sù;nt liào;md kē;gy lì;ml	18
 塑料窥器	sù;nt liào;md kuī;bj qì;xx	45
 塑料垃圾	sù;nt liào;md lā;tl jī;tj	25
 塑料粒子	sù;nt liào;md lì;ml zǐ;la	302
-塑料粒子	sù;nt liào;md lì;ml zǐ;la	18
 塑料链板	sù;nt liào;md liàn;ji bǎn;ay	45
 塑料螺丝	sù;nt liào;md luó;ix sī;sa	306
 塑料麻将	sù;nt liào;md má;ga jiàng;lc	26
@@ -1229231,7 +1228717,6 @@ sort: by_weight
 随机图形	suí;eo jī;aj tú;wd xíng;kp	99
 随机微分	suí;eo jī;aj wēi;rj fēn;bd	486
 随机误差	suí;eo jī;aj wù;yt chā;yg	94
-随机误差	suí;eo jī;aj wù;yt chā;yg	34
 随机系统	suí;eo jī;aj xì;px tǒng;sy	35
 随机现象	suí;eo jī;aj xiàn;wj xiàng;du	432
 随机向量	suí;eo jī;aj xiàng;pk liàng;ol	634
@@ -1245742,7 +1245227,6 @@ sort: by_weight
 停火协议	tíng;rd huǒ;br xié;ub yì;yy	60
 停机保号	tíng;rd jī;aj bǎo;ra hào;kk	19
 停机待料	tíng;rd jī;aj dài;rc liào;md	31
-停机待料	tíng;rd jī;aj dài;rc liào;md	18
 停机待模	tíng;rd jī;aj dài;rc mó;ad	18
 停机待修	tíng;rd jī;aj dài;rc xiū;rp	18
 挺激动的	tǐng;fw jī;dw dòng;yl de;bu	204
@@ -1251853,7 +1251337,6 @@ sort: by_weight
 兔迹狐踪	tù;dd jì;zb hú;qg zōng;zu	4
 土鸡火锅	tǔ;ua jī;yn huǒ;br guō;jn	382
 突击检查	tū;bq jī;fk jiǎn;aq chá;ad	217
-突击检查	tū;bq jī;fk jiǎn;aq chá;ad	34
 突击爵士	tū;bq jī;fk jué;vc shì;ua	162
 突击力强	tū;bq jī;fk lì;vp qiáng;gi	180
 土瘠民贫	tǔ;ua jí;bo mín;vv pín;fb	3
@@ -1254484,7 +1253967,6 @@ sort: by_weight
 唾沫横飞	tuò;kt mò;dw héng;ab fēi;vd	657
 托莫洪市	tuō;fq mò;cd hóng;dg shì;wj	248
 脱模困难	tuō;ox mó;ad kùn;wa nan;yv	36
-脱模困难	tuō;ox mó;ad kùn;wa nan;yv	18
 脱模喷剂	tuō;ox mó;ad pēn;kb jì;qd	36
 脱模失败	tuō;ox mó;ad shī;pf bài;bw	36
 脱模时间	tuō;ox mó;ad shí;to jiān;mo	36
@@ -1255368,7 +1254850,6 @@ sort: by_weight
 外观检查	wài;xb guān;yj jiǎn;aq chá;ad	19
 外观简洁	wài;xb guān;yj jiǎn;vo jié;dk	778
 外观检验	wài;xb guān;yj jiǎn;aq yàn;mq	103
-外观检验	wài;xb guān;yj jiǎn;aq yàn;mq	18
 外观惊艳	wài;xb guān;yj jīng;xx yàn;fb	400
 外观类似	wài;xb guān;yj lèi;md sì;rr	639
 外观配置	wài;xb guān;yj pèi;yj zhì;sq	680
@@ -1265885,7 +1265366,6 @@ sort: by_weight
 唯一遍历	wéi;kv yī;aa biàn;zc lì;il	45
 唯一编码	wéi;kv yī;aa biān;sc mǎ;um	34
 唯一标识	wéi;kv yī;aa biāo;au shí;yv	251
-唯一标识	wéi;kv yī;aa biāo;au shí;yv	34
 唯一标准	wéi;kv yī;aa biāo;au zhǔn;dv	2606
 唯一不变	wéi;kv yī;aa bú;ab biàn;wy	615
 唯一不二	wéi;kv yī;aa bú;ab èr;aa	130
@@ -1266405,7 +1265885,6 @@ sort: by_weight
 未知鸟种	wèi;aa zhī;uk niǎo;na zhǒng;hv	31
 为之努力	wéi;ld zhī;dn nǔ;nl lì;vp	878
 位置偏差	wèi;rl zhì;sq piān;rc chā;yg	53
-位置偏差	wèi;rl zhì;sq piān;rc chā;yg	18
 位置偏僻	wèi;rl zhì;sq piān;rc pì;rx	720
 位置偏远	wèi;rl zhì;sq piān;rc yuǎn;zy	644
 位置偏窄	wèi;rl zhì;sq piān;rc zhǎi;bv	43
@@ -1267042,7 +1266521,6 @@ sort: by_weight
 温度升高	wēn;dm dù;gy shēng;pc gāo;wk	1360
 温度湿度	wēn;dm dù;gy shī;dy dù;gy	327
 温度失控	wēn;dm dù;gy shī;pf kòng;fg	68
-温度失控	wēn;dm dù;gy shī;pf kòng;fg	18
 温度试验	wēn;dm dù;gy shì;yg yàn;mq	270
 温度适宜	wēn;dm dù;gy shì;zu yí;bq	301
 温度适中	wēn;dm dù;gy shì;zu zhōng;kl	28
@@ -1276622,7 +1276100,6 @@ sort: by_weight
 无法拒绝	wú;ay fǎ;dq jù;fj jué;sb	923
 无法决定	wú;ay fǎ;dq jué;dg dìng;bz	747
 无法开机	wú;ay fǎ;dq kāi;ac jī;aj	819
-无法开机	wú;ay fǎ;dq kāi;ac jī;aj	34
 无法开启	wú;ay fǎ;dq kāi;ac qǐ;hk	616
 无法开展	wú;ay fǎ;dq kāi;ac zhǎn;uy	621
 无法看出	wú;ay fǎ;dq kàn;uo chū;uu	590
@@ -1277481,7 +1276958,7 @@ sort: by_weight
 无红绿灯	wú;ay hóng;sg lǜ;su dēng;hd	450
 五红十绿	wǔ;aw hóng;sg shí;al lǜ;su	130
 五红五水	wǔ;aw hóng;sg wǔ;aw shuǐ;ln	76
-武侯八阵	wǔ;gv hòu;ru bā;pn zhèn;ei	202
+武侯八阵	wǔ;gv hóu;ru bā;pn zhèn;ei	202
 午后潮热	wǔ;pu hòu;ik cháo;do rè;fh	6
 午后晨昏	wǔ;pu hòu;ik chén;oi hūn;uo	4
 午后大盘	wǔ;pu hòu;ik dà;ar pán;vm	585
@@ -1277497,19 +1276974,19 @@ sort: by_weight
 屋后柳树	wū;ut hòu;ik liǔ;ae shù;ac	4
 午后疲倦	wǔ;pu hòu;ik pí;bp juàn;rv	46
 五侯七贵	wǔ;aw hòu;ru qī;av guì;vb	3
-武侯奇门	wǔ;gv hòu;ru qí;dk mén;dv	144
+武侯奇门	wǔ;gv hóu;ru qí;dk mén;dv	144
 悟后起修	wù;xk hòu;ik qǐ;tj xiū;rp	320
-武侯区的	wǔ;gv hòu;ru qū;kx de;bu	346
+武侯区的	wǔ;gv hóu;ru qū;kx de;bu	346
 午后身热	wǔ;pu hòu;ik shēn;zc rè;fh	4
 午后时分	wǔ;pu hòu;ik shí;to fēn;bd	490
-武侯实验	wǔ;gv hòu;ru shí;bd yàn;mq	288
+武侯实验	wǔ;gv hóu;ru shí;bd yàn;mq	288
 午后四时	wǔ;pu hòu;ik sì;we shí;to	189
 无后为大	wú;ay hòu;ik wèi;ld dà;ar	122
 物候现象	wù;nw hòu;ru xiàn;wj xiàng;du	261
 午后香茶	wǔ;pu hòu;ik xiāng;ho chá;cm	4
 午后小憩	wǔ;pu hòu;ik xiǎo;lb qì;ux	436
 午后新闻	wǔ;pu hòu;ik xīn;lt wén;me	130
-武侯星落	wǔ;gv hòu;ru xīng;ou luò;ck	76
+武侯星落	wǔ;gv hóu;ru xīng;ou luò;ck	76
 午后阳光	wǔ;pu hòu;ik yáng;eo guāng;xe	792
 无后遗症	wú;ay hòu;ik yí;zb zhèng;bv	526
 无后坐力	wú;ay hòu;ik zuò;tr lì;vp	41
@@ -1286951,7 +1286428,6 @@ sort: by_weight
 系统文件	xì;px tǒng;sy wén;wx jiàn;rn	198
 系统问题	xì;px tǒng;sy wèn;mk tí;oy	427
 系统误差	xì;px tǒng;sy wù;yt chā;yg	210
-系统误差	xì;px tǒng;sy wù;yt chā;yg	34
 系统物料	xì;px tǒng;sy wù;nw liào;md	194
 系统误判	xì;px tǒng;sy wù;yt pàn;bd	93
 系统武术	xì;px tǒng;sy wǔ;gv shù;ad	153
@@ -1290059,7 +1289535,6 @@ sort: by_weight
 现场抄表	xiàn;wj chǎng;tp chāo;fu biǎo;fy	94
 现场称重	xiàn;wj chǎng;tp chēng;hx zhòng;ql	0
 现场抽检	xiàn;wj chǎng;tp chōu;fy jiǎn;aq	297
-现场抽检	xiàn;wj chǎng;tp chōu;fy jiǎn;aq	34
 现场抽奖	xiàn;wj chǎng;tp chōu;fy jiǎng;ld	662
 现场处罚	xiàn;wj chǎng;tp chǔ;wb fá;sd	544
 现场除了	xiàn;wj chǎng;tp chú;em le;al	680
@@ -1290156,7 +1289631,6 @@ sort: by_weight
 现场检测	xiàn;wj chǎng;tp jiǎn;aq cè;dd	572
 现场监测	xiàn;wj chǎng;tp jiān;lm cè;dd	395
 现场检查	xiàn;wj chǎng;tp jiǎn;aq chá;ad	311
-现场检查	xiàn;wj chǎng;tp jiǎn;aq chá;ad	34
 现场检定	xiàn;wj chǎng;tp jiǎn;aq dìng;bz	34
 现场监督	xiàn;wj chǎng;tp jiān;lm dū;uo	657
 现场监护	xiàn;wj chǎng;tp jiān;lm hù;fh	82
@@ -1293063,7 +1292537,6 @@ sort: by_weight
 纤维瘤病	xiān;sq wéi;sv liú;bt bìng;bn	446
 限位螺钉	xiàn;eg wèi;rl luó;ix dīng;jd	99
 限位螺丝	xiàn;eg wèi;rl luó;ix sī;sa	194
-限位螺丝	xiàn;eg wèi;rl luó;ix sī;sa	18
 纤维滤池	xiān;sq wéi;sv lǜ;dx chí;dy	82
 纤维酶原	xiān;sq wéi;sv méi;ym yuán;ix	45
 纤维铺层	xiān;sq wéi;sv pù;jf céng;uy	64
@@ -1299904,7 +1299377,6 @@ sort: by_weight
 消费调解	xiāo;do fèi;fb tiáo;yk jiě;dn	3
 小飞同学	xiǎo;lb fēi;vd tóng;kk xué;xz	180
 消费投诉	xiāo;do fèi;fb tóu;fu sù;yi	688
-消费投诉	xiāo;do fèi;fb tóu;fu sù;yi	34
 消费投资	xiāo;do fèi;fb tóu;fu zī;db	706
 小肥团子	xiǎo;lb féi;ob tuán;wc zi;la	4
 消费旺季	xiāo;do fèi;fb wàng;ow jì;hz	648
@@ -1305819,7 +1305291,6 @@ sort: by_weight
 新好男人	xīn;lt hǎo;nz nán;tl rén;pn	6
 信号配时	xìn;rk hào;kk pèi;yj shí;to	396
 信号漂移	xìn;rk hào;kk piāo;du yí;hx	64
-信号漂移	xìn;rk hào;kk piāo;du yí;hx	34
 信号欠冲	xìn;rk hào;kk qiàn;dr chōng;dv	52
 信号强度	xìn;rk hào;kk qiáng;gi dù;gy	628
 信号施工	xìn;rk hào;kk shī;fy gōng;aa	130
@@ -1311555,7 +1311026,6 @@ sort: by_weight
 刑事判决	xíng;kd shì;gy pàn;bd jué;dg	107
 刑事赔偿	xíng;kd shì;gy péi;bk cháng;ry	9
 型式批准	xíng;kt shì;gg pī;fb zhǔn;dv	234
-型式批准	xíng;kt shì;gg pī;fb zhǔn;dv	34
 行驶品质	xíng;rd shǐ;mu pǐn;kk zhì;ib	220
 型式评价	xíng;kt shì;gg píng;yp jià;rj	34
 行驶平稳	xíng;rd shǐ;mu píng;au wěn;hx	13
@@ -1311584,7 +1311054,6 @@ sort: by_weight
 行驶时间	xíng;rd shǐ;mu shí;to jiān;mo	72
 行驶时速	xíng;rd shǐ;mu shí;to sù;zu	9
 型式试验	xíng;kt shì;gg shì;yg yàn;mq	508
-型式试验	xíng;kt shì;gg shì;yg yàn;mq	34
 形式实域	xíng;kp shì;gg shí;bd yù;ta	99
 刑事手段	xíng;kd shì;gy shǒu;pf duàn;pu	374
 行驶数据	xíng;rd shǐ;mu shù;mw jù;fg	9
@@ -1311812,7 +1311281,6 @@ sort: by_weight
 行为分析	xíng;rd wéi;ld fēn;bd xī;at	528
 性味甘平	xìng;xu wèi;kw gān;ca píng;au	711
 形位公差	xíng;kp wèi;rl gōng;bs chāi;yg	351
-形位公差	xíng;kp wèi;rl gōng;bs chāi;yg	18
 行为构成	xíng;rd wéi;ld gòu;ag chéng;gv	882
 行为古怪	xíng;rd wéi;ld gǔ;uk guài;xt	47
 行为乖张	xíng;rd wéi;ld guāi;qb zhāng;gi	50
@@ -1319396,7 +1318864,6 @@ sort: by_weight
 询价请加	xún;yo jià;rj qǐng;yo jiā;lk	454
 巡检工单	xún;zv jiǎn;aq gōng;aa dān;bu	94
 巡检记录	xún;zv jiǎn;aq jì;yj lù;eu	44
-巡检记录	xún;zv jiǎn;aq jì;yj lù;eu	34
 巡检力度	xún;zv jiǎn;aq lì;vp dù;gy	225
 巡讲活动	xún;zv jiǎng;yj huó;du dòng;yl	608
 熏酱拼盘	xūn;qh jiàng;ly pīn;fk pán;vm	52
@@ -1321180,7 +1320647,7 @@ sort: by_weight
 压铸行业	yā;id zhù;jc háng;rd yè;la	306
 压铸合金	yā;id zhù;jc hé;rk jīn;rb	76
 押注美国	yā;fj zhù;dv měi;yd guó;wy	310
-压铸模具	yā;id zhù;jc mó;ad jù;qb	252
+压铸模具	yā;id zhù;jc mú;ad jù;qb	252
 压铸生产	yā;id zhù;jc shēng;pf chǎn;wi	194
 轧住手指	yà;iv zhù;rv shǒu;pf zhǐ;fo	55
 押注中国	yā;fj zhù;dv zhōng;kl guó;wy	333
@@ -1334391,7 +1333858,6 @@ sort: by_weight
 移动咪咕	yí;hx dòng;yl mī;km gū;kg	598
 移动模架	yí;hx dòng;yl mó;ad jià;la	252
 移动模板	yí;hx dòng;yl mú;ad bǎn;ay	99
-移动模板	yí;hx dòng;yl mú;ad bǎn;ay	18
 移动目标	yí;hx dòng;yl mù;we biāo;au	608
 移动平板	yí;hx dòng;yl píng;au bǎn;ay	83
 移动平均	yí;hx dòng;yl píng;au jūn;ty	1300
@@ -1354762,7 +1354228,6 @@ sort: by_weight
 应力解除	yìng;ga lì;vp jiě;dn chú;em	207
 应力矩阵	yìng;ga lì;vp jǔ;uj zhèn;ei	76
 应力开裂	yìng;ga lì;vp kāi;ac liè;dy	324
-应力开裂	yìng;ga lì;vp kāi;ac liè;dy	18
 盈利空间	yíng;nm lì;hd kōng;bg jiān;mo	868
 应力控制	yìng;ga lì;vp kòng;fg zhì;nd	94
 应力矿物	yìng;ga lì;vp kuàng;ug wù;nw	45
@@ -1358374,7 +1357839,6 @@ sort: by_weight
 由表及里	yóu;ol biǎo;fy jí;pn lǐ;tt	207
 有表决权	yǒu;uo biǎo;fy jué;dg quán;ay	72
 游标卡尺	yóu;dz biāo;au kǎ;ub chǐ;un	151
-游标卡尺	yóu;dz biāo;au kǎ;ub chǐ;un	18
 由表看出	yóu;ol biǎo;fy kàn;uo chū;uu	50
 游标刻度	yóu;dz biāo;au kè;wd dù;gy	99
 由表入里	yóu;ol biǎo;fy rù;pn lǐ;tt	25
@@ -1363739,7 +1363203,6 @@ sort: by_weight
 有问必答	yǒu;uo wèn;mk bì;xp dá;vk	1042
 有闻必录	yǒu;uo wén;me bì;xp lù;eu	6
 油温过高	yóu;dy wēn;dm guò;zc gāo;wk	580
-油温过高	yóu;dy wēn;dm guò;zc gāo;wk	18
 油温控制	yóu;dy wēn;dm kòng;fg zhì;nd	495
 油温升高	yóu;dy wēn;dm shēng;pc gāo;wk	522
 有问题吧	yǒu;uo wèn;mk tí;oy ba;kb	226
@@ -1365056,7 +1364519,6 @@ sort: by_weight
 油压按摩	yóu;dy yā;id àn;fn mó;gu	238
 优雅不起	yōu;ry yǎ;yv bù;ab qǐ;tj	261
 油压不足	yóu;dy yā;id bù;ab zú;kz	135
-油压不足	yóu;dy yā;id bù;ab zú;kz	18
 有牙齿的	yǒu;uo yá;gp chǐ;vr de;bu	562
 油压冲床	yóu;dy yā;id chòng;dv chuáng;ga	4
 优雅穿搭	yōu;ry yǎ;yv chuān;by dā;fk	220
@@ -1368399,7 +1367861,6 @@ sort: by_weight
 逾期天数	yú;zd qī;co tiān;ad shù;mw	405
 逾期未还	yú;zd qī;co wèi;aa huán;zb	25
 逾期未检	yú;zd qī;co wèi;aa jiǎn;aq	490
-逾期未检	yú;zd qī;co wèi;aa jiǎn;aq	34
 预期未来	yù;yy qī;co wèi;aa lái;aa	752
 逾期未续	yú;zd qī;co wèi;aa xù;sd	39
 预期违约	yù;yy qī;co wéi;zw yuē;su	3
@@ -1376560,7 +1376021,6 @@ sort: by_weight
 允许失真	yǔn;se xǔ;yw shī;pf zhēn;ub	45
 允许条件	yǔn;se xǔ;yw tiáo;wa jiàn;rn	328
 允许误差	yǔn;se xǔ;yw wù;yt chā;yg	53
-允许误差	yǔn;se xǔ;yw wù;yt chā;yg	34
 允许细胞	yǔn;se xǔ;yw xì;st bāo;ob	234
 允许一夫	yǔn;se xǔ;yw yì;aa fū;er	387
 允许载荷	yǔn;se xǔ;yw zài;gi hè;ck	117
@@ -1378958,7 +1378418,6 @@ sort: by_weight
 再生聚酯	zài;ar shēng;pf jù;eu zhǐ;yo	310
 再升科技	zài;ar shēng;pc kē;hd jì;fv	405
 再生颗粒	zài;ar shēng;pf kē;gy lì;ml	32
-再生颗粒	zài;ar shēng;pf kē;gy lì;ml	18
 再生矿床	zài;ar shēng;pf kuàng;ug chuáng;ga	45
 再生沥青	zài;ar shēng;pf lì;dl qīng;fo	234
 再生利用	zài;ar shēng;pf lì;hd yòng;kf	752
@@ -1380274,7 +1379733,6 @@ sort: by_weight
 暂停生产	zàn;io tíng;rd shēng;pf chǎn;wi	662
 暂停施工	zàn;io tíng;rd shī;fy gōng;aa	61
 暂停使用	zàn;io tíng;rd shǐ;rl yòng;kf	788
-暂停使用	zàn;io tíng;rd shǐ;rl yòng;kf	34
 暂停受理	zàn;io tíng;rd shòu;vy lǐ;wl	585
 暂停堂食	zàn;io tíng;rd táng;xt shí;rg	6
 暂停通行	zàn;io tíng;rd tōng;zy xíng;rd	28
@@ -1381538,7 +1380996,6 @@ sort: by_weight
 责令限改	zé;fb lìng;rs xiàn;eg gǎi;jw	4
 责令限期	zé;fb lìng;rs xiàn;eg qī;co	842
 责令整改	zé;fb lìng;rs zhěng;uv gǎi;jw	760
-责令整改	zé;fb lìng;rs zhěng;uv gǎi;jw	34
 泽流九有	zé;df liú;di jiǔ;pv yǒu;uo	130
 泽鲁阿勒	zé;df lǔ;yo ā;ek lè;cl	230
 则乱大谋	zé;bd luàn;uv dà;ar móu;ya	562
@@ -1390837,7 +1390294,6 @@ sort: by_weight
 真空吸力	zhēn;ub kōng;bg xī;kj lì;vp	315
 真空吸料	zhēn;ub kōng;bg xī;kj liào;md	45
 真空吸盘	zhēn;ub kōng;bg xī;kj pán;vm	387
-真空吸盘	zhēn;ub kōng;bg xī;kj pán;vm	18
 真空吸水	zhēn;ub kōng;bg xī;kj shuǐ;ln	99
 真空吸塑	zhēn;ub kōng;bg xī;kj sù;nt	202
 真空系统	zhēn;ub kōng;bg xì;px tǒng;sy	13
@@ -1398398,7 +1397854,6 @@ sort: by_weight
 直发夹板	zhí;uq fà;fy jiā;ar bǎn;ay	153
 植发价格	zhí;aq fā;fy jià;rj gé;ak	392
 执法检查	zhí;fw fǎ;dq jiǎn;aq chá;ad	35
-执法检查	zhí;fw fǎ;dq jiǎn;aq chá;ad	34
 执法监察	zhí;fw fǎ;dq jiān;lm chá;bu	32
 执法监督	zhí;fw fǎ;dq jiān;lm dū;uo	16
 执法监管	zhí;fw fǎ;dq jiān;lm guǎn;vl	688
@@ -1400009,7 +1399464,6 @@ sort: by_weight
 直接交换	zhí;uq jiē;fn jiāo;wf huàn;fr	88
 直接交还	zhí;uq jiē;fn jiāo;wf huán;zb	79
 直接浇口	zhí;uq jiē;fn jiāo;dw kǒu;la	99
-直接浇口	zhí;uq jiē;fn jiāo;dw kǒu;la	18
 直接交流	zhí;uq jiē;fn jiāo;wf liú;di	358
 直接交手	zhí;uq jiē;fn jiāo;wf shǒu;pf	423
 智捷交通	zhì;uo jié;fz jiāo;wf tōng;zy	45
@@ -1400764,7 +1400218,6 @@ sort: by_weight
 质量中心	zhì;ib liàng;ol zhōng;kl xīn;dd	69
 质量状况	zhì;ib liàng;ol zhuàng;lq kuàng;dx	16
 质量追溯	zhì;ib liàng;ol zhuī;zl sù;do	118
-质量追溯	zhì;ib liàng;ol zhuī;zl sù;do	18
 质量最高	zhì;ib liàng;ol zuì;oy gāo;wk	702
 质量最好	zhì;ib liàng;ol zuì;oy hǎo;nz	873
 质量作用	zhì;ib liàng;ol zuò;rv yòng;kf	297
@@ -1411368,7 +1410821,6 @@ sort: by_weight
 重心偏后	zhòng;ql xīn;dd piān;rc hòu;ik	37
 重心偏前	zhòng;ql xīn;dd piān;rc qián;bd	37
 重心偏移	zhòng;ql xīn;dd piān;rc yí;hx	88
-重心偏移	zhòng;ql xīn;dd piān;rc yí;hx	34
 中心频率	zhōng;kl xīn;dd pín;vy lǜ;wu	72
 重心平衡	zhòng;ql xīn;dd píng;au héng;rd	50
 中信期货	zhōng;kl xìn;rk qī;co huò;rb	734
@@ -1413675,7 +1413127,6 @@ sort: by_weight
 周期变化	zhōu;kk qī;co biàn;wy huà;rb	176
 周期变星	zhōu;kk qī;co biàn;wy xīng;ou	338
 周期波动	zhōu;kk qī;co bō;dp dòng;yl	675
-周期波动	zhōu;kk qī;co bō;dp dòng;yl	18
 周期重复	zhōu;kk qī;co chóng;ql fù;pw	288
 周期轨道	zhōu;kk qī;co guǐ;ij dào;zz	436
 周期函数	zhōu;kk qī;co hán;ku shù;mw	207
@@ -1413683,7 +1413134,6 @@ sort: by_weight
 周期荷载	zhōu;kk qī;co hè;ck zài;gi	50
 周期彗星	zhōu;kk qī;co huì;fe xīng;ou	6
 周期检定	zhōu;kk qī;co jiǎn;aq dìng;bz	256
-周期检定	zhōu;kk qī;co jiǎn;aq dìng;bz	34
 周期减小	zhōu;kk qī;co jiǎn;dk xiǎo;lb	153
 周期较长	zhōu;kk qī;co jiào;if cháng;pn	575
 周期交换	zhōu;kk qī;co jiāo;wf huàn;fr	45
@@ -1413697,7 +1413147,6 @@ sort: by_weight
 周期摄动	zhōu;kk qī;co shè;fy dòng;yl	45
 周期时间	zhōu;kk qī;co shí;to jiān;mo	47
 周期事件	zhōu;kk qī;co shì;gy jiàn;rn	42
-周期时间	zhōu;kk qī;co shí;to jiān;mo	18
 周期寿命	zhōu;kk qī;co shòu;fc mìng;re	189
 周期缩短	zhōu;kk qī;co suō;sb duǎn;ub	716
 周期太长	zhōu;kk qī;co tài;dd cháng;pn	408
@@ -1416099,7 +1415548,6 @@ sort: by_weight
 竺摩法师	zhú;ve mó;gu fǎ;dq shī;lj	130
 朱墨烂然	zhū;pw mò;lt làn;hl rán;xh	4
 逐末弃本	zhú;zu mò;aa qì;wc běn;aa	76
-铸模润滑	zhù;jc mó;ad rùn;dw huá;do	189
 逐末舍本	zhú;zu mò;aa shě;rg běn;aa	45
 逐末忘本	zhú;zu mò;aa wàng;wx běn;aa	52
 竹木地板	zhú;gg mù;ur dì;ty bǎn;ay	288
@@ -1416107,6 +1415555,7 @@ sort: by_weight
 竹木结构	zhú;gg mù;ur jié;sk gòu;ag	310
 珠穆朗玛	zhū;ww mù;hp lǎng;lo mǎ;wm	207
 朱木拿河	zhū;pw mù;ur ná;ru hé;dk	212
+铸模润滑	zhù;jc mú;ad rùn;dw huá;do	189
 竹木市场	zhú;gg mù;ur shì;wj chǎng;tp	99
 竹木纤维	zhú;gg mù;ur xiān;sq wéi;sv	396
 竹木修复	zhú;gg mù;ur xiū;rp fù;pw	58
@@ -1416403,7 +1415852,6 @@ sort: by_weight
 主少国疑	zhǔ;wt shǎo;xp guó;wy yí;bz	104
 主设备商	zhǔ;wt shè;yu bèi;wt shāng;wk	171
 注射部位	zhù;dv shè;uc bù;le wèi;rl	900
-注射成型	zhù;dv shè;uc chéng;gv xíng;kt	18
 注射成型	zhù;dv shè;uc chéng;gv xíng;kt	6
 注射成形	zhù;dv shè;uc chéng;gv xíng;kp	5
 注射除皱	zhù;dv shè;uc chú;em zhòu;dp	572
@@ -1416565,13 +1416013,11 @@ sort: by_weight
 注塑包胶	zhù;dv sù;nt bāo;bs jiāo;of	18
 住宿补贴	zhù;rv sù;bb bǔ;pb tiē;bv	91
 住宿餐饮	zhù;rv sù;bb cān;dg yǐn;uq	63
-注塑产品	zhù;dv sù;nt chǎn;wi pǐn;kk	18
 住宿产品	zhù;rv sù;bb chǎn;wi pǐn;kk	9
 注塑产品	zhù;dv sù;nt chǎn;wi pǐn;kk	8
 注塑车间	zhù;dv sù;nt chē;au jiān;mo	171
 注塑成型	zhù;dv sù;nt chéng;gv xíng;kt	554
 注塑成形	zhù;dv sù;nt chéng;gv xíng;kp	110
-注塑成型	zhù;dv sù;nt chéng;gv xíng;kt	18
 住宿登记	zhù;rv sù;bb dēng;bb jì;yj	22
 住宿等级	zhù;rv sù;bb děng;vc jí;sj	20
 住宿服务	zhù;rv sù;bb fú;oy wù;wl	53
@@ -1416583,7 +1416029,6 @@ sort: by_weight
 注塑加工	zhù;dv sù;nt jiā;lk gōng;aa	0
 注塑浇口	zhù;dv sù;nt jiāo;dw kǒu;la	52
 注塑模具	zhù;dv sù;nt mú;ad jù;qb	38
-注塑模具	zhù;dv sù;nt mú;ad jù;qb	18
 住宿凭证	zhù;rv sù;bb píng;rj zhèng;yv	73
 注塑设备	zhù;dv sù;nt shè;yu bèi;wt	76
 住宿设施	zhù;rv sù;bb shè;yu shī;fy	28
@@ -1419099,7 +1418544,6 @@ sort: by_weight
 专项检测	zhuān;ts xiàng;gy jiǎn;aq cè;dd	277
 专项检查	zhuān;ts xiàng;gy jiǎn;aq chá;ad	119
 专项监察	zhuān;ts xiàng;gy jiān;lm chá;bu	107
-专项检查	zhuān;ts xiàng;gy jiǎn;aq chá;ad	34
 专项监督	zhuān;ts xiàng;gy jiān;lm dū;uo	657
 专项建设	zhuān;ts xiàng;gy jiàn;zy shè;yu	765
 转向箭头	zhuǎn;iv xiàng;pk jiàn;vd tóu;dd	31
@@ -1419164,12 +1418608,10 @@ sort: by_weight
 专项债券	zhuān;ts xiàng;gy zhài;rb quàn;jd	855
 专享折扣	zhuān;ts xiǎng;wz zhé;ft kòu;fk	297
 专项整治	zhuān;ts xiàng;gy zhěng;uv zhì;dk	144
-专项整治	zhuān;ts xiàng;gy zhěng;uv zhì;dk	34
 专项支出	zhuān;ts xiàng;gy zhī;uy chū;uu	346
 专项指导	zhuān;ts xiàng;gy zhǐ;fo dǎo;sc	297
 专项执法	zhuān;ts xiàng;gy zhí;fw fǎ;dq	796
 专项治理	zhuān;ts xiàng;gy zhì;dk lǐ;wl	94
-专项治理	zhuān;ts xiàng;gy zhì;dk lǐ;wl	34
 转向指令	zhuǎn;iv xiàng;pk zhǐ;fo lìng;rs	220
 专项知识	zhuān;ts xiàng;gy zhī;uk shi;yv	270
 转向中国	zhuǎn;iv xiàng;pk zhōng;kl guó;wy	558
@@ -1420861,7 +1420303,6 @@ sort: by_weight
 追思先人	zhuī;zl sī;tx xiān;ne rén;pn	374
 追思相册	zhuī;zl sī;tx xiàng;ao cè;ka	39
 追溯标签	zhuī;zl sù;do biāo;au qiān;vq	52
-追溯标签	zhuī;zl sù;do biāo;au qiān;vq	34
 追溯标识	zhuī;zl sù;do biāo;au shí;yv	54
 追诉标准	zhuī;zl sù;yi biāo;au zhǔn;dv	482
 追溯过往	zhuī;zl sù;do guò;zc wǎng;rv	306
@@ -1422164,7 +1421605,6 @@ sort: by_weight
 自动关闭	zì;po dòng;yl guān;bt bì;mc	480
 自动观测	zì;po dòng;yl guān;yj cè;dd	28
 自动关机	zì;po dòng;yl guān;bt jī;aj	371
-自动关机	zì;po dòng;yl guān;bt jī;aj	34
 自动关锁	zì;po dòng;yl guān;bt suǒ;jb	32
 自动灌装	zì;po dòng;yl guàn;dv zhuāng;ly	266
 自动归零	zì;po dòng;yl guī;le líng;ys	34
@@ -1422941,7 +1422381,6 @@ sort: by_weight
 自己名字	zì;po jǐ;kv míng;xk zì;bz	52
 自己摸啊	zì;po jǐ;kv mō;fd a;kk	4
 字迹模糊	zì;bz jì;zb mó;ad hu;mo	60
-字迹模糊	zì;bz jì;zb mó;ad hu;mo	34
 自己拿吧	zì;po jǐ;kv ná;ru ba;kb	52
 自己那么	zì;po jǐ;kv nà;ve me;ps	963
 自己拿走	zì;po jǐ;kv ná;ru zǒu;tz	52
@@ -1428932,7 +1428371,6 @@ sort: by_weight
 阻燃包带	zǔ;eq rán;hh bāo;bs dài;cj	94
 阻燃处理	zǔ;eq rán;hh chǔ;wb lǐ;wl	64
 阻燃等级	zǔ;eq rán;hh děng;vc jí;sj	256
-阻燃等级	zǔ;eq rán;hh děng;vc jí;sj	18
 阻燃电缆	zǔ;eq rán;hh diàn;ov lǎn;sj	44
 阻燃电线	zǔ;eq rán;hh diàn;ov xiàn;sj	189
 阻燃夹板	zǔ;eq rán;hh jiā;ar bǎn;ay	69
@@ -1429669,7 +1429107,6 @@ sort: by_weight
 最大乘积	zuì;oy dà;ar chéng;qr jī;hv	28
 最大称量	zuì;oy dà;ar chēng;hx liáng;ol	261
 最大秤量	zuì;oy dà;ar chēng;hp liàng;ol	34
-最大称量	zuì;oy dà;ar chēng;hx liáng;ol	34
 最大城市	zuì;oy dà;ar chéng;ti shì;wj	976
 最大诚意	zuì;oy dà;ar chéng;yi yì;lx	468
 最大承重	zuì;oy dà;ar chéng;ln zhòng;ql	389
@@ -1441911,7 +1441348,7 @@ sort: by_weight
 成都十七中	chéng;gv dū;le shí;al qī;av zhōng;kl	10
 成都双流区	chéng;gv dū;le shuāng;yy liú;di qū;kx	10
 成都温江区	chéng;gv dū;le wēn;dm jiāng;dg qū;kx	10
-成都武侯区	chéng;gv dū;le wǔ;gv hòu;ru qū;kx	10
+成都武侯区	chéng;gv dū;le wǔ;gv hóu;ru qū;kx	10
 成都西站站	chéng;gv dū;le xī;ak zhàn;lv zhàn;lv	10
 承兑手续费	chéng;ln duì;bx shǒu;pf xù;sd fèi;fb	10
 承兑信用证	chéng;ln duì;bx xìn;rk yòng;kf zhèng;yv	10
@@ -1479904,7 +1479341,7 @@ sort: by_weight
 免洗护发素	miǎn;de xǐ;de hù;fh fà;fy sù;fx	10
 免洗洗手液	miǎn;de xǐ;de xǐ;de shǒu;pf yè;dw	10
 免洗消毒液	miǎn;de xǐ;de xiāo;do dú;fm yè;dw	10
-勉县武侯祠	miǎn;dl xiàn;qs wǔ;gv hòu;ru cí;pk	10
+勉县武侯祠	miǎn;dl xiàn;qs wǔ;gv hóu;ru cí;pk	10
 面向过程的	miàn;ao xiàng;pk guò;zc chéng;hw de;bu	10
 面向用户的	miàn;ao xiàng;pk yòng;kf hù;du de;bu	10
 面形测定器	miàn;ao xíng;kp cè;dd dìng;bz qì;xx	10
@@ -1505648,13 +1505085,13 @@ sort: by_weight
 邬贺铨院士	wū;we hè;lb quán;jw yuàn;ey shì;ua	10
 无核三原则	wú;ay hé;ar sān;ae yuán;ix zé;bd	10
 舞鹤镇守府	wǔ;pf hè;bn zhèn;jb shǒu;bc fǔ;gc	10
-武侯祠大街	wǔ;gv hòu;ru cí;pk dà;ar jiē;rt	10
-武侯大道站	wǔ;gv hòu;ru dà;ar dào;zz zhàn;lv	10
+武侯祠大街	wǔ;gv hóu;ru cí;pk dà;ar jiē;rt	10
+武侯大道站	wǔ;gv hóu;ru dà;ar dào;zz zhàn;lv	10
 午后的小径	wǔ;pu hòu;ik de;bu xiǎo;lb jìng;rj	10
 午后的曳航	wǔ;pu hòu;ik de;bu yè;op háng;vj	10
 伍侯德之战	wǔ;rw hóu;ru dé;rx zhī;dn zhàn;vg	10
 无后顾之忧	wú;ay hòu;ik gù;iy zhī;dn yōu;xy	10
-武侯立交站	wǔ;gv hòu;ru lì;wb jiāo;wf zhàn;lv	10
+武侯立交站	wǔ;gv hóu;ru lì;wb jiāo;wf zhàn;lv	10
 无后坐力炮	wú;ay hòu;ik zuò;tr lì;vp pào;hb	10
 五虎断门刀	wǔ;aw hǔ;hj duàn;vt mén;dv dāo;vp	10
 乌呼鲁单位	wū;pa hū;kh lǔ;yo dān;bu wèi;rl	10
@@ -1560292,7 +1559729,7 @@ sort: by_weight
 市场重置成本	shì;wj chǎng;tp chóng;ql zhì;sq chéng;gv běn;aa	10
 市场开拓战略	shì;wj chǎng;tp kāi;ac tuò;fu zhàn;vg lüè;tk	10
 市场社会主义	shì;wj chǎng;tp shè;pt huì;ry zhǔ;wt yì;dx	10
-市长途客运站	shí;wj cháng;pn tú;zm kè;bk yùn;zy zhàn;lv	10
+市长途客运站	shì;wj cháng;pn tú;zm kè;bk yùn;zy zhàn;lv	10
 市场销售经理	shì;wj chǎng;tp xiāo;jo shòu;rk jīng;sj lǐ;wl	10
 市场议价能力	shì;wj chǎng;tp yì;yy jià;rj néng;sb lì;vp	10
 市场营销人物	shì;wj chǎng;tp yíng;ck xiāo;jo rén;pn wù;nw	10
@@ -1566414,7 +1565851,7 @@ sort: by_weight
 五好文明家庭	wǔ;aw hǎo;nz wén;wx míng;oo jiā;bu tíng;gw	10
 芜合高速公路	wú;cw hé;rk gāo;wk sù;zu gōng;bs lù;zk	10
 舞鹤海军工厂	wǔ;pf hè;bn hǎi;dm jūn;bi gōng;aa chǎng;ap	10
-武侯实验中学	wǔ;gv hòu;ru shí;bd yàn;mq zhōng;kl xué;xz	10
+武侯实验中学	wǔ;gv hóu;ru shí;bd yàn;mq zhōng;kl xué;xz	10
 芜湖东直属站	wú;cw hú;do dōng;ax zhí;uq shǔ;uy zhàn;lv	10
 芜湖高速公路	wú;cw hú;do gāo;wk sù;zu gōng;bs lù;zk	10
 无胡歌不仙剑	wú;ay hú;go gē;kq bù;ab xiān;ru jiàn;qd	10
@@ -1566612,7 +1566049,7 @@ sort: by_weight
 无穷小切变换	wú;ay qióng;bl xiǎo;lb qiē;qd biàn;wy huàn;fr	10
 无穷小生成元	wú;ay qióng;bl xiǎo;lb shēng;pf chéng;gv yuán;aw	10
 务求取得实效	wù;wl qiú;au qǔ;ey dé;rc shí;bd xiào;ww	10
-无屈折拉丁语	wú;ay qū;ui shé;ft lā;fl dīng;al yǔ;yk	10
+无屈折拉丁语	wú;ay qū;ui zhé;ft lā;fl dīng;al yǔ;yk	10
 物权的请求权	wù;nw quán;ay de;bu qǐng;yo qiú;au quán;ay	10
 物权法定原则	wù;nw quán;ay fǎ;dq dìng;bz yuán;ix zé;bd	10
 物权法定主义	wù;nw quán;ay fǎ;dq dìng;bz zhǔ;wt yì;dx	10
@@ -1584535,7 +1583972,7 @@ sort: by_weight
 发展自己的事业	fā;fy zhǎn;uy zì;po jǐ;kv de;bu shì;gy yè;la	10
 发展最快的城市	fā;fy zhǎn;uy zuì;oy kuài;xg de;bu chéng;ti shì;wj	10
 发展最快的宗教	fā;fy zhǎn;uy zuì;oy kuài;xg de;bu zōng;bu jiào;lw	10
-伐中原武侯上表	fá;rg zhōng;kl yuán;ix wǔ;gv hòu;ru shàng;ba biǎo;fy	10
+伐中原武侯上表	fá;rg zhōng;kl yuán;ix wǔ;gv hóu;ru shàng;ba biǎo;fy	10
 泛阿拉伯运动会	fàn;df ā;ek lā;fl bó;rb yùn;zy dòng;yl huì;ry	10
 反杯葛以色列法	fǎn;iy bēi;ab gé;cr yǐ;lr sè;db liè;dd fǎ;dq	10
 翻炒一分钟左右	fān;mx chǎo;hu yì;aa fēn;bd zhōng;jv zuǒ;ug yòu;uk	10
