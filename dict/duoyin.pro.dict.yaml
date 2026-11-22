@@ -76,7 +76,7 @@ sort: by_weight
 乐和	yuè;px hé;hk	1782
 乐考	lè;px kǎo;lk	329
 乐考	yuè;px kǎo;lk	1020
-求得	qiú;au dé;rc	2702
+求得	qiú;au,ad dé;rc	2702
 一来	yī;aa lái;aa	11920
 呦呵	yō;kl hē;kk	1930
 不落	bú;ab là;ck	1395
@@ -120,7 +120,7 @@ sort: by_weight
 星星	xīng;ou xing;ou	3144
 盛放	shèng;im fàng;fw	1197
 愿为	yuàn;ix wèi;ld	1056
-东西	dōng;ax xī;ak	1687
+东西	dōng;ax xī;ak,wk	1687
 捏坏	niē;ft pēi;tb	120
 糁馆	sá;mp guǎn;ul	88
 糁面	sá;mp miàn;ao	83
@@ -139,7 +139,7 @@ sort: by_weight
 一朝	yì;aa cháo;uo	95
 特勒	tè;nc lēi;cl	310
 大汗	dà;ar hán;dg	1558
-指甲	zhī;fo jia;ol	4670
+指甲	zhī;fo jia;ol,tl	4670
 好色	hǎo;nz sè;db	1706
 一本	yī;aa běn;aa	5395
 一线	yí;aa xiàn;sj	183
@@ -407,8 +407,8 @@ sort: by_weight
 朝阳	cháo;uo yáng;eo	2920
 单行	dān;bu xíng;rd	4473
 单行	dān;bu háng;rd	2600
-串行	chuàn;kl xíng;rd	679
-串行	chuàn;kl háng;rd	679
+串行	chuàn;kl,vv xíng;rd	679
+串行	chuàn;kl,vv háng;rd	679
 同行	tóng;kk háng;rd	28559
 同行	tóng;kk xíng;rd	2409
 多行	duō;xx xíng;rd	1154
@@ -601,8 +601,8 @@ sort: by_weight
 炸鱼	zhà;hv yú;da	2606
 喜乐	xǐ;tk yuè;px	111
 长的	zhǎng;pn de;bu	1583
-长牙	zhǎng;pn yá;gp	293
-长牙	cháng;pn yá;gp	382
+长牙	zhǎng;pn yá;gp,ac	293
+长牙	cháng;pn yá;gp,ac	382
 长芽	cháng;pn yá;cy	352
 重活	zhòng;ql huó;du	1859
 重活	chóng;ql huó;du	639
@@ -638,7 +638,7 @@ sort: by_weight
 为这	wèi;ld zhèi;zw	560
 问这	wèn;mk zhèi;zw	600
 我这	wǒ;ga zhèi;zw	690
-用这	yòng;kf zhèi;zw	560
+用这	yòng;kf,ol zhèi;zw	560
 在这	zài;ut zhèi;zw	800
 咱这	zán;kz zhèi;zw	470
 照这	zhào;oh zhèi;zw	390
@@ -679,7 +679,7 @@ sort: by_weight
 这城	zhèi;zw chéng;ti	330
 这处	zhèi;zw chù;wb	530
 这出	zhèi;zw chū;uu	450
-这串	zhèi;zw chuàn;kl	440
+这串	zhèi;zw chuàn;kl,vv	440
 这船	zhèi;zw chuán;vk	330
 这次	zhèi;zw cì;dq	810
 这词	zhèi;zw cí;yk	510
@@ -734,7 +734,7 @@ sort: by_weight
 这更	zhèi;zw gèng;an	500
 这狗	zhèi;zw gǒu;qj	440
 这股	zhèi;zw gǔ;ou	580
-这瓜	zhèi;zw guā;in	320
+这瓜	zhèi;zw guā;in,vd	320
 这关	zhèi;zw guān;bt	470
 这罐	zhèi;zw guàn;fv	330
 这光	zhèi;zw guāng;xe	320
@@ -836,7 +836,7 @@ sort: by_weight
 这桥	zhèi;zw qiáo;al	320
 这球	zhèi;zw qiú;wq	470
 这区	zhèi;zw qū;kx	380
-这曲	zhèi;zw qū;wc	350
+这曲	zhèi;zw qū;wc,ck	350
 这全	zhèi;zw quán;rw	360
 这圈	zhèi;zw quān;wv	340
 这券	zhèi;zw quàn;jd	300
@@ -1296,10 +1296,10 @@ sort: by_weight
 以这个	yǐ;lr zhèi;zw ge;rl	550
 以这样	yǐ;lr zhèi;zw yàng;ay	440
 以这种	yǐ;lr zhèi;zw zhǒng;hv	560
-用这个	yòng;kf zhèi;zw ge;rl	650
-用这颗	yòng;kf zhèi;zw kē;gy	170
-用这样	yòng;kf zhèi;zw yàng;ay	470
-用这种	yòng;kf zhèi;zw zhǒng;hv	620
+用这个	yòng;kf,ol zhèi;zw ge;rl	650
+用这颗	yòng;kf,ol zhèi;zw kē;gy	170
+用这样	yòng;kf,ol zhèi;zw yàng;ay	470
+用这种	yòng;kf,ol zhèi;zw zhǒng;hv	620
 有这大	yǒu;uo zhèi;zw dà;ar	190
 有这的	yǒu;uo zhèi;zw de;bu	270
 有这多	yǒu;uo zhèi;zw duō;xx	220
@@ -1310,7 +1310,7 @@ sort: by_weight
 有这钱	yǒu;uo zhèi;zw qián;jj	360
 有这事	yǒu;uo zhèi;zw shì;gy	360
 有这些	yǒu;uo zhèi;zw xiē;ve	180
-由这些	yóu;ol zhèi;zw xiē;ve	140
+由这些	yóu;ol,lt zhèi;zw xiē;ve	140
 有这样	yǒu;uo zhèi;zw yàng;ay	670
 有这种	yǒu;uo zhèi;zw zhǒng;hv	660
 与这些	yǔ;va zhèi;zw xiē;ve	570
@@ -1476,16 +1476,16 @@ sort: by_weight
 这的确	zhèi;zw dí;bu què;uy	510
 这地铁	zhèi;zw dì;ty tiě;jf	230
 这地图	zhèi;zw dì;ty tú;wd	300
-这电脑	zhèi;zw diàn;ov nǎo;ox	370
+这电脑	zhèi;zw diàn;ov,yv nǎo;ox	370
 这点钱	zhèi;zw diǎn;vh qián;jj	530
 这点去	zhèi;zw diǎn;vh qù;ts	260
 这点上	zhèi;zw diǎn;vh shàng;ba	500
 这点血	zhèi;zw diǎn;vh xuè;pm	120
 这点雪	zhèi;zw diǎn;vh xuě;ye	110
-这电影	zhèi;zw diàn;ov yǐng;op	490
+这电影	zhèi;zw diàn;ov,yv yǐng;op	490
 这点子	zhèi;zw diǎn;vh zi;la	290
 这东东	zhèi;zw dōng;ax dōng;ax	420
-这东西	zhèi;zw dōng;ax xi;ak	680
+这东西	zhèi;zw dōng;ax xi;ak,wk	680
 这都被	zhèi;zw dōu;le bèi;pp	300
 这都不	zhèi;zw dōu;le bù;ab	490
 这都快	zhèi;zw dōu;le kuài;xg	320
@@ -1583,7 +1583,7 @@ sort: by_weight
 这个给	zhèi;zw ge;rl gěi;sk	400
 这个梗	zhèi;zw ge;rl gěng;ag	510
 这个股	zhèi;zw ge;rl gǔ;ou	350
-这个瓜	zhèi;zw ge;rl guā;in	320
+这个瓜	zhèi;zw ge;rl guā;in,vd	320
 这个锅	zhèi;zw ge;rl guō;jn	530
 这个国	zhèi;zw ge;rl guó;wy	340
 这个还	zhèi;zw ge;rl hái;zb	520
@@ -1600,7 +1600,7 @@ sort: by_weight
 这个奖	zhèi;zw ge;rl jiǎng;ld	490
 这个叫	zhèi;zw ge;rl jiào;kj	530
 这个节	zhèi;zw ge;rl jié;ce	460
-这个井	zhèi;zw ge;rl jǐng;ac	270
+这个井	zhèi;zw ge;rl jǐng;ac,el	270
 这个就	zhèi;zw ge;rl jiù;wy	600
 这个酒	zhèi;zw ge;rl jiǔ;dy	400
 这个剧	zhèi;zw ge;rl jù;ud	480
@@ -1702,7 +1702,7 @@ sort: by_weight
 这海上	zhèi;zw hǎi;dm shàng;ba	130
 这还是	zhèi;zw hái;zb shì;oz	610
 这还要	zhèi;zw hái;zb yào;xn	390
-这还用	zhèi;zw hái;zb yòng;kf	400
+这还用	zhèi;zw hái;zb yòng;kf,ol	400
 这还有	zhèi;zw hái;zb yǒu;uo	420
 这还真	zhèi;zw hái;zb zhēn;ub	430
 这孩子	zhèi;zw hái;zr zi;la	600
@@ -1895,7 +1895,7 @@ sort: by_weight
 这里雪	zhèi;zw lǐ;tt xuě;ye	150
 这里也	zhèi;zw lǐ;tt yě;vv	610
 这里有	zhèi;zw lǐ;tt yǒu;uo	710
-这理由	zhèi;zw lǐ;wl yóu;ol	350
+这理由	zhèi;zw lǐ;wl yóu;ol,lt	350
 这里找	zhèi;zw lǐ;tt zhǎo;fg	380
 这里住	zhèi;zw lǐ;tt zhù;rv	380
 这俩地	zhèi;zw liǎ;rl dì;ty	220
@@ -1955,7 +1955,7 @@ sort: by_weight
 这美人	zhèi;zw měi;yd rén;pn	160
 这没啥	zhèi;zw méi;du shá;kg	360
 这每天	zhèi;zw měi;pm tiān;ad	290
-这没用	zhèi;zw méi;du yòng;kf	220
+这没用	zhèi;zw méi;du yòng;kf,ol	220
 这没有	zhèi;zw méi;du yǒu;uo	500
 这妹子	zhèi;zw mèi;nw zi;la	450
 这门课	zhèi;zw mén;dv kè;yg	590
@@ -2095,7 +2095,7 @@ sort: by_weight
 这实习	zhèi;zw shí;bd xí;vd	110
 这是想	zhèi;zw shì;oz xiǎng;ax	370
 这是些	zhèi;zw shì;oz xiē;ve	280
-这是由	zhèi;zw shì;oz yóu;ol	550
+这是由	zhèi;zw shì;oz yóu;ol,lt	550
 这是咋	zhèi;zw shì;oz zǎ;kv	280
 这是在	zhèi;zw shì;oz zài;ut	630
 这是正	zhèi;zw shì;oz zhèng;av	270
@@ -2162,7 +2162,7 @@ sort: by_weight
 这碗粥	zhèi;zw wǎn;uv zhōu;gm	280
 这网络	zhèi;zw wǎng;kx luò;sk	260
 这网速	zhèi;zw wǎng;kx sù;zu	200
-这未必	zhèi;zw wèi;aa bì;xp	340
+这未必	zhèi;zw wèi;aa,er bì;xp	340
 这胃口	zhèi;zw wèi;to kǒu;la	200
 这位老	zhèi;zw wèi;rl lǎo;lb	450
 这位是	zhèi;zw wèi;rl shì;oz	440
@@ -2305,7 +2305,7 @@ sort: by_weight
 这样走	zhèi;zw yàng;ay zǒu;tz	420
 这样做	zhèi;zw yàng;ay zuò;rw	720
 这要看	zhèi;zw yào;xn kàn;uo	520
-这要求	zhèi;zw yāo;xn qiú;au	490
+这要求	zhèi;zw yāo;xn qiú;au,ad	490
 这也不	zhèi;zw yě;vv bù;ab	490
 这也成	zhèi;zw yě;vv chéng;gv	350
 这也带	zhèi;zw yě;vv dài;cj	190
@@ -2342,7 +2342,7 @@ sort: by_weight
 这一场	zhèi;zw yì;aa chǎng;tp	540
 这一出	zhèi;zw yì;aa chū;uu	410
 这一处	zhèi;zw yí;aa chù;wb	390
-这一串	zhèi;zw yí;aa chuàn;kl	390
+这一串	zhèi;zw yí;aa chuàn;kl,vv	390
 这一次	zhèi;zw yí;aa cì;dq	700
 这一代	zhèi;zw yí;aa dài;rg	600
 这一带	zhèi;zw yí;aa dài;cj	540
@@ -2408,7 +2408,7 @@ sort: by_weight
 这一期	zhèi;zw yì;aa qī;co	530
 这一切	zhèi;zw yí;aa qiè;qd	690
 这一去	zhèi;zw yí;aa qù;ts	380
-这一曲	zhèi;zw yì;aa qǔ;wc	320
+这一曲	zhèi;zw yì;aa qǔ;wc,ck	320
 这一日	zhèi;zw yí;aa rì;wa	380
 这一身	zhèi;zw yì;aa shēn;zc	480
 这一生	zhèi;zw yì;aa shēng;pf	580
@@ -2532,7 +2532,7 @@ sort: by_weight
 这周二	zhèi;zw zhōu;kk èr;aa	270
 这周还	zhèi;zw zhōu;kk hái;zb	230
 这周六	zhèi;zw zhōu;kk liù;wb	390
-这周末	zhèi;zw zhōu;kk mò;aa	490
+这周末	zhèi;zw zhōu;kk mò;aa,er	490
 这周内	zhèi;zw zhōu;kk nà;kr	240
 这周日	zhèi;zw zhōu;kk rì;wa	340
 这周三	zhèi;zw zhōu;kk sān;ae	290
@@ -2574,7 +2574,7 @@ sort: by_weight
 耳熟	ěr;ol shóu;wh	754
 刚熟	gāng;kd shóu;wh	1948
 搞熟	gǎo;fk shóu;wh	333
-瓜熟	guā;in shóu;wh	51
+瓜熟	guā;in,vd shóu;wh	51
 过熟	guò;zc shóu;wh	500
 果熟	guǒ;ta shóu;wh	470
 很熟	hěn;rg shóu;wh	2095
@@ -2630,19 +2630,19 @@ sort: by_weight
 熟透	shóu;wh tòu;zn	8313
 熟悉	shóu;wh xī;mx	268
 熟虾	shóu;wh xiā;ix	1696
-熟用	shóu;wh yòng;kf	853
+熟用	shóu;wh yòng;kf,ol	853
 熟油	shóu;wh yóu;dy	189
 睡熟	shuì;ot shóu;wh	2974
 太熟	tài;dd shóu;wh	2861
 挺熟	tǐng;fw shóu;wh	776
 玩熟	wán;wy shóu;wh	159
-未熟	wèi;aa shóu;wh	318
+未熟	wèi;aa,er shóu;wh	318
 我熟	wǒ;ga shóu;wh	399
 娴熟	xián;na shóu;wh	340
 相熟	xiāng;ao shóu;wh	707
 眼熟	yǎn;og shóu;wh	751
 一熟	yì;aa shóu;wh	478
-用熟	yòng;kf shóu;wh	12213
+用熟	yòng;kf,ol shóu;wh	12213
 再熟	zài;ar shóu;wh	2104
 炸熟	zhà;hv shóu;wh	208
 蒸熟	zhēng;ch shóu;wh	4262
@@ -2904,9 +2904,9 @@ sort: by_weight
 托熟人	tuō;fq shóu;wh rén;pn	160
 玩熟了	wán;wy shóu;wh le;al	180
 喂不熟	wèi;ky bù;ab shóu;wh	120
-未熟的	wèi;aa shóu;wh de;bu	1478
-未熟透	wèi;aa shóu;wh tòu;zn	170
-未煮熟	wèi;aa zhǔ;lh shóu;wh	210
+未熟的	wèi;aa,er shóu;wh de;bu	1478
+未熟透	wèi;aa,er shóu;wh tòu;zn	170
+未煮熟	wèi;aa,er zhǔ;lh shóu;wh	210
 我不熟	wǒ;ga bù;ab shóu;wh	511
 我都熟	wǒ;ga dōu;le shóu;wh	642
 我很熟	wǒ;ga hěn;rg shóu;wh	786
@@ -2934,7 +2934,7 @@ sort: by_weight
 也熟悉	yě;vv shóu;wh xī;mx	470
 烫熟	tàng;dh shóu;wh	990
 一锅熟	yì;aa guō;jn shóu;wh	100
-用熟了	yòng;kf shóu;wh le;al	180
+用熟了	yòng;kf,ol shóu;wh le;al	180
 又不熟	yòu;vn bù;ab shóu;wh	160
 有熟人	yǒu;uo shóu;wh rén;pn	286
 园梅熟	yuán;wy méi;am shóu;wh	10
@@ -3064,7 +3064,7 @@ sort: by_weight
 谁要	shéi;yv yào;xn	530
 谁也	shéi;yv yě;vv	670
 谁赢	shéi;yv yíng;wb	470
-谁用	shéi;yv yòng;kf	510
+谁用	shéi;yv yòng;kf,ol	510
 谁有	shéi;yv yǒu;uo	630
 谁又	shéi;yv yòu;vn	550
 谁与	shéi;yv yǔ;va	400
@@ -3084,9 +3084,9 @@ sort: by_weight
 像谁	xiàng;ru shéi;yv	400
 笑谁	xiào;vy shéi;yv	240
 选谁	xuǎn;ze shéi;yv	470
-用谁	yòng;kf shéi;yv	370
+用谁	yòng;kf,ol shéi;yv	370
 有谁	yǒu;uo shéi;yv	630
-由谁	yóu;ol shéi;yv	500
+由谁	yóu;ol,lt shéi;yv	500
 与谁	yǔ;va shéi;yv	460
 怨谁	yuàn;xx shéi;yv	350
 找谁	zhǎo;fg shéi;yv	530
@@ -3139,7 +3139,7 @@ sort: by_weight
 该谁出	gāi;yr shéi;yv chū;uu	160
 该信谁	gāi;yr xìn;rk shéi;yv	340
 该选谁	gāi;yr xuǎn;ze shéi;yv	310
-该由谁	gāi;yr yóu;ol shéi;yv	400
+该由谁	gāi;yr yóu;ol,lt shéi;yv	400
 该找谁	gāi;yr zhǎo;fg shéi;yv	400
 干掉谁	gàn;au diào;fu shéi;yv	240
 告诉谁	gào;nk sù;yi shéi;yv	230
@@ -3435,7 +3435,7 @@ sort: by_weight
 谁害怕	shéi;yv hài;bk pà;xb	210
 谁还去	shéi;yv hái;zb qù;ts	360
 谁还要	shéi;yv hái;zb yào;xn	310
-谁还用	shéi;yv hái;zb yòng;kf	310
+谁还用	shéi;yv hái;zb yòng;kf,ol	310
 谁还有	shéi;yv hái;zb yǒu;uo	400
 谁还在	shéi;yv hái;zb zài;ut	310
 谁好看	shéi;yv hǎo;nz kàn;uo	290
@@ -3585,7 +3585,7 @@ sort: by_weight
 谁是狗	shéi;yv shì;oz gǒu;qj	280
 谁是谁	shéi;yv shì;oz shéi;yv	470
 谁是我	shéi;yv shì;oz wǒ;ga	270
-谁使用	shéi;yv shǐ;rl yòng;kf	280
+谁使用	shéi;yv shǐ;rl yòng;kf,ol	280
 谁是主	shéi;yv shì;oz zhǔ;wt	230
 谁是猪	shéi;yv shì;oz zhū;qo	180
 谁收藏	shéi;yv shōu;jw cáng;ci	130
@@ -3672,7 +3672,7 @@ sort: by_weight
 谁一天	shéi;yv yì;aa tiān;ad	160
 谁赢了	shéi;yv yíng;wb le;al	390
 谁影响	shéi;yv yǐng;op xiǎng;kk	220
-谁用过	shéi;yv yòng;kf guò;zc	460
+谁用过	shéi;yv yòng;kf,ol guò;zc	460
 谁拥有	shéi;yv yōng;fy yǒu;uo	410
 谁有病	shéi;yv yǒu;uo bìng;bn	230
 谁有发	shéi;yv yǒu;uo fā;fy	140
@@ -3695,7 +3695,7 @@ sort: by_weight
 谁在玩	shéi;yv zài;ut wán;wy	230
 谁在线	shéi;yv zài;ut xiàn;sj	90
 谁在意	shéi;yv zài;ut yì;lx	290
-谁在用	shéi;yv zài;ut yòng;kf	310
+谁在用	shéi;yv zài;ut yòng;kf,ol	310
 谁照顾	shéi;yv zhào;oh gù;iy	290
 谁找你	shéi;yv zhǎo;fg nǐ;rx	180
 谁挣钱	shéi;yv zhèng;fy qián;jj	220
@@ -3793,13 +3793,13 @@ sort: by_weight
 依靠谁	yī;ry kào;nf shéi;yv	320
 依赖谁	yī;ry lài;ub shéi;yv	190
 因为谁	yīn;wd wèi;ld shéi;yv	420
-用谁的	yòng;kf shéi;yv de;bu	310
+用谁的	yòng;kf,ol shéi;yv de;bu	310
 又被谁	yòu;vn bèi;pp shéi;yv	220
 又是谁	yòu;vn shì;oz shéi;yv	470
 有谁把	yǒu;uo shéi;yv bǎ;fb	180
 有谁家	yǒu;uo shéi;yv jiā;bu	200
 有谁看	yǒu;uo shéi;yv kàn;uo	240
-由谁来	yóu;ol shéi;yv lái;aa	470
+由谁来	yóu;ol,lt shéi;yv lái;aa	470
 有谁来	yǒu;uo shéi;yv lái;aa	310
 有谁怜	yǒu;uo shéi;yv lián;xs	280
 优谁劣	yōu;ry shéi;yv liè;ul	10
@@ -3840,7 +3840,7 @@ sort: by_weight
 最后谁	zuì;oy hòu;ik shéi;yv	400
 爱谁谁吧	ài;vy shéi;yv shéi;yv ba;kb	29
 暗恋过谁	àn;oo liàn;wx guò;zc shéi;yv	1
-白云谁侣	bái;po yún;ag shéi;yv lǚ;rk	1
+白云谁侣	bái;po yún;ag,es shéi;yv lǚ;rk	1
 被谁抛弃	bèi;pp shéi;yv pāo;fl qì;wc	33
 被谁杀了	bèi;pp shéi;yv shā;xa le;al	14
 被谁调戏	bèi;pp shéi;yv tiáo;yk xì;yg	1
@@ -4046,8 +4046,8 @@ sort: by_weight
 谁的初吻	shéi;yv de;bu chū;pd wěn;kw	1
 谁的蛋糕	shéi;yv de;bu dàn;zi gāo;mh	25
 谁的地方	shéi;yv de;bu dì;ty fāng;wv	1
-谁的电话	shéi;yv de;bu diàn;ov huà;yu	34
-谁的电脑	shéi;yv de;bu diàn;ov nǎo;ox	1
+谁的电话	shéi;yv de;bu diàn;ov,yv huà;yu	34
+谁的电脑	shéi;yv de;bu diàn;ov,yv nǎo;ox	1
 谁的儿子	shéi;yv de;bu ér;pv zi;la	33
 谁的房子	shéi;yv de;bu fáng;hf zi;la	21
 谁的粉丝	shéi;yv de;bu fěn;mf sī;sa	38
@@ -4145,7 +4145,7 @@ sort: by_weight
 谁来接班	shéi;yv lái;aa jiē;fn bān;wl	26
 谁来救我	shéi;yv lái;aa jiù;qw wǒ;ga	26
 谁来主宰	shéi;yv lái;aa zhǔ;wt zǎi;bx	16
-谁来阻止	shéi;yv lái;aa zǔ;eq zhǐ;lb	16
+谁来阻止	shéi;yv lái;aa zǔ;eq zhǐ;bl,lu	16
 谁拦得住	shéi;yv lán;fl dé;rc zhù;rv	21
 谁厉害呢	shéi;yv lì;iw hài;bk ne;kb	1
 谁怜夭折	shéi;yv lián;xs yāo;pd zhé;ft	4
@@ -4180,7 +4180,7 @@ sort: by_weight
 谁欺负谁	shéi;yv qī;cq fù;db shéi;yv	24
 谁强谁弱	shéi;yv qiáng;gi shéi;yv ruò;gg	45
 谁轻谁重	shéi;yv qīng;ij shéi;yv zhòng;ql	31
-谁求知道	shéi;yv qiú;au zhī;uk dào;zz	1
+谁求知道	shéi;yv qiú;au,ad zhī;uk dào;zz	1
 谁去打球	shéi;yv qù;ts dǎ;fd qiú;wq	1
 谁娶到你	shéi;yv qǔ;en dào;gd nǐ;rx	11
 谁去给我	shéi;yv qù;ts gěi;sk wǒ;ga	6
@@ -4284,7 +4284,7 @@ sort: by_weight
 谁在说谎	shéi;yv zài;ut shuō;yx huǎng;yi	35
 谁在踢你	shéi;yv zài;ut tī;zw nǐ;rx	1
 谁在武汉	shéi;yv zài;ut wǔ;gv hàn;dy	1
-谁在西安	shéi;yv zài;ut xī;ak ān;bn	1
+谁在西安	shéi;yv zài;ut xī;ak,wk ān;bn	1
 谁在一起	shéi;yv zài;ut yì;aa qǐ;tj	42
 谁在意我	shéi;yv zài;ut yì;lx wǒ;ga	1
 谁在这里	shéi;yv zài;ut zhè;zw lǐ;tt	26
@@ -4312,7 +4312,7 @@ sort: by_weight
 谁知其数	shéi;yv zhī;uk qí;cb shù;mw	12
 谁指使你	shéi;yv zhǐ;fo shǐ;rl nǐ;rx	18
 谁知我心	shéi;yv zhī;uk wǒ;ga xīn;dd	20
-谁知云路	shéi;yv zhī;uk yún;ag lù;zk	1
+谁知云路	shéi;yv zhī;uk yún;ag,es lù;zk	1
 谁知昨天	shéi;yv zhī;uk zuó;ov tiān;ad	20
 谁主沉浮	shéi;yv zhǔ;wt chén;dj fú;dz	48
 谁主浮沉	shéi;yv zhǔ;wt fú;dz chén;dj	26
@@ -4358,15 +4358,15 @@ sort: by_weight
 也没谁了	yě;vv méi;du shéi;yv le;al	40
 以为是谁	yǐ;lr wéi;ld shì;oz shéi;yv	1
 以为谁呢	yǐ;lr wéi;ld shéi;yv ne;kb	1
-用的谁的	yòng;kf de;bu shéi;yv de;bu	1
+用的谁的	yòng;kf,ol de;bu shéi;yv de;bu	1
 又会是谁	yòu;vn huì;ry shì;oz shéi;yv	33
 有没有谁	yǒu;uo méi;du yǒu;uo shéi;yv	47
 又杀了谁	yòu;vn shā;xa le;al shéi;yv	21
-由谁承担	yóu;ol shéi;yv chéng;ln dān;fd	45
-由谁负责	yóu;ol shéi;yv fù;db zé;fb	43
+由谁承担	yóu;ol,lt shéi;yv chéng;ln dān;fd	45
+由谁负责	yóu;ol,lt shéi;yv fù;db zé;fb	43
 有谁会懂	yǒu;uo shéi;yv huì;ry dǒng;xv	13
 又谁咎也	yòu;vn shéi;yv jiù;wk yě;vv	9
-由谁来做	yóu;ol shéi;yv lái;aa zuò;rw	30
+由谁来做	yóu;ol,lt shéi;yv lái;aa zuò;rw	30
 有谁能懂	yǒu;uo shéi;yv néng;sb dǒng;xv	23
 有谁认识	yǒu;uo shéi;yv rèn;yr shi;yv	36
 有谁谁谁	yǒu;uo shéi;yv shéi;yv shéi;yv	21
@@ -4421,7 +4421,7 @@ sort: by_weight
 两个齒	liǎng;ar gè;rl chǐ;vr	1
 两个虫	liǎng;ar gè;rl chóng;vd	1
 两个巛	liǎng;ar gè;rl chuān;vv	457
-两个串	liǎng;ar gè;rl chuàn;kl	427
+两个串	liǎng;ar gè;rl chuàn;kl,vv	427
 两个朿	liǎng;ar gè;rl cì;ub	1446
 两个大	liǎng;ar gè;rl dà;ar	1455
 两个歹	liǎng;ar gè;rl dǎi;ax	1
@@ -4440,7 +4440,7 @@ sort: by_weight
 两个戈	liǎng;ar gè;rl gē;yd	1
 两个弓	liǎng;ar gè;rl gōng;vv	1
 两个古	liǎng;ar gè;rl gǔ;uk	1
-两个瓜	liǎng;ar gè;rl guā;in	416
+两个瓜	liǎng;ar gè;rl guā;in,vd	416
 两个果	liǎng;ar gè;rl guǒ;ta	754
 两个𢎘	liǎng;ar gè;rl hàn;av	1
 两个禾	liǎng;ar gè;rl hé;pa	1
@@ -4456,7 +4456,7 @@ sort: by_weight
 两个巾	liǎng;ar gè;rl jīn;kl	781
 两个金	liǎng;ar gè;rl jīn;rb	751
 两个斤	liǎng;ar gè;rl jīn;it	721
-两个井	liǎng;ar gè;rl jǐng;ac	1
+两个井	liǎng;ar gè;rl jǐng;ac,el	1
 两个竟	liǎng;ar gè;rl jìng;le	1
 两个竞	liǎng;ar gè;rl jìng;lx	1
 两个九	liǎng;ar gè;rl jiǔ;pv	1
@@ -4482,7 +4482,7 @@ sort: by_weight
 两个目	liǎng;ar gè;rl mù;we	1
 两个男	liǎng;ar gè;rl nán;tl	1334
 两个𡥦	liǎng;ar gè;rl nǐ;zz	691
-两个廿	liǎng;ar gè;rl niàn;ca	1110
+两个廿	liǎng;ar gè;rl niàn;ca,ak	1110
 两个卄	liǎng;ar gè;rl niàn;al	1080
 两个鸟	liǎng;ar gè;rl niǎo;na	1
 两个牛	liǎng;ar gè;rl niú;pu	650
@@ -4505,11 +4505,11 @@ sort: by_weight
 两个山	liǎng;ar gè;rl shān;kl	655
 两个善	liǎng;ar gè;rl shàn;yk	625
 两个舌	liǎng;ar gè;rl shé;qk	1
-两个申	liǎng;ar gè;rl shēn;ol	583
+两个申	liǎng;ar gè;rl shēn;ol,yl	583
 两个生	liǎng;ar gè;rl shēng;pf	202
-两个尸	liǎng;ar gè;rl shī;kp	804
+两个尸	liǎng;ar gè;rl shī;kp,vp	804
 两个石	liǎng;ar gè;rl shí;ak	774
-两个示	liǎng;ar gè;rl shì;ex	744
+两个示	liǎng;ar gè;rl shì;ex,ax	744
 两个豕	liǎng;ar gè;rl shǐ;au	714
 两个手	liǎng;ar gè;rl shǒu;pf	1074
 两个束	liǎng;ar gè;rl shù;gr	1200
@@ -4534,7 +4534,7 @@ sort: by_weight
 两个辛	liǎng;ar gè;rl xīn;lu	710
 两个兄	liǎng;ar gè;rl xiōng;ke	1
 两个玄	liǎng;ar gè;rl xuán;wy	547
-两个牙	liǎng;ar gè;rl yá;gp	534
+两个牙	liǎng;ar gè;rl yá;gp,ac	534
 两个言	liǎng;ar gè;rl yán;wk	812
 两个炎	liǎng;ar gè;rl yán;hh	782
 两个羊	liǎng;ar gè;rl yáng;bf	758
@@ -4557,7 +4557,7 @@ sort: by_weight
 两个禺	liǎng;ar gè;rl yú;td	511
 两个曰	liǎng;ar gè;rl yuē;wa	18817
 两个真	liǎng;ar gè;rl zhēn;ub	808
-两个止	liǎng;ar gè;rl zhǐ;lb	709
+两个止	liǎng;ar gè;rl zhǐ;bl,lu	709
 两个支	liǎng;ar gè;rl zhī;uy	679
 两个隻	liǎng;ar gè;rl zhī;ry	649
 两个至	liǎng;ar gè;rl zhì;gt	619
@@ -4593,14 +4593,14 @@ sort: by_weight
 三个盖	sān;ae gè;rl gài;ym	1
 三个个	sān;ae gè;rl gè;rl	628
 三个弓	sān;ae gè;rl gōng;vv	376
-三个瓜	sān;ae gè;rl guā;in	1
+三个瓜	sān;ae gè;rl guā;in,vd	1
 三个光	sān;ae gè;rl guāng;xe	1
 三个果	sān;ae gè;rl guǒ;ta	1
 三个寒	sān;ae gè;rl hán;bd	1
 三个户	sān;ae gè;rl hù;du	416
 三个火	sān;ae gè;rl huǒ;br	1
 三个吉	sān;ae gè;rl jí;tk	1
-三个甲	sān;ae gè;rl jiǎ;ol	624
+三个甲	sān;ae gè;rl jiǎ;ol,tl	624
 三个加	sān;ae gè;rl jiā;lk	594
 三个介	sān;ae gè;rl jiè;rl	1
 三个金	sān;ae gè;rl jīn;rb	646
@@ -4650,7 +4650,7 @@ sort: by_weight
 三个少	sān;ae gè;rl shǎo;xp	1
 三个舌	sān;ae gè;rl shé;qk	1
 三个舍	sān;ae gè;rl shě;rg	1
-三个申	sān;ae gè;rl shēn;ol	1
+三个申	sān;ae gè;rl shēn;ol,yl	1
 三个生	sān;ae gè;rl shēng;pf	76
 三个市	sān;ae gè;rl shì;wj	568
 三个十	sān;ae gè;rl shí;al	538
@@ -4682,7 +4682,7 @@ sort: by_weight
 三个也	sān;ae gè;rl yě;vv	1
 三个宜	sān;ae gè;rl yí;bq	48
 三个因	sān;ae gè;rl yīn;wd	1
-三个用	sān;ae gè;rl yòng;kf	1
+三个用	sān;ae gè;rl yòng;kf,ol	1
 三个又	sān;ae gè;rl yòu;vn	1
 三个魚	sān;ae gè;rl yú;dh	1
 三个玉	sān;ae gè;rl yù;wd	1
@@ -4690,7 +4690,7 @@ sort: by_weight
 三个厡	sān;ae gè;rl yuán;iu	576
 三个雲	sān;ae gè;rl yún;yy	1
 三个爪	sān;ae gè;rl zhǎo;in	1
-三个止	sān;ae gè;rl zhǐ;lb	664
+三个止	sān;ae gè;rl zhǐ;bl,lu	664
 三个直	sān;ae gè;rl zhí;uq	634
 三个𠙽	sān;ae gè;rl zhì;kt	604
 三个𦉼	sān;ae gè;rl zhì;sd	574
@@ -4717,7 +4717,7 @@ sort: by_weight
 四个工	sì;we gè;rl gōng;aa	1
 四个果	sì;we gè;rl guǒ;ta	1
 四个火	sì;we gè;rl huǒ;br	1
-四个甲	sì;we gè;rl jiǎ;ol	1
+四个甲	sì;we gè;rl jiǎ;ol,tl	1
 四个金	sì;we gè;rl jīn;rb	1
 四个口	sì;we gè;rl kǒu;la	583
 四个困	sì;we gè;rl kùn;wa	1

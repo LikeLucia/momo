@@ -8,7 +8,7 @@ name: fangyan
 version: "LTS"
 sort: by_weight
 ...
-嗍粉克不咯	suō;ko fěn;mf kè;ux bù;ab gē;kk
+嗍粉克不咯	suō;ko fěn;mf kè;ux,ge bù;ab gē;kk
 嬎蛋	fàn;nu dàn;zi
 #北方方言-晋方言-大包片-大同小片
 红话	hóng;sg huà;yu
@@ -29,14 +29,14 @@ sort: by_weight
 疙塌	gē;bv tā;tx
 磋着	cuō;ug zhe;yo
 溶噶	róng;dg gá;kr
-乃心	nǎi;pv xīn;dd
+乃心	nǎi;pv,vp xīn;dd
 噶切	gá;kr qiè;qd
 切吧	qiè;qd ba;kb
 各乐儿	gè;wk lè;px er;pv
 山各拉	shān;kl gè;wk lā;fl
 滚略	gǔn;dg lüè;tk
 尿兴	niào;uu xīng;xb
-愣求噶	lèng;xf qiú;au gá;kr
+愣求噶	lèng;xf qiú;au,ad gá;kr
 成色	chéng;gv sè;db
 各泡	gè;wk pào;db
 玉茭	yù;wd jiāo;cf
@@ -125,8 +125,8 @@ sort: by_weight
 个抽	gè;rl chōu;fy
 揪决	jiū;fh jué;dg
 忽沙	hū;wx shā;du
-尿西	niào;uu xī;ak
-瓜达	guā;in dá;zd
+尿西	niào;uu xī;ak,wk
+瓜达	guā;in,vd dá;zd
 旅忽	lǚ;fy hū;wx
 个绕	gè;rl rào;sw
 忽绕	hū;wx rào;sw
@@ -145,7 +145,7 @@ sort: by_weight
 失溜二眼	shī;pf liū;dt èr;aa yǎn;og
 瞎眉触眼	xiā;ok méi;uo chù;di yǎn;og
 颠毛颤眼	diān;uy máo;pv chàn;wy yǎn;og
-求眉杏眼	qiú;au méi;uo xìng;ak yǎn;og
+求眉杏眼	qiú;au,ad méi;uo xìng;ak yǎn;og
 瓷眉杏眼	cí;dw méi;uo xìng;ak yǎn;og
 囊眉凤眼	náng;gy méi;uo fèng;jy yǎn;og
 光眉俊眼	guāng;xe méi;uo jùn;rw yǎn;og
@@ -175,7 +175,7 @@ sort: by_weight
 愣七砍八	lèng;xf qī;av kǎn;uq bā;pn
 陈里圪色	chén;ed lǐ;tt gē;tv sè;db
 精说白道	jīng;mo shuō;yx bái;po dào;zz
-跌东舀西	diē;zf dōng;ax yǎo;vj xī;ak
+跌东舀西	diē;zf dōng;ax yǎo;vj xī;ak,wk
 仄愣散偏	zè;ir lèng;xf sàn;cw piān;rc
 毛反带乱	máo;pv fǎn;iy dài;cj luàn;uv
 打架各厌	dǎ;fd jià;la gè;wk yàn;iq
@@ -189,9 +189,9 @@ sort: by_weight
 白皮泛脸	bái;po pí;py fàn;df liǎn;oq
 平不呀查	píng;au bù;ab ya;ky chá;ad
 虚棱凳架	xū;hy léng;aw dèng;bj jià;la
-龇牙打调	zī;vb yá;gp dǎ;fd diào;yk
+龇牙打调	zī;vb yá;gp,ac dǎ;fd diào;yk
 吐天洼地	tǔ;kt tiān;ad wā;dt dì;ty
-打牙讪嘴	dǎ;fd yá;gp shàn;yu zuǐ;ky
+打牙讪嘴	dǎ;fd yá;gp,ac shàn;yu zuǐ;ky
 嘴尖毛长	zuǐ;ky jiān;xd máo;pv cháng;pn
 闪深踏浅	shǎn;mr shēn;da tà;zo qiǎn;dj
 横搅顺说	héng;ab jiǎo;fj shùn;iy shuō;yx
@@ -200,7 +200,7 @@ sort: by_weight
 歪三仄愣	wāi;bv sān;ae zè;ir lèng;xf
 哇叽吵闹	wa;kt jī;kj chǎo;ku nào;mj
 鬼七裂八	guǐ;ps qī;av liè;dy bā;pn
-云山雾罩	yún;ag shān;kl wù;yl zhào;su
+云山雾罩	yún;ag,es shān;kl wù;yl zhào;su
 磨鼻蹭痒	mó;gu bí;zw cèng;zo yǎng;by
 寡鼻六说	guǎ;bf bí;zw liù;wb shuō;yx
 多鼻咳嗽	duō;xx bí;zw ké;kr sòu;kq
@@ -223,9 +223,9 @@ sort: by_weight
 神头鬼脸	shén;pu tóu;dd guǐ;ps liǎn;oq
 扒头上脸	bā;fb tóu;dd shàng;ba liǎn;oq
 白不理正	bái;po bù;ab lǐ;wl zhèng;av
-本不牙叉	běn;aa bù;ab yá;gp chā;yd
-不由分水	bù;ab yóu;ol fēn;bd shuǐ;ln
-大口马牙	dà;ar kǒu;la mǎ;va yá;gp
+本不牙叉	běn;aa bù;ab yá;gp,ac chā;yd
+不由分水	bù;ab yóu;ol,lt fēn;bd shuǐ;ln
+大口马牙	dà;ar kǒu;la mǎ;va yá;gp,ac
 点着吹美	diǎn;vh zháo;yo chuī;kq měi;yd
 厾几厾达	dū;vq jǐ;pv dū;vq dá;zd
 鬼声夜气	guǐ;ps shēng;tu yè;ww qì;pv
@@ -236,7 +236,7 @@ sort: by_weight
 尖言诈语	jiān;xd yán;wk zhà;yv yǔ;yk
 讲经说法	jiǎng;yj jīng;sj shuō;yx fǎ;dq
 扇扇达达	shàn;hx shàn;hx dá;zd dá;zd
-私由作翻	sī;hs yóu;ol zuò;rv fān;mx
+私由作翻	sī;hs yóu;ol,lt zuò;rv fān;mx
 跌跟抢头	diē;zf gēn;zg qiǎng;fv tóu;dd
 横躺竖卧	héng;ab tǎng;uk shù;ll wò;ib
 精七明八	jīng;mo qī;av míng;oo bā;pn
@@ -247,13 +247,13 @@ sort: by_weight
 圪思圪忍	gē;tv sī;tx gē;tv rěn;dx
 圪折摆势	gē;tv zhé;ft bǎi;fq shì;fl
 忽松咬沓	hū;wx sōng;ag yǎo;kf dá;uo
-豁沟打牙	huō;bg gōu;dg dǎ;fd yá;gp
+豁沟打牙	huō;bg gōu;dg dǎ;fd yá;gp,ac
 死松破肚	sǐ;db sōng;ag pò;up dù;ot
 冷清客气	lěng;ds qīng;do kè;bk qi;pv
 翻鼻麻叶	fān;mx bí;zw má;ga yè;ku
 软鸡圪能	ruǎn;iq jī;yn gē;tv néng;sb
 迷糊打蛋	mí;zm hu;mo dǎ;fd dàn;zi
-死求一记	sǐ;db qiú;au yí;aa jì;yj
+死求一记	sǐ;db qiú;au,ad yí;aa jì;yj
 秃嘴笨舌	tū;hj zuǐ;ky bèn;vb shé;qk
 四大不挨	sì;we dà;ar bù;ab āi;fu
 讨吃乱鬼	tǎo;yc chī;kv luàn;uv guǐ;ps
@@ -333,7 +333,7 @@ sort: by_weight
 了难	liǎo;al nán;yv
 恰得苦	qià;xk dé;rc kǔ;cg
 恰点酒	qià;xk diǎn;vh jiǔ;dy
-恰点东西	qià;xk diǎn;vh dōng;ax xi;ak
+恰点东西	qià;xk diǎn;vh dōng;ax xi;ak,wk
 #粤方言
 饱咗	bǎo;ub zuo;kg
 睇戏	dì;od xì;yg
